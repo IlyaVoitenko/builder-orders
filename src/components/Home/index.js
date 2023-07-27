@@ -4,7 +4,7 @@ import Sliders from "./Sliders";
 const Home = () => {
   return (
     <div>
-      Home
+      Hello world!
       <Sliders />
     </div>
   );
