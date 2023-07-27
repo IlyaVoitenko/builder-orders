@@ -1,8 +1,13 @@
 import React from "react";
-import style from "./style.module.css";
+import Sliders from "./Sliders";
 
 const Home = () => {
-  return <div className={style.container}>Home</div>;
+  return (
+    <div>
+      Home
+      <Sliders />
+    </div>
+  );
 };
 
 export default Home;
