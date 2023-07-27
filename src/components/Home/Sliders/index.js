@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import Slider from "react-slick";
 import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/ai";
+import "./style.css";
 
 import first from "./first.jpg";
 import second from "./second.jpg";
