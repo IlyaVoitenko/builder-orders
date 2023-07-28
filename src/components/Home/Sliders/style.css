@@ -9,3 +9,9 @@
 .slick-dots li.slick-active button:before {
   color: white;
 }
+.slick-prev,
+.slick-next {
+  position: static;
+  width: 0px;
+  height: 0px;
+}

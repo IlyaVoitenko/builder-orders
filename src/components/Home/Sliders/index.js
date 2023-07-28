@@ -27,7 +27,7 @@ const Sliders = () => {
   };
   const images = [{ src: first }, { src: second }, { src: three }];
   return (
-    <div className="relative">
+    <div className="relative top-0 left-0">
       <Slider ref={sliderRef} {...settings}>
         {images.map((item, index) => (
           <img src={item.src} key={index} className="h-96" alt="logo" />
