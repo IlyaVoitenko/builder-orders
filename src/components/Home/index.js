@@ -2,6 +2,7 @@ import React from "react";
 import Sliders from "./Sliders";
 import Context from "./Context";
 import Categories from "./Categories";
+import Products from "./Products";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <div className="flex justify-center items-center flex-col">
         <Context />
         <Categories />
+        <Products />
       </div>
     </div>
   );
