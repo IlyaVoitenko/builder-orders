@@ -3,7 +3,7 @@ import Sliders from "./Sliders";
 import Context from "./Context";
 import Categories from "./Categories";
 import Products from "./Products";
-
+import Footer from "../Footer";
 const Home = () => {
   return (
     <div>
@@ -13,6 +13,7 @@ const Home = () => {
         <Categories />
         <Products />
       </div>
+      <Footer />
     </div>
   );
 };
