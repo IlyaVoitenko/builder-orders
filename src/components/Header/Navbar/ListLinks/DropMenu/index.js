@@ -28,6 +28,8 @@ const DropMenu = ({arr,title}) => {
         leaveTo="opacity-0 scale-95"
       >
           <div
+           onMouseEnter={()=> setIsOpen(true)}
+           onMouseLeave={()=> setIsOpen(false)}
             className={`${
               isOpen ? "absolute" : "hidden"
             }  w-56 mt-2 origin-top-right bg-white rounded-md shadow-lg`}
