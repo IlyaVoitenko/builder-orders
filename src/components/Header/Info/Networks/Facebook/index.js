@@ -3,11 +3,11 @@ import { FaFacebookF } from "react-icons/fa";
 
 const Facebook = () => {
   return (
-    <>
-      <span>
+    <nav>
+      <a href="#">
         <FaFacebookF />
-      </span>
-    </>
+      </a>
+    </nav>
   );
 };
 

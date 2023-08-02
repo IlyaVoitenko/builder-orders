@@ -3,11 +3,11 @@ import { FiInstagram } from "react-icons/fi";
 
 const Instagram = () => {
   return (
-    <>
-      <span>
+    <nav>
+      <a href="#">
         <FiInstagram />
-      </span>
-    </>
+      </a>
+    </nav>
   );
 };
 

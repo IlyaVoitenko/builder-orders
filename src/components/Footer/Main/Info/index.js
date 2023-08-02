@@ -8,8 +8,8 @@ const Info = () => {
         eirmod tempor invidunt ut
       </span>
       <br></br>
-      <span>phone:+33333333</span>
-      <span>email:temlate@werwe.com</span>
+      <section>phone:+33333333</section>
+      <section>email:temlate@werwe.com</section>
       <br></br>
       <span>
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
