@@ -4,10 +4,10 @@ import Main from "./Main";
 
 const Footer = () => {
   return (
-    <div className="flex flex-col mt-[10%] bg-blue-500">
+    <footer className="flex flex-col mt-[10%] bg-blue-500">
       <Title />
       <Main />
-    </div>
+    </footer>
   );
 };
 

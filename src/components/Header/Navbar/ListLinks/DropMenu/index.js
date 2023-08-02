@@ -33,9 +33,8 @@ const DropMenu = ({ arr, title }) => {
         <div
           onMouseEnter={() => setIsOpenMenu(true)}
           onMouseLeave={() => setIsOpenMenu(false)}
-          className={`${
-            isOpenMenu ? "absolute" : "hidden"
-          }  w-56  origin-top-right bg-white rounded-md shadow-lg `}
+          className={`${isOpenMenu ? "absolute" : "hidden"} 
+           w-56  origin-top-right  rounded-md pt-[60px] mr-10`}
           role="menu"
           aria-orientation="vertical"
           aria-labelledby="options-menu"

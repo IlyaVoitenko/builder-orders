@@ -1,12 +1,14 @@
-import React from 'react'
-import MenuItem from '../MenuItem'
+import React from "react";
+import MenuItem from "../MenuItem";
 
-const MenuList = ({arr}) => {
+const MenuList = ({ arr }) => {
   return (
-    <div className="py-1 " role="none">
-        {arr.map((item,index)=><MenuItem item={item} key={index}/>)}
+    <div className=" bg-white " role="none">
+      {arr.map((item, index) => (
+        <MenuItem item={item} key={index} index={index} />
+      ))}
     </div>
-  )
-}
+  );
+};
 
-export default MenuList
+export default MenuList;

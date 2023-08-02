@@ -4,10 +4,10 @@ import Navbar from "./Navbar";
 
 const Header = () => {
   return (
-    <div className="flex flex-col">
+    <header className="flex flex-col">
       <Info />
       <Navbar />
-    </div>
+    </header>
   );
 };
 
