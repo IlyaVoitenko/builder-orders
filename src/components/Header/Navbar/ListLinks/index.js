@@ -8,7 +8,7 @@ const ListLinks = () => {
     <ul className="flex flex-row items-center justify-between font-bold w-[40%]">
       <li>
         <nav>
-          <Link href="/">HOME</Link>
+          <Link to="/">HOME</Link>
         </nav>
       </li>
       <li>
@@ -19,12 +19,12 @@ const ListLinks = () => {
       </li>
       <li>
         <nav>
-          <Link href="/">FOTOGALERY</Link>
+          <Link to="/photo-gallery">FOTOGALERY</Link>
         </nav>
       </li>
       <li>
         <nav>
-          <Link href="/">LOGIN DETAILS</Link>
+          <Link to="/">LOGIN DETAILS</Link>
         </nav>
       </li>
       <li>

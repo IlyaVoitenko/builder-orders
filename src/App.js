@@ -6,6 +6,7 @@ import Layout from "./components/Layout";
 import "./App.css";
 
 const Home = lazy(() => import("./pages/HomePage"));
+const PhotoGallery = lazy(() => import("./pages/PhotoGalleryPage"));
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
+            <Route path="/photo-gallery" element={<PhotoGallery />} />
           </Route>
         </Routes>
       </BrowserRouter>
