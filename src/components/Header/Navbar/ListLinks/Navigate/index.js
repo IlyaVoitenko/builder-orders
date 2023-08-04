@@ -7,7 +7,9 @@ import { isShowMenuSelector } from "../../../../../store/selectors";
 
 const styleSm = `max-sm:bg-lime-800`;
 const styleMd = `max-md:w-full max-md:bg-blue-800`;
-const styleLg = `max-lg:z-50 max-lg:w-screen	max:lg:left-0	 max-lg:flex-col  max-lg:bg-red-800  `;
+const styleLg = `max-lg:z-50 max-lg:w-screen	max:lg:left-0	 max-lg:flex-col  max-lg:bg-red-800 lg:flex `;
+const styleXl = `xl:flex`;
+const styleXxl = `block`;
 
 const Navigate = () => {
   const isShowMenu = useSelector(isShowMenuSelector);
@@ -15,7 +17,7 @@ const Navigate = () => {
     <ul
       className={`${
         isShowMenu ? "block " : "hidden"
-      } flex flex-row items-center justify-between font-bold w-[40%] ${styleSm}  ${styleMd} ${styleLg}`}
+      } flex flex-row items-center justify-between font-bold w-[40%] ${styleSm}  ${styleMd} ${styleLg} ${styleXl} ${styleXxl}`}
     >
       <li>
         <nav>
