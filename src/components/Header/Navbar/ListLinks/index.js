@@ -1,8 +1,8 @@
 import React from "react";
 import BtnShowMenu from "./BtnShowMenu";
 
-const ListLinks = () => {
+const BtnShowMenu = () => {
   return <BtnShowMenu />;
 };
 
-export default ListLinks;
+export default BtnShowMenu;
