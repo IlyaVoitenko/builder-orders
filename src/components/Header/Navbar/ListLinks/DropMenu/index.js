@@ -6,10 +6,10 @@ import MenuList from "./MenuList";
 const DropMenu = ({ arr, title }) => {
   const [isOpenMenu, setIsOpenMenu] = useState(false);
   return (
-    <div className="relative z-50">
+    <div className="lg:relative    z-40">
       <button
         type="button"
-        className="inline-flex justify-center items-center w-full "
+        className="inline-flex justify-center items-center max-lg:w-screen"
         aria-haspopup="true"
         onMouseEnter={() => {
           setIsOpenMenu(true);
@@ -33,8 +33,10 @@ const DropMenu = ({ arr, title }) => {
         <div
           onMouseEnter={() => setIsOpenMenu(true)}
           onMouseLeave={() => setIsOpenMenu(false)}
-          className={`${isOpenMenu ? "absolute" : "hidden"} 
-           w-56  origin-top-right  rounded-md pt-[60px] mr-10`}
+          className={`${
+            isOpenMenu ? "lg:absolute  max-lg:bg-red-400" : "hidden"
+          } 
+           w-56 max-lg:w-screen origin-top-right  rounded-md lg:pt-[60px]  `}
           role="menu"
           aria-orientation="vertical"
           aria-labelledby="options-menu"
