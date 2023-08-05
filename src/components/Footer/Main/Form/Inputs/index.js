@@ -7,18 +7,18 @@ const Inputs = () => {
 
   return (
     <div>
-      <div className=" flex flex-row justify-between mt-1">
+      <div className=" flex flex-row justify-between max-sm:justify-center mt-1">
         <input
           onChange={({ target }) => setSurname(target.value)}
           value={surname}
           placeholder="surname"
-          className="pt-2 pb-2 pl-2 w-[17rem] mr-"
+          className="pt-2 pb-2 pl-2 w-[17rem] max-sm:w-[10rem]"
         ></input>
         <input
           onChange={({ target }) => setEmail(target.value)}
           value={email}
           placeholder="email"
-          className="pt-2 pb-2 pl-2 w-[17rem]"
+          className="pt-2 pb-2 pl-2 w-[17rem] max-sm:w-[10rem]"
         ></input>
       </div>
       <textarea

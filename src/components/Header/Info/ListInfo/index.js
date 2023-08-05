@@ -2,9 +2,9 @@ import React from "react";
 
 const ListInfo = () => {
   return (
-    <nav className="flex items-center  justify-center	 w-[27%]">
-      <ul className="flex flex-row items-center justify-between  w-full ">
-        <li>
+    <nav className="flex items-center  justify-center	 w-[27%] max-lg:w-screen">
+      <ul className="flex flex-row max-lg:flex-col items-center justify-between  w-full ">
+        <li className="max-lg:mt-2">
           <a href="/">Site Notice</a>
         </li>
         <li>

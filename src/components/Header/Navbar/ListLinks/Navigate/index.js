@@ -1,23 +1,26 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { serviceLinks, productsLinks, contactsLinks } from "../helper";
-import DropMenu from "../DropMenu";
 import { useSelector } from "react-redux";
 import { isShowMenuSelector } from "../../../../../store/selectors";
+import { serviceLinks, productsLinks, contactsLinks } from "../helper";
+import useWindowDimensions from "../../../../useWindowDimensions";
+import ListInfo from "../../../Info/ListInfo";
+import DropMenu from "../DropMenu";
 
-const styleSm = `max-sm:bg-lime-800`;
-const styleMd = `max-md:w-full max-md:bg-blue-800`;
-const styleLg = `max-lg:z-30 max-lg:w-screen	max:lg:left-0	 max-lg:flex-col  max-lg:bg-red-800 lg:flex `;
+const styleSm = ``;
+const styleMd = `max-md:w-full max-md:mt-1`;
+const styleLg = `max-lg:z-30 max-lg:w-screen	max:lg:left-0	 max-lg:flex-col  max-lg:mt-5 lg:flex `;
 const styleXl = `xl:flex`;
 const styleXxl = `2xl:flex`;
 
 const Navigate = () => {
   const isShowMenu = useSelector(isShowMenuSelector);
+  const width = useWindowDimensions();
   return (
     <ul
       className={`${
         isShowMenu ? "block " : "hidden"
-      } flex flex-row items-center justify-between font-bold w-[40%] ${styleSm}  ${styleMd} ${styleLg} ${styleXl} ${styleXxl}`}
+      } flex flex-row items-center bg-white justify-between font-bold w-[40%] ${styleSm}  ${styleMd} ${styleLg} ${styleXl} ${styleXxl}`}
     >
       <li>
         <nav>
@@ -43,6 +46,7 @@ const Navigate = () => {
       <li>
         <DropMenu arr={contactsLinks} title={"CONTACT"} />
       </li>
+      <li>{width < 1024 ? <ListInfo /> : null}</li>
     </ul>
   );
 };
