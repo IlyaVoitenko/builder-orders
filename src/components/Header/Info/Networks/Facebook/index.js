@@ -4,7 +4,7 @@ import { FaFacebookF } from "react-icons/fa";
 const Facebook = () => {
   return (
     <nav>
-      <a href="#">
+      <a href="#" alt="facebook">
         <FaFacebookF />
       </a>
     </nav>

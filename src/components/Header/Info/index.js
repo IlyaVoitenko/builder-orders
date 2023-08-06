@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import useWindowDimensions from "../../useWindowDimensions";
 import Phone from "./Phone";
 import Email from "./Email";

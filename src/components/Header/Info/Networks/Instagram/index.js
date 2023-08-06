@@ -4,7 +4,7 @@ import { FiInstagram } from "react-icons/fi";
 const Instagram = () => {
   return (
     <nav>
-      <a href="#">
+      <a href="#" alt="instagram">
         <FiInstagram />
       </a>
     </nav>

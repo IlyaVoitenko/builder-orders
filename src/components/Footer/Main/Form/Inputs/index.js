@@ -11,13 +11,13 @@ const Inputs = () => {
           onChange={({ target }) => setSurname(target.value)}
           value={surname}
           placeholder="surname"
-          className="pt-2 pb-2 pl-2 w-[17rem] max-sm:w-[94%] "
+          className="pt-2 pb-2 pl-2 max-sm:mt-1 w-[17rem] max-sm:w-[94%] "
         ></input>
         <input
           onChange={({ target }) => setEmail(target.value)}
           value={email}
           placeholder="email"
-          className="pt-2 pb-2 pl-2 w-[17rem] max-sm:w-[94%] "
+          className="pt-2 pb-2 pl-2 max-sm:mt-1 w-[17rem] max-sm:w-[94%] "
         ></input>
       </div>
       <textarea
