@@ -8,7 +8,7 @@ const Products = () => {
       <h2 className="text-center text-4xl font-bold text-blue-500 ">
         Products
       </h2>
-      <nav className="flex justify-between w-[70%] flex-row flex-wrap mt-5">
+      <nav className="flex justify-between w-[70%] max-sm:w-[90%] flex-row flex-wrap mt-5">
         {categoriesList.map((item) => (
           <ItemProduct key={item.id} item={item} />
         ))}

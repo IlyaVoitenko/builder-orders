@@ -4,7 +4,7 @@ import { categoriesList } from "./helper";
 
 const Categories = () => {
   return (
-    <div className="flex  w-3/4 flex-row	justify-around flex-wrap mt-5">
+    <div className="flex  w-3/4 max-sm:w-[95%] flex-row	justify-around flex-wrap mt-5">
       {categoriesList.map((item) => (
         <ItemCategorie key={item.id} item={item} />
       ))}
