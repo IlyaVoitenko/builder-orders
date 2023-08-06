@@ -1,15 +1,20 @@
 import React from "react";
 
 const Info = () => {
+  const styleLg = `max-lg:text-xs   max-lg:w-full lg:h-[23rem] max-lg:pr-[1.25rem] max-lg:pl-[1.25rem]`;
   return (
-    <section className="flex flex-col w-1/5 text-left text-white h-[23rem] ">
+    <section
+      className={`flex  flex-col  w-1/5 text-left text-white  ${styleLg}`}
+    >
       <section>
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
         eirmod tempor invidunt ut
       </section>
       <br></br>
-      <section>phone:+33333333</section>
-      <section>email:temlate@werwe.com</section>
+      <section>
+        <p>phone:+33333333</p>
+        <p>email:temlate@werwe.com</p>
+      </section>
       <br></br>
       <section>
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy

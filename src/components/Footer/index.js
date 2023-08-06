@@ -4,7 +4,7 @@ import Main from "./Main";
 
 const Footer = () => {
   return (
-    <footer className="flex flex-col mt-[10%] bg-blue-500">
+    <footer className="flex flex-col mt-[10%] pb-[1%] bg-blue-500">
       <Title />
       <Main />
     </footer>
