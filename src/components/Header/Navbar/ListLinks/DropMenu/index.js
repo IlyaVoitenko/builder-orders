@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
-import { BsChevronDown } from "react-icons/bs";
+import { BsChevronDown, BsChevronUp } from "react-icons/bs";
 import MenuList from "./MenuList";
 
 const DropMenu = ({ arr, title }) => {
   const [isOpenMenu, setIsOpenMenu] = useState(false);
   return (
-    <div className="lg:relative    z-40">
+    <div className="lg:relative z-40">
       <button
         type="button"
         className="inline-flex justify-center items-center max-lg:w-screen"
@@ -18,7 +18,7 @@ const DropMenu = ({ arr, title }) => {
           setIsOpenMenu(false);
         }}
       >
-        {title} <BsChevronDown />
+        {title}&nbsp; {isOpenMenu ? <BsChevronUp /> : <BsChevronDown />}
       </button>
 
       <Transition

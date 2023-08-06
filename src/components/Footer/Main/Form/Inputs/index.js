@@ -4,9 +4,20 @@ const Inputs = () => {
   const [surname, setSurname] = useState("");
   const [email, setEmail] = useState("");
   const [news, setNews] = useState("");
+
+  const smMaxAdaptiveContainer = `max-sm:flex max-sm:flex-col max-sm:items-center max-sm: justify-center`;
+  const laptopMaxAdaptiveContainer = `max-lg:w-[95%]`;
+  const laptopAdaptiveContainer = `lg:w-[75%]`;
+
+  const inputsSmMaxAdaptive = `max-sm:w-full  max-sm:justify-center max-sm:items-center`;
+  const inputsLaptopAdaptive = `lg:w-full lg:justify-between `;
   return (
-    <div className="max-lg:w-[95%] max-sm:flex max-sm:flex-col max-sm:items-center max-sm: justify-center">
-      <div className=" flex flex-row max-sm:flex-col justify-between  max-sm:w-full  max-sm:justify-center max-sm:items-center mt-1 max-lg:mt-3">
+    <div
+      className={`${laptopMaxAdaptiveContainer}  ${laptopAdaptiveContainer} ${smMaxAdaptiveContainer}`}
+    >
+      <div
+        className={`flex flex-row max-sm:flex-col  ${inputsLaptopAdaptive} ${inputsSmMaxAdaptive}  mt-1 max-lg:mt-3`}
+      >
         <input
           onChange={({ target }) => setSurname(target.value)}
           value={surname}
@@ -25,7 +36,7 @@ const Inputs = () => {
         placeholder="news"
         value={news}
         onChange={({ target }) => setNews(target.value)}
-        className="pt-2 pb-2 pl-2 mt-5 resize-y max-lg:w-full w-full max-sm:w-[94%]"
+        className="pt-2 pb-2 pl-2 mt-5 resize-y max-lg:w-full lg:w-full w-full max-sm:w-[94%]"
       ></textarea>
     </div>
   );
