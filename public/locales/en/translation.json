@@ -1,0 +1,32 @@
+{
+  "home": {
+    "main": {
+      "title-1": "WELCOME",
+      "p-1-1": "STUCKDISCOUNT was founded in Berlin in 2009. At first only stucco was sold and the assembly work was done by different companies. One of the fitters was an engineer and draftsman, today's entrepreneur and managing director, Ali Kanber Aygün. When the founder was looking for a successor due to age, he decided - due to many positive reviews from customers - to pass the company on to him. Today - since 2012 - the company STUCKDISCOUNT has been operated under his management in Berlin as a medium-sized family business, which is guild-certified.",
+      "p-1-2": "Due to our high level of qualification, we attach great importance to good and detailed planning before the implementation of our projects in order to achieve an optimal cost-benefit result for our customers. We would be happy to advise you. Please arrange an appointment with us.",
+      "title-2": "A little journey through the age of stucco",
+      "p-2-1": "Stucco is a term that is known to almost everyone and yet not very much is known about its origin. Stucco has existed since the Neolithic Age and has been used since 7000 BC. to decorate interiors and exteriors. According to history, its origin lies in the city of Catalhöyük (present-day Türkiye). In ancient times, plaster and alabaster were also used for the floor. The Egyptians used the material to immortalize Nefertiti in the form of a bust. But the Greeks also found an interesting way to use stucco, and that was to pour it on their dead. The Romans also used stucco to store fruit and to make wine.",
+      "p-2-2": "In Germany people have been working with stucco since 1473. Palaces and church ceilings in particular were decorated with stucco, which is why pompous stucco designs often come to mind when one thinks of the Renaissance. The baroque period turned out to be the key time for striving for a master plasterer title. Stucco was and is an extremely valuable form of decoration and was considered a luxurious part of style.",
+      "p-2-3": "However, with the beginning of modernism, stucco elements became a thorn in the side of architecture. The term stucco removal was introduced for the first time because stucco was systematically removed from the old buildings, damaging numerous historical objects. Today, the stucco elements are, as they were for most of history, a very noble and indispensable part of interior and exterior furnishings. Stucco is versatile and adapts to a wide variety of styles and completes the overall picture of any facility. It is therefore an honor for us as a plastering company to ensure that an architectural tool like this can continue its history."
+    },
+    "categories": {
+      "btnText": "MORE INFO",
+      "card-1": {
+        "title": "wholesale and retail",
+        "content": "We sell stucco elements made of plaster of the highest quality (natural material alabaster model plaster) from international production and our own production in our workshop in Neukölln, carefully handcrafted."
+      },
+      "card-2": {
+        "title": "Individual production",
+        "content": "We can also realize your most individual wishes in terms of pattern and structure and much more. Let our experts advise you personally without obligation."
+      },
+      "card-3": {
+        "title": "The stucco work",
+        "content": "We assemble our stucco with the utmost care and according to your individual wishes in apartments, houses and commercial properties up to new hotel buildings, as well as in the renovation of old and new buildings."
+      },
+      "card-4": {
+        "title": "impression technique",
+        "content": "We have experience in restoring incomplete stucco elements. We copy and reproduce the existing stucco parts by hand and can thus easily replace the missing parts and close existing gaps."
+      }
+    }
+  }
+}
