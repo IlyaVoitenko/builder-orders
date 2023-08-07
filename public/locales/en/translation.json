@@ -39,7 +39,6 @@
       }
     }
   },
-
   "home": {
     "main": {
       "title-1": "WELCOME",
@@ -72,6 +71,10 @@
     "products": {
       "title": "Products"
     }
+  },
+  "photoGallery": {
+    "title": "Photo gallery",
+    "context": "Here we have put together some impressions for you. All photos are from objects that we have recently worked on and are intended to give you an impression of the many possible uses of stucco - from classic to modern."
   },
   "footer": {
     "location": "Berlin",
