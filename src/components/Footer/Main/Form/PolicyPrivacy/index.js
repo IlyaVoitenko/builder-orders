@@ -1,7 +1,10 @@
 import React from "react";
 import SendBtn from "../SendBtn";
+import { useTranslation } from "react-i18next";
 
 const PolicyPrivacy = ({ setIsAgree, isAgree }) => {
+  const { t } = useTranslation();
+
   const styleLg = ` max-lg:pl-[1.25rem] max-lg:pr-[1.25rem]`;
   return (
     <div
@@ -10,10 +13,7 @@ const PolicyPrivacy = ({ setIsAgree, isAgree }) => {
       <span
         className={`text-white text-left w-[75%] max-lg:w-full max-lg:m-auth ${styleLg}`}
       >
-        Я прочитал примечание о политике конфиденциальности. Я согласен с тем,
-        что мои данные и данные будут собираться и храниться в электронном виде
-        для ответа на мой запрос. Примечание. Вы можете в любое время отозвать
-        свое согласие на будущее, отправив электронное письмо по адресу
+        {t("footer.PolicyPrivacy")}
       </span>
       <div className="flex flex-row text-white max-sm:w-[86%]  w-[79%]">
         <div className="flex w-full items-center mt-2 justify-between max-sm:pl-0 pl-4 border-none border-gray-200 rounded dark:border-gray-700">
@@ -30,10 +30,10 @@ const PolicyPrivacy = ({ setIsAgree, isAgree }) => {
               htmlFor="bordered-checkbox-1"
               className="w-full py-4 ml-2 text-sm font-medium  dark:text-gray-300"
             >
-              I agree
+              {t("footer.agree")}
             </label>
           </div>
-          <SendBtn isAgree={isAgree} />
+          <SendBtn isAgree={isAgree} text={t("footer.btnSentText")} />
         </div>
       </div>
     </div>

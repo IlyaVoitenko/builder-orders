@@ -27,6 +27,19 @@
         "title": "Abformtechnik",
         "content": "Wir haben Erfahrung in der Restauration unvollständiger Stuck-Elemente. Wir kopieren und reproduzieren in Handarbeit die vorhandenen Stuckteile und können so problemlos die fehlenden Teile ersetzen und vorhandene Lücken schließen."
       }
+    },
+    "products": {
+      "title": "Produkte"
     }
+  },
+  "footer": {
+    "location": "Berlin",
+    "info": {
+      "consultation": "Vereinbaren Sie eine unverbindliche und kostenlose Beratung durch unsere Experten. Wir freuen uns, von Ihnen zu hören!",
+      "contactWithUs": "Persönlich erreichen Sie uns Montags bis Freitags in der Zeit von 8:30 bis 16:30 Uhr und Samstags von 9:00 bis 16:30 Uhr - oder nutzen Sie einfach das Kontaktformular für eine kurze Nachricht, wir melden uns umgehend bei Ihnen."
+    },
+    "PolicyPrivacy": "Ich habe die Datenschutzerklärung gelesen. Ich stimme zu, dass meine Angaben und Daten elektronisch erhoben und gespeichert werden, um meine Anfrage zu beantworten. Notiz. Sie können jederzeit zurücktreten, Ihre Einwilligung für die Zukunft erteilen Sie per E-Mail an",
+    "agree": "Ich bin einverstanden",
+    "btnSentText": "schicken"
   }
 }

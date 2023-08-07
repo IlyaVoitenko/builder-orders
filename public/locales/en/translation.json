@@ -27,6 +27,19 @@
         "title": "impression technique",
         "content": "We have experience in restoring incomplete stucco elements. We copy and reproduce the existing stucco parts by hand and can thus easily replace the missing parts and close existing gaps."
       }
+    },
+    "products": {
+      "title": "Products"
     }
+  },
+  "footer": {
+    "location": "Berlin",
+    "info": {
+      "consultation": "Arrange a non-binding and free consultation with our experts. We are happy to hear from them!",
+      "contactWithUs": "You can reach us personally Monday to Friday from 8:30 a.m. to 4:30 p.m. and Saturday from 9:00 a.m. to 4:30 p.m. - or simply use the contact form for a short message and we will get back to you as soon as possible."
+    },
+    "PolicyPrivacy": "I've read the privacy policy. I agree that my details and data are collected and stored electronically to answer my query. Note. You can withdraw at any time. You give your consent for the future by e-mail.",
+    "agree": "I agree",
+    "btnSentText": "Send"
   }
 }
