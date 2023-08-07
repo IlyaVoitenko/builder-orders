@@ -1,4 +1,12 @@
 {
+  "header": {
+    "info": {
+      "SiteNotice": "Hinweis zur Website",
+      "PrivacyPolicy": "Datenschutz-Bestimmungen",
+      "HowToOrder": "Wie man bestellt",
+      "Catalog": "Katalog"
+    }
+  },
   "home": {
     "main": {
       "title-1": "HERZLICH WILLKOMMEN",

@@ -1,4 +1,13 @@
 {
+  "header": {
+    "info": {
+      "SiteNotice": "Site Notice",
+      "PrivacyPolicy": "Privacy Policy",
+      "HowToOrder": "How to order",
+      "Catalog": "Catalog"
+    }
+  },
+
   "home": {
     "main": {
       "title-1": "WELCOME",

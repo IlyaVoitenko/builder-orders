@@ -12,7 +12,7 @@ const ItemCategorie = ({ item, id }) => {
         className="w-full"
         alt={t(`home.categories.card-${id}.title`)}
       />
-      <figcaption className="mt-3 font-bold text-blue-500 max-lg:h-12 lg:bg-black">
+      <figcaption className="mt-3 font-bold text-blue-500 max-lg:h-12 lg:text-xl	">
         {t(`home.categories.card-${id}.title`)}
       </figcaption>
       <p
