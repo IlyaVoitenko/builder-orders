@@ -5,6 +5,38 @@
       "PrivacyPolicy": "Privacy Policy",
       "HowToOrder": "How to order",
       "Catalog": "Catalog"
+    },
+    "navigate": {
+      "home": "HOME",
+      "services": {
+        "title": "SERVICES",
+        "links": {
+          "link-1": "WHOLESALE AND RETAIL",
+          "link-2": "STUDGING WORKS",
+          "link-3": "INDIVIDUAL PRODUCTION",
+          "link-4": "MOLDING TECHNOLOGY"
+        }
+      },
+      "products": {
+        "title": "PRODUCTS",
+        "links": {
+          "link-1": "INSERT",
+          "link-2": "FACADE MODEL",
+          "link-3": "CATALOG DOWNLOAD",
+          "link-4": "CATALOG FASSANDENSTUCK DOWNLOAD"
+        }
+      },
+      "fotogalery": "FOTOGALERY",
+      "loginDetails": "LOGIN DETAILS",
+      "contact": {
+        "title": "CONTACT",
+        "links": {
+          "link-1": "DIRECTIONS",
+          "link-2": "SAMPLE DELIVERY",
+          "link-3": "CONDITIONS",
+          "link-4": "SHIPPING AND PAYMENT"
+        }
+      }
     }
   },
 
