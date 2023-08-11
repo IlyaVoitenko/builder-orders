@@ -7,6 +7,7 @@ import "./App.css";
 
 const Home = lazy(() => import("./pages/HomePage"));
 const PhotoGallery = lazy(() => import("./pages/PhotoGalleryPage"));
+const ProductsCategories = lazy(() => import("./pages/ProductsCategoriesPage"));
 
 function App() {
   return (
@@ -16,6 +17,10 @@ function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="/photo-gallery" element={<PhotoGallery />} />
+            <Route
+              path="/products-categories"
+              element={<ProductsCategories />}
+            />
           </Route>
         </Routes>
       </BrowserRouter>

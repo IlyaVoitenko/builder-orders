@@ -72,6 +72,44 @@
       "title": "Products"
     }
   },
+  "productsCategories": {
+    "title": "PRODUCT-CATEGORIE",
+    "categories": {
+      "facadeStucco": {
+        "titleCategorie": "Facade stucco",
+        "categoriesTypes": {
+          "bosses": "Bosses",
+          "corner": "Corner elements",
+          "windowsills": "Windowsills",
+          "windowBar": "Window bar",
+          "mainCornice": "Main cornice",
+          "pilaster": "Pilaster",
+          "columns": "Columns",
+          "miscellaneous": "Miscellaneous"
+        }
+      },
+      "internal": {
+        "titleCategorie": "Internal",
+        "categoriesTypes": {
+          "pictures": "Pictures",
+          "ceilingAndWallMoldings": "Ceiling and wall moldings",
+          "ceilingMirror": "Ceiling mirror",
+          "decorativeCorners": "Decorative corners",
+          "indirectLightStrips": "Indirect Light Strips",
+          "cassettes": "Cassettes",
+          "consoles": "Consoles",
+          "lamps": "Lamps",
+          "ornaments": "Ornaments",
+          "pilaster": "Pilaster",
+          "frameMoldings": "Frame Moldings",
+          "rosettes": "Rosettes",
+          "columns": "Columns",
+          "miscellaneous": "Miscellaneous",
+          "supraport": "Supraport"
+        }
+      }
+    }
+  },
   "photoGallery": {
     "title": "Photo gallery",
     "context": "Here we have put together some impressions for you. All photos are from objects that we have recently worked on and are intended to give you an impression of the many possible uses of stucco - from classic to modern."

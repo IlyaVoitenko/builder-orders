@@ -1,7 +1,7 @@
 {
   "header": {
     "info": {
-      "SiteNotice": "Hinweis zur Website",
+      "SiteNotice": "Impressum",
       "PrivacyPolicy": "Datenschutz-Bestimmungen",
       "HowToOrder": "Wie man bestellt",
       "Catalog": "Katalog"
@@ -72,11 +72,48 @@
       "title": "Produkte"
     }
   },
+  "productsCategories": {
+    "title": "PRODUKT-KATEGORIEN",
+    "categories": {
+      "facadeStucco": {
+        "titleCategorie": "Fassadenstuck",
+        "categoriesTypes": {
+          "bosses": "Bossen",
+          "corner": "Eckelementen",
+          "windowsills": "Fensterbänke",
+          "windowBar": "Fensterleiste",
+          "mainCornice": "Hauptgesims",
+          "pilaster": "Pilaster",
+          "columns": "Säulen",
+          "miscellaneous": "Sonstiges"
+        }
+      },
+      "internal": {
+        "titleCategorie": "Internal",
+        "categoriesTypes": {
+          "pictures": "Bilder",
+          "ceilingAndWallMoldings": "Decken- und Wandleisten",
+          "ceilingMirror": "deckenspiegel",
+          "decorativeCorners": "Dekorative Ecken",
+          "indirectLightStrips": "Indirektes Licht Leisten",
+          "cassettes": "Kassetten",
+          "consoles": "Konsolen",
+          "lamps": "lampen",
+          "ornaments": "Ornamente",
+          "pilaster": "Pilaster",
+          "frameMoldings": "Rahmenleisten",
+          "rosettes": "Rosetten",
+          "columns": "Säulen",
+          "miscellaneous": "Sonstiges",
+          "supraport": "Supraport"
+        }
+      }
+    }
+  },
   "photoGallery": {
     "title": "Fotogallerie",
     "context": "Hier haben wir Ihnen einige Impressionen zusammengestellt. Alle Fotos sind aus Objekten, an denen wir vor kurzem gearbeitet haben und sollen Ihnen einen Eindruck von den vielfältigen Einsatzmöglichkeiten von Stuck vermitteln – von klassisch bis modern."
   },
-
   "footer": {
     "location": "Berlin",
     "info": {
