@@ -21,7 +21,7 @@ i18n
   // for all options read: https://www.i18next.com/overview/configuration-options
   .init({
     fallbackLng: "de",
-    debug: true,
+    debug: false,
     detection: {
       order: ["localStorage", "cookie"],
       caches: ["localStorage", "cookie"],

@@ -1,9 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { categories } from "../../../components/ProductsCategories/MainProducts/Categories/helper";
+
 const initialState = {
   selectedProduct: {},
   selectedCategorie: "bosses",
-  products: [...categories.facade.bosses],
+  products: [...categories.facadeStucco.bosses],
 };
 
 export const categoriesSlice = createSlice({
@@ -11,7 +12,7 @@ export const categoriesSlice = createSlice({
   initialState,
   reducers: {
     setProducts: (state, action) => {
-      state.products = [...action.payload];
+      state.products = [...categories[action.payload][state.selectedCategorie]];
     },
     setSelectedProduct: (state, action) => {
       state.selectedProduct = action.payload;

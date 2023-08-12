@@ -9,7 +9,7 @@ const Categories = () => {
     <div className="flex flex-col">
       <span> {t(`productsCategories.title`)}</span>
       <Categorie
-        subcategories={categories.facade}
+        subcategories={categories.facadeStucco}
         сategorieTranslater={"facadeStucco"}
         titleCatrgorie={
           "productsCategories.categories.facadeStucco.titleCategorie"

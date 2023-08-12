@@ -1,10 +1,11 @@
 import logo from "../../../../images/three.jpg";
+
 export const categories = {
-  facade: {
+  facadeStucco: {
     bosses: [
       {
         id: 1,
-        link: "",
+        link: "/Product",
         title: "EN-123",
         type: "bosses",
         src: logo,
@@ -14,7 +15,7 @@ export const categories = {
       },
       {
         id: 1,
-        link: "",
+        link: "/Product",
         title: "EN-123",
         type: "bosses",
         src: logo,

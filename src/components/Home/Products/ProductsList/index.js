@@ -8,8 +8,8 @@ const ProductsList = ({ products, page }) => {
         page === "home" ? "justify-between" : "justify-around"
       }  w-[70%] max-sm:w-[90%] flex-row flex-wrap mt-5`}
     >
-      {products.map((item) => (
-        <ItemProduct key={item.id} item={item} />
+      {products.map((item, index) => (
+        <ItemProduct key={index} item={item} />
       ))}
     </nav>
   );
