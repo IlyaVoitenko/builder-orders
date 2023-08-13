@@ -4,7 +4,7 @@ import Products from "./Products";
 
 const MainProducts = () => {
   return (
-    <main className="flex flex-row justify-center ">
+    <main className="flex max-lg:flex-col-reverse	md:flex-row justify-center ">
       <Categories />
       <Products />
     </main>

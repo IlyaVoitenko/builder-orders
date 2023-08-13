@@ -7,10 +7,10 @@ const Categories = ({ isProductsCategoriesPage = false }) => {
   const { t } = useTranslation();
   return (
     <div
-      className={`flex flex-col ${
+      className={`flex flex-col  max-lg:mt-4${
         isProductsCategoriesPage
-          ? "w-[64rem] max-lg:w-full pl-3  border-l-2 border-blue-500"
-          : "border-r-2 pr-3 border-blue-500"
+          ? "w-[64rem] max-lg:w-full pl-3 bg border-l-2 border-blue-500"
+          : "border-r-2 pr-3 max-lg:mt-5 border-blue-500"
       }`}
     >
       <span className="text-blue-500 "> {t(`productsCategories.title`)}</span>

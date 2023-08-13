@@ -9,6 +9,7 @@ const Inputs = () => {
   const laptopMaxAdaptiveContainer = `max-lg:w-[95%]`;
   const laptopAdaptiveContainer = `lg:w-[75%]`;
 
+  const inputsTabletAdaptive = ` md:justify-between`;
   const inputsSmMaxAdaptive = `max-sm:w-full  max-sm:justify-center max-sm:items-center`;
   const inputsLaptopAdaptive = `lg:w-full lg:justify-between `;
   return (
@@ -16,7 +17,7 @@ const Inputs = () => {
       className={`${laptopMaxAdaptiveContainer}  ${laptopAdaptiveContainer} ${smMaxAdaptiveContainer}`}
     >
       <div
-        className={`flex flex-row max-sm:flex-col  ${inputsLaptopAdaptive} ${inputsSmMaxAdaptive}  mt-1 max-lg:mt-3`}
+        className={`flex flex-row max-sm:flex-col  ${inputsLaptopAdaptive} ${inputsSmMaxAdaptive}${inputsTabletAdaptive}  mt-1 max-lg:mt-3`}
       >
         <input
           onChange={({ target }) => setSurname(target.value)}
