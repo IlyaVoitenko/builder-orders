@@ -10,7 +10,7 @@ const Home = () => {
       <Header />
       <Sliders />
       <Main />
-      <Footer />
+      <Footer isHomePage={true} />
     </div>
   );
 };

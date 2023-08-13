@@ -110,6 +110,15 @@
       }
     }
   },
+  "product": {
+    "categorie": "кategorien",
+    "discription": {
+      "title": "Beschreibung",
+      "connect": "Anschluss",
+      "unitPrice": "Stückpreis"
+    },
+    "mainPage": "heim"
+  },
   "photoGallery": {
     "title": "Fotogallerie",
     "context": "Hier haben wir Ihnen einige Impressionen zusammengestellt. Alle Fotos sind aus Objekten, an denen wir vor kurzem gearbeitet haben und sollen Ihnen einen Eindruck von den vielfältigen Einsatzmöglichkeiten von Stuck vermitteln – von klassisch bis modern."

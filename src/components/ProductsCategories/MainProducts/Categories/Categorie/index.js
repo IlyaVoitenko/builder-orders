@@ -2,7 +2,12 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import SubcategorieItem from "../SubcategorieItem";
 
-const Categorie = ({ subcategories, сategorieTranslater, titleCatrgorie }) => {
+const Categorie = ({
+  subcategories,
+  сategorieTranslater,
+  titleCatrgorie,
+  isProductsCategoriesPage,
+}) => {
   const fields = Object.keys(subcategories);
   const { t } = useTranslation();
   return (
@@ -12,6 +17,7 @@ const Categorie = ({ subcategories, сategorieTranslater, titleCatrgorie }) => {
         <SubcategorieItem
           item={item}
           key={index}
+          isProductsCategoriesPage={isProductsCategoriesPage}
           сategorieTranslater={сategorieTranslater}
           subcategories={subcategories}
         />
