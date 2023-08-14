@@ -6,9 +6,9 @@ const ProductsList = ({ products, page }) => {
     <nav
       className={`flex  ${
         page === "home"
-          ? "justify-between"
-          : "justify-around max-lg:flex-col max-lg:items-center  max-sm:w-[100%] md:items-start   md:w-full md:flex-row lg:w-[70%] "
-      }  w-[70%] max-sm:w-[90%]  flex-row flex-wrap mt-5`}
+          ? "justify-between w-[70%] max-sm:w-[90%]  flex-row flex-wrap"
+          : "justify-around max-lg:flex-col max-lg:items-center  flex-wrap md:items-start   md:w-full md:flex-row lg:w-[70%] "
+      }   mt-5`}
     >
       {products.map((item) => (
         <ItemProduct key={item.id} item={item} />
