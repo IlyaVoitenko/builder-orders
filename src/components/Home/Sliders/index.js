@@ -3,9 +3,9 @@ import Slider from "react-slick";
 import BtnsMove from "./BtnsMove";
 import "./style.css";
 
-import first from "../../images/first.jpg";
-import second from "../../images/second.jpg";
-import three from "../../images/three.jpg";
+import first from "../../../assets/images/first.jpg";
+import second from "../../../assets/images/second.jpg";
+import three from "../../../assets/images/three.jpg";
 
 const Sliders = () => {
   const settings = {

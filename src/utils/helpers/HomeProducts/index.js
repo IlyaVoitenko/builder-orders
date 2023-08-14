@@ -1,4 +1,4 @@
-import logo from "../../../images/three.jpg";
+import logo from "../../../assets/images/three.jpg";
 
 export const categoriesList = [
   {

@@ -1,5 +1,5 @@
 import React from "react";
-import { goToTop } from "./helper";
+import { goToTop } from "../../../utils/helpers/ScrollToTop";
 
 const PaginationDots = ({ totalPages, handlePageChange, currentPage }) => {
   return (

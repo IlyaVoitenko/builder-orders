@@ -1,6 +1,6 @@
 import React from "react";
 import ItemCategorie from "./ItemCategorie";
-import { categoriesList } from "./helper";
+import { categoriesList } from "../../../utils/helpers/HomeCategories";
 
 const Categories = () => {
   return (

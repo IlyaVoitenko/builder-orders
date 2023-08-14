@@ -2,7 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { isShowMenuSelector } from "../../../../../store/selectors";
-import { serviceLinks, productsLinks, contactsLinks } from "../helper";
+import {
+  serviceLinks,
+  productsLinks,
+  contactsLinks,
+} from "../../../../../utils/helpers/ListLinks";
 import { useTranslation } from "react-i18next";
 import useWindowDimensions from "../../../../useWindowDimensions";
 import ListInfo from "../../../Info/ListInfo";
@@ -17,7 +21,6 @@ const styleXxl = `2xl:flex`;
 const Navigate = () => {
   const { t } = useTranslation();
   const isShowMenu = useSelector(isShowMenuSelector);
-  console.log("isShowMenu :", isShowMenu);
   const width = useWindowDimensions();
   return (
     <ul

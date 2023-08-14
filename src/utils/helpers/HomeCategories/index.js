@@ -1,5 +1,4 @@
-import logo from "../../../images/first.jpg";
-
+import logo from "../../../assets/images/first.jpg";
 export const categoriesList = [
   {
     id: 1,

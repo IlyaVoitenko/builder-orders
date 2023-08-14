@@ -1,5 +1,5 @@
 import React from "react";
-import { categoriesList } from "./helper";
+import { categoriesList } from "../../../utils/helpers/HomeProducts";
 import { useTranslation } from "react-i18next";
 import TitleProducts from "./TitleProducts";
 import ProductsList from "./ProductsList";

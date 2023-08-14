@@ -1,5 +1,4 @@
-import logo from "../../../../images/three.jpg";
-
+import logo from "../../../assets/images/second.jpg";
 export const categories = {
   facadeStucco: {
     bosses: [
