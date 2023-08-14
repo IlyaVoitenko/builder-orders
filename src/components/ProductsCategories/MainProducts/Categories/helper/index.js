@@ -34,7 +34,7 @@ export const categories = {
         },
       },
       {
-        id: 1,
+        id: 3,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -49,7 +49,7 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: 4,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -64,7 +64,7 @@ export const categories = {
         },
       },
       {
-        id: 1,
+        id: 5,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -79,7 +79,7 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: 6,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -94,7 +94,7 @@ export const categories = {
         },
       },
       {
-        id: 1,
+        id: 7,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -109,7 +109,7 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: 8,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -124,7 +124,7 @@ export const categories = {
         },
       },
       {
-        id: 1,
+        id: 9,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -139,7 +139,7 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: 10,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -154,7 +154,7 @@ export const categories = {
         },
       },
       {
-        id: 1,
+        id: 11,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -169,7 +169,7 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: 12,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -184,7 +184,7 @@ export const categories = {
         },
       },
       {
-        id: 1,
+        id: 13,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -199,7 +199,7 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: 14,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -214,7 +214,7 @@ export const categories = {
         },
       },
       {
-        id: 1,
+        id: 15,
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -229,7 +229,22 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: 16,
+        link: "/Product",
+        title: "EN-123",
+        type: "bosses",
+        src: logo,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: "Anschluss: RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: 17,
         link: "/Product",
         title: "EN-123",
         type: "bosses",

@@ -4,7 +4,6 @@ import { setSelectedProduct } from "../../../../store/reducer/categories";
 import { useDispatch } from "react-redux";
 
 const ItemProduct = ({ item }) => {
-  console.log(item);
   const dispatch = useDispatch();
   return (
     <Link

@@ -11,7 +11,7 @@ const Categorie = ({
   const fields = Object.keys(subcategories);
   const { t } = useTranslation();
   return (
-    <div>
+    <div className=" w-64">
       <div className="text-left"> {t(`${titleCatrgorie}`)}</div>
       {fields.map((item, index) => (
         <SubcategorieItem
