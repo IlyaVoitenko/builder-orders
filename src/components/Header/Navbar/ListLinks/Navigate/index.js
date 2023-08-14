@@ -17,6 +17,7 @@ const styleXxl = `2xl:flex`;
 const Navigate = () => {
   const { t } = useTranslation();
   const isShowMenu = useSelector(isShowMenuSelector);
+  console.log("isShowMenu :", isShowMenu);
   const width = useWindowDimensions();
   return (
     <ul

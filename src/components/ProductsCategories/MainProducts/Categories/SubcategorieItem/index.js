@@ -15,7 +15,6 @@ const SubcategorieItem = ({
   const dispatch = useDispatch();
   const { t } = useTranslation();
   const navigate = useNavigate();
-  console.log(isProductsCategoriesPage);
   return (
     <div
       className="text-left pl-5"

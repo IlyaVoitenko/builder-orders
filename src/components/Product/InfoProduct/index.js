@@ -9,7 +9,6 @@ import DescriptionProduct from "./DescriptionProduct";
 
 const InfoProduct = () => {
   const product = useSelector(selectedProductSelector);
-  console.log(product);
   return (
     <div className="flex flex-col">
       <Navigation
