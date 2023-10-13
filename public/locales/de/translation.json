@@ -11,19 +11,19 @@
       "services": {
         "title": "DIENSTLEISTUNGEN",
         "links": {
-          "link-1": "GROSS-UND EINZELHANDEL",
-          "link-2": "STUDIERENDE ARBEITEN",
-          "link-3": "INDIVIDUELLE FERTIGUNG",
-          "link-4": "FORMTECHNIK"
+          "link-0": "GROSS-UND EINZELHANDEL",
+          "link-1": "STUDIERENDE ARBEITEN",
+          "link-2": "INDIVIDUELLE FERTIGUNG",
+          "link-3": "FORMTECHNIK"
         }
       },
       "products": {
         "title": "PRODUKTE",
         "links": {
-          "link-1": "EINFÜGUNG",
-          "link-2": "FASSADENMODELL",
-          "link-3": "KATALOG-DOWNLOAD",
-          "link-4": "KATALOG FASSANDENSTUCK DOWNLOAD"
+          "link-0": "EINFÜGUNG",
+          "link-1": "FASSADENMODELL",
+          "link-2": "KATALOG-DOWNLOAD",
+          "link-3": "KATALOG FASSANDENSTUCK DOWNLOAD"
         }
       },
       "fotogalery": "FOTOGALERY",
@@ -31,10 +31,10 @@
       "contact": {
         "title": "KONTAKT",
         "links": {
-          "link-1": "RICHTUNGEN",
-          "link-2": "MUSTERLIEFERUNG",
-          "link-3": "BEDINGUNGEN",
-          "link-4": "VERSAND UND ZAHLUNG"
+          "link-0": "RICHTUNGEN",
+          "link-1": "MUSTERLIEFERUNG",
+          "link-2": "BEDINGUNGEN",
+          "link-3": "VERSAND UND ZAHLUNG"
         }
       }
     }

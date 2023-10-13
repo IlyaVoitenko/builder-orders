@@ -7,18 +7,19 @@ import first from "../../../assets/images/first.jpg";
 import second from "../../../assets/images/second.jpg";
 import three from "../../../assets/images/three.jpg";
 
+const images = [{ src: first }, { src: second }, { src: three }];
+
+const settings = {
+  dots: true,
+  infinite: true,
+  speed: 1000,
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  autoplay: true,
+};
 const Sliders = () => {
-  const settings = {
-    dots: true,
-    infinite: true,
-    speed: 1000,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    autoplay: true,
-  };
   const sliderRef = useRef(null);
 
-  const images = [{ src: first }, { src: second }, { src: three }];
   return (
     <div className="relative ">
       <Slider ref={sliderRef} {...settings}>

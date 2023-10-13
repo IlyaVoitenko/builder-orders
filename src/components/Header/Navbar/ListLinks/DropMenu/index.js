@@ -1,13 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 import { BsChevronDown, BsChevronUp } from "react-icons/bs";
 import { useTranslation } from "react-i18next";
 import MenuList from "./MenuList";
 
 const DropMenu = ({ arr, title }) => {
-  useEffect(() => {
-    console.log("object");
-  }, [window.scroll]);
   const [isOpenMenu, setIsOpenMenu] = useState(false);
   const { t } = useTranslation();
   const condition = `${title}.title`;
