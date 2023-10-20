@@ -4,14 +4,16 @@ import Main from "./Main";
 import Footer from "../Footer";
 import Header from "../Header";
 
+import { currentLanguageSelector } from "../../store/selectors";
 import { setTranslate } from "../../store/thunk";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 
 const Home = () => {
   const dispatch = useDispatch();
+  const currentLanguage = useSelector(currentLanguageSelector);
   useEffect(() => {
-    dispatch(setTranslate());
-  }, [dispatch]);
+    dispatch(setTranslate(currentLanguage));
+  }, [dispatch, currentLanguage]);
 
   return (
     <div>
