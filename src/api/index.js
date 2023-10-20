@@ -1,4 +1,5 @@
 import axios from "axios";
+
 export const loadTranslation = async (language = "de") => {
   try {
     const { data } = await axios.get(

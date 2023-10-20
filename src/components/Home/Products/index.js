@@ -1,14 +1,15 @@
 import React from "react";
+import { translateSelector } from "../../../store/selectors";
 import { categoriesList } from "../../../utils/helpers/HomeProducts";
-import { useTranslation } from "react-i18next";
 import TitleProducts from "./TitleProducts";
 import ProductsList from "./ProductsList";
+import { useSelector } from "react-redux";
 
 const Products = () => {
-  const { t } = useTranslation();
+  const translate = useSelector(translateSelector);
   return (
     <section className=" flex flex-col  items-center w-full flex-wrap mt-12">
-      <TitleProducts translate={t} />
+      <TitleProducts translate={translate} />
       <ProductsList products={categoriesList} page={"home"} />
     </section>
   );

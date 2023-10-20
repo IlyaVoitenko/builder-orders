@@ -5,7 +5,12 @@ const MenuList = ({ arr, linkText }) => {
   return (
     <nav className=" bg-white " role="none">
       {arr.map((item, index) => (
-        <MenuItem item={item} key={index} index={index} linkText={linkText} />
+        <MenuItem
+          item={item}
+          key={index}
+          index={index}
+          linkText={linkText[`link-${index}`]}
+        />
       ))}
     </nav>
   );

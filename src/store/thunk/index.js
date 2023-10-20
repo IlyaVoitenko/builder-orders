@@ -1,4 +1,4 @@
-import { loadTranslation } from "../../utils/api";
+import { loadTranslation } from "../../api";
 import { createAsyncThunk } from "@reduxjs/toolkit";
 
 export const setTranslate = createAsyncThunk(

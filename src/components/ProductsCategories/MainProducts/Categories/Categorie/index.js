@@ -1,6 +1,7 @@
 import React from "react";
-import { useTranslation } from "react-i18next";
+import { translateSelector } from "../../../../../store/selectors";
 import SubcategorieItem from "../SubcategorieItem";
+import { useSelector } from "react-redux";
 
 const Categorie = ({
   subcategories,
@@ -9,10 +10,11 @@ const Categorie = ({
   isProductsCategoriesPage,
 }) => {
   const fields = Object.keys(subcategories);
-  const { t } = useTranslation();
+  const translate = useSelector(translateSelector);
+
   return (
     <div className=" w-64">
-      <div className="text-left"> {t(`${titleCatrgorie}`)}</div>
+      <div className="text-left"> {translate[`${titleCatrgorie}`]}</div>
       {fields.map((item, index) => (
         <SubcategorieItem
           item={item}

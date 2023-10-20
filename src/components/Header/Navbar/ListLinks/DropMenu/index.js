@@ -1,14 +1,10 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 import { BsChevronDown, BsChevronUp } from "react-icons/bs";
-import { useTranslation } from "react-i18next";
 import MenuList from "./MenuList";
 
 const DropMenu = ({ arr, title }) => {
   const [isOpenMenu, setIsOpenMenu] = useState(false);
-  const { t } = useTranslation();
-  const condition = `${title}.title`;
-  const buttonTitle = t(condition);
 
   return (
     <div className="lg:relative z-40">
@@ -23,8 +19,7 @@ const DropMenu = ({ arr, title }) => {
           setIsOpenMenu(false);
         }}
       >
-        {t(`${buttonTitle}`)}&nbsp;{" "}
-        {isOpenMenu ? <BsChevronUp /> : <BsChevronDown />}
+        {title?.title}&nbsp; {isOpenMenu ? <BsChevronUp /> : <BsChevronDown />}
       </button>
 
       <Transition
@@ -45,7 +40,7 @@ const DropMenu = ({ arr, title }) => {
           aria-orientation="vertical"
           aria-labelledby="options-menu"
         >
-          <MenuList arr={arr} linkText={title} />
+          <MenuList arr={arr} linkText={title?.links} />
         </div>
       </Transition>
     </div>

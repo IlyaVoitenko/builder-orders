@@ -1,10 +1,11 @@
 import React from "react";
-import { useTranslation } from "react-i18next";
+import { translateSelector } from "../../../../store/selectors";
 import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
 
 const Navigation = ({ categorie, subcategorie, nameProduct }) => {
-  const { t } = useTranslation();
-  const home = t("header.navigate.home");
+  const translate = useSelector(translateSelector);
+  const home = translate?.header.navigate.home;
   return (
     <nav className="flex justify-center	">
       <Link to="/" className="pr-1 pl-1">
@@ -12,13 +13,17 @@ const Navigation = ({ categorie, subcategorie, nameProduct }) => {
       </Link>
       /
       <Link to="/products-categories" className="pr-1 pl-1">
-        {t(`productsCategories.categories.${categorie}.titleCategorie`)}
+        {
+          translate?.productsCategories.categories[`${categorie}`]
+            .titleCategorie
+        }
       </Link>
       /
       <Link to="/products-categories" className="pr-1 pl-1">
-        {t(
-          `productsCategories.categories.${categorie}.categoriesTypes.${subcategorie}`
-        )}
+        {
+          translate?.productsCategories.categories[`${categorie}`]
+            .categoriesTypes[`${subcategorie}`]
+        }
       </Link>
       /<span className="pr-1 pl-1">{nameProduct}</span>
     </nav>

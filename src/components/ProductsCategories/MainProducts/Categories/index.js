@@ -1,10 +1,11 @@
 import React from "react";
 import { categories } from "../../../../utils/helpers/ProductsCategories";
-import { useTranslation } from "react-i18next";
+import { translateSelector } from "../../../../store/selectors";
 import Categorie from "./Categorie";
+import { useSelector } from "react-redux";
 
 const Categories = ({ isProductsCategoriesPage = false }) => {
-  const { t } = useTranslation();
+  const translate = useSelector(translateSelector);
   return (
     <div
       className={`flex flex-col  max-lg:mt-4${
@@ -13,7 +14,10 @@ const Categories = ({ isProductsCategoriesPage = false }) => {
           : " pl-3 lg:w-80 max-lg:mt-5 border-r-2  border-blue-500"
       }`}
     >
-      <span className="text-blue-500 "> {t(`productsCategories.title`)}</span>
+      <span className="text-blue-500 ">
+        {" "}
+        {translate?.productsCategories.title}
+      </span>
       <Categorie
         subcategories={categories.facadeStucco}
         сategorieTranslater={"facadeStucco"}

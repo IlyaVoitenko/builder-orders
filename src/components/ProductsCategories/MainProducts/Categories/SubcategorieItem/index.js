@@ -1,11 +1,11 @@
 import React from "react";
-import { useTranslation } from "react-i18next";
 import {
   setSelectedCategorie,
   setProducts,
 } from "../../../../../store/reducer/categories";
+import { translateSelector } from "../../../../../store/selectors";
 import { useNavigate } from "react-router-dom";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 
 const SubcategorieItem = ({
   item,
@@ -13,7 +13,7 @@ const SubcategorieItem = ({
   isProductsCategoriesPage,
 }) => {
   const dispatch = useDispatch();
-  const { t } = useTranslation();
+  const translate = useSelector(translateSelector);
   const navigate = useNavigate();
   return (
     <div
@@ -26,9 +26,10 @@ const SubcategorieItem = ({
         }
       }}
     >
-      {t(
-        `productsCategories.categories.${сategorieTranslater}.categoriesTypes.${item}`
-      )}
+      {
+        translate?.productsCategories.categories[`${сategorieTranslater}`]
+          .categoriesTypes[`${item}`]
+      }
     </div>
   );
 };

@@ -1,10 +1,12 @@
 import React from "react";
-import { useTranslation } from "react-i18next";
+import { translateSelector } from "../../../store/selectors";
+import { useSelector } from "react-redux";
 const Title = () => {
-  const { t } = useTranslation();
+  const translate = useSelector(translateSelector);
+
   return (
     <samp className="mt-[5%] text-white text-4xl font-bold">
-      {t("footer.location")}
+      {translate?.footer.location}
     </samp>
   );
 };
