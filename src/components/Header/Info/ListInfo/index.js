@@ -1,17 +1,11 @@
 import React from "react";
 import { translateSelector } from "../../../../store/selectors";
-import { setTranslate } from "../../../../store/thunk";
-import { setCurrentLanguage } from "../../../../store/reducer/translate";
+import { changeLanguage } from "../../../../utils/helpers";
 import { useDispatch, useSelector } from "react-redux";
 
 const ListInfo = () => {
   const translate = useSelector(translateSelector);
   const dispatch = useDispatch();
-
-  const changeLanguage = (language) => {
-    dispatch(setCurrentLanguage(language));
-    dispatch(setTranslate(language));
-  };
 
   return (
     <nav className="flex items-center  justify-center	 w-[27%] max-lg:w-screen lg:w-[50%]">
@@ -28,8 +22,8 @@ const ListInfo = () => {
         <li>
           <a href="/">{translate?.header.info.Catalog}</a>
         </li>
-        <li onClick={() => changeLanguage("de")}>DE</li>
-        <li onClick={() => changeLanguage("en")}>ENG</li>
+        <li onClick={() => changeLanguage("de", dispatch)}>DE</li>
+        <li onClick={() => changeLanguage("en", dispatch)}>ENG</li>
       </ul>
     </nav>
   );

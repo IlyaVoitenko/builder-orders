@@ -5,11 +5,6 @@ import {
   isShowMenuSelector,
   translateSelector,
 } from "../../../../../store/selectors";
-import {
-  serviceLinks,
-  productsLinks,
-  contactsLinks,
-} from "../../../../../utils/helpers/ListLinks";
 import useWindowDimensions from "../../../../useWindowDimensions";
 import ListInfo from "../../../Info/ListInfo";
 import DropMenu from "../DropMenu";
@@ -19,6 +14,27 @@ const styleMd = `max-md:w-full max-md:mt-1`;
 const styleLg = `max-lg:z-30 max-lg:w-screen	max:lg:left-0	 max-lg:flex-col  max-lg:mt-5 lg:flex  lg:w-[60%]`;
 const styleXl = `xl:flex`;
 const styleXxl = `2xl:flex`;
+
+const serviceLinks = [
+  { value: "ОПТОВАЯ И РОЗНИЧНАЯ", link: "" },
+  { value: "ЛЕПНЫЕ РАБОТЫ", link: "" },
+  { value: "ИНДИВИДУАЛЬНОЕ ПРОИЗВОДСТВО", link: "" },
+  { value: "ФОРМОВОЧНАЯ ТЕХНОЛОГИЯ", link: "" },
+];
+
+const productsLinks = [
+  { value: "ВСТАВКИ", link: "/products-categories" },
+  { value: "ФАСАДНАЯ ЛЕПНИЦА", link: "" },
+  { value: "КАТАЛОГ  СКАЧАТЬ", link: "" },
+  { value: "КАТАЛОГ FASSANDENSTUCK СКАЧАТЬ", link: "" },
+];
+
+const contactsLinks = [
+  { value: "НАПРАВЛЕНИЯ", link: "" },
+  { value: "ДОСТАВКА ОБРАЗЦА", link: "" },
+  { value: "Условия", link: "" },
+  { value: "ДОСТАВКА И ОПЛАТА", link: "" },
+];
 
 const Navigate = () => {
   const isShowMenu = useSelector(isShowMenuSelector);
