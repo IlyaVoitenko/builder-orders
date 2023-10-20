@@ -17,6 +17,7 @@ import translateReducer from "./reducer/translate";
 const persistConfig = {
   key: "root",
   storage,
+  blacklist: ["translate.translate"],
 };
 
 const rootReducer = combineReducers({
