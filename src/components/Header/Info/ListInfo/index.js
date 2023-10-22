@@ -1,10 +1,14 @@
 import React from "react";
-import { translateSelector } from "../../../../store/selectors";
+import {
+  translateSelector,
+  currentLanguageSelector,
+} from "../../../../store/selectors";
 import { changeLanguage } from "../../../../utils/helpers";
 import { useDispatch, useSelector } from "react-redux";
 
 const ListInfo = () => {
   const translate = useSelector(translateSelector);
+  const currentLanguage = useSelector(currentLanguageSelector);
   const dispatch = useDispatch();
 
   return (
@@ -22,8 +26,26 @@ const ListInfo = () => {
         <li>
           <a href="/">{translate?.header.info.Catalog}</a>
         </li>
-        <li onClick={() => changeLanguage("de", dispatch)}>DE</li>
-        <li onClick={() => changeLanguage("en", dispatch)}>ENG</li>
+        <li
+          className={
+            currentLanguage === "de"
+              ? "text-gray-950 cursor-pointer"
+              : "cursor-pointer"
+          }
+          onClick={() => changeLanguage("de", dispatch)}
+        >
+          DE
+        </li>
+        <li
+          className={
+            currentLanguage === "en"
+              ? "text-gray-950 cursor-pointer"
+              : "cursor-pointer"
+          }
+          onClick={() => changeLanguage("en", dispatch)}
+        >
+          ENG
+        </li>
       </ul>
     </nav>
   );
