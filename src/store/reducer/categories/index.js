@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { categories } from "../../../components/ProductsCategories/MainProducts/Categories";
+import { categories } from "../../../components/ProductsCategories/MainProducts/Categories/constants";
 
 const initialState = {
   selectedProduct: {},
