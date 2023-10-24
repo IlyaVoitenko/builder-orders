@@ -2,12 +2,12 @@ import React from "react";
 import Categories from "./Categories";
 import Pagination from "../../Pagination";
 import ProductsList from "../../Home/Products/ProductsList";
-import { productsSelector } from "../../../store/selectors";
+import { productsReselect } from "../../../store/selectors";
 import { useSelector } from "react-redux";
 
 const MainProducts = () => {
   const itemsPerPage = 6;
-  const products = useSelector(productsSelector);
+  const products = useSelector(productsReselect);
 
   const renderProductsList = (products, page = "products") => {
     return <ProductsList products={products} page={page} />;

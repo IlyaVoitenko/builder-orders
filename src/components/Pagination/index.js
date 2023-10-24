@@ -1,12 +1,12 @@
 import React from "react";
 import usePagination from "../usePagination";
 import { useSelector } from "react-redux";
-import { productsSelector } from "../../store/selectors";
+import { productsReselect } from "../../store/selectors";
 import ItemProduct from "../Home/Products/ItemProduct";
 import PaginationDots from "./PaginationDots";
 
 const Pagination = ({ page = "product" }) => {
-  const products = useSelector(productsSelector);
+  const products = useSelector(productsReselect);
   const productsPagination = [...products]; // Ваш массив products для отображения
   const itemsPerPage = 8; // Количество элементов на одной странице
 

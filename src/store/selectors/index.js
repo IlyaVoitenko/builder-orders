@@ -1,9 +1,14 @@
+import { createSelector } from "reselect";
 //header links
 export const isShowMenuSelector = (state) => state.menu.isShowMenu;
 //categories
 export const selectedCategorieSelector = (state) =>
   state.categories.selectedCategorie;
 export const productsSelector = (state) => state.categories.products;
+export const productsReselect = createSelector(
+  [productsSelector],
+  (product) => product
+);
 export const selectedProductSelector = (state) =>
   state.categories.selectedProduct;
 //translation
