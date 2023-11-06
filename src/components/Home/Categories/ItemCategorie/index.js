@@ -4,7 +4,7 @@ import {
   translateSelector,
 } from "../../../../store/selectors";
 import { useSelector } from "react-redux";
-
+//h-[45vw]
 const ItemCategorie = ({ item, id }) => {
   const translate = useSelector(translateSelector);
   const currentLanguage = useSelector(currentLanguageSelector);
@@ -13,7 +13,7 @@ const ItemCategorie = ({ item, id }) => {
     <figure className="flex flex-col  mt-5 items-center w-[45%]">
       <img
         src={item.src}
-        className="w-full"
+        className="w-full  h-[25vw]"
         alt={translate?.home.categories[`card-${id}`].title}
       />
       <figcaption className="mt-3 font-bold text-blue-500 max-lg:h-12 lg:text-xl	">
