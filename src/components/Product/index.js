@@ -8,7 +8,7 @@ const Product = () => {
   return (
     <>
       <Header />
-      <main className="max-lg:flex-col  flex flex-row justify-center ">
+      <main className="max-lg:flex-col  flex flex-row justify-center w-[99%] ">
         <InfoProduct />
         <Categories isProductsCategoriesPage={true} />
       </main>

@@ -11,7 +11,6 @@ const Categorie = ({
 }) => {
   const fields = Object.keys(subcategories);
   const translate = useSelector(translateSelector);
-
   return (
     <div className=" w-64">
       <div className="text-left"> {translate[`${titleCatrgorie}`]}</div>

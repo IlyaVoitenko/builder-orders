@@ -1,10 +1,63 @@
 import logo from "../../../../assets/images/second.jpg";
+import ECK01 from "../../../../assets/images/ECK-01-300x300.png";
+import ECK09 from "../../../../assets/images/ECK-09-300x300.png";
+import PK35 from "../../../../assets/images/PK-35-300x300.png";
+import KS40 from "../../../../assets/images/KS-40-300x300.png";
+import PG35 from "../../../../assets/images/PG-35-300x300.png";
+import shortid from "shortid";
 
 export const categories = {
   facadeStucco: {
+    facadestucco: [
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "facadeStucco",
+        src: PK35,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "facadeStucco",
+        src: KS40,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "facadeStucco",
+        src: PG35,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+    ],
     bosses: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -19,7 +72,7 @@ export const categories = {
         },
       },
       {
-        id: 2,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -34,7 +87,7 @@ export const categories = {
         },
       },
       {
-        id: 3,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -49,7 +102,7 @@ export const categories = {
         },
       },
       {
-        id: 4,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -64,7 +117,7 @@ export const categories = {
         },
       },
       {
-        id: 5,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -79,7 +132,7 @@ export const categories = {
         },
       },
       {
-        id: 6,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -94,7 +147,7 @@ export const categories = {
         },
       },
       {
-        id: 7,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -109,7 +162,7 @@ export const categories = {
         },
       },
       {
-        id: 8,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -124,7 +177,7 @@ export const categories = {
         },
       },
       {
-        id: 9,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -139,7 +192,7 @@ export const categories = {
         },
       },
       {
-        id: 10,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -154,7 +207,7 @@ export const categories = {
         },
       },
       {
-        id: 11,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -169,7 +222,7 @@ export const categories = {
         },
       },
       {
-        id: 12,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -184,7 +237,7 @@ export const categories = {
         },
       },
       {
-        id: 13,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -199,7 +252,7 @@ export const categories = {
         },
       },
       {
-        id: 14,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -214,7 +267,7 @@ export const categories = {
         },
       },
       {
-        id: 15,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -229,7 +282,7 @@ export const categories = {
         },
       },
       {
-        id: 16,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -244,7 +297,7 @@ export const categories = {
         },
       },
       {
-        id: 17,
+        id: shortid.generate(),
         link: "/Product",
         title: "EN-123",
         type: "bosses",
@@ -261,15 +314,109 @@ export const categories = {
     ],
     corner: [
       {
-        id: 1,
-        link: "",
-        text: "",
-        type: "",
-        imgUrl: "",
-        categorie: "",
-        price: "",
-        discription: "",
-        translaterField: "",
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "corner",
+        src: ECK01,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "corner",
+        src: ECK01,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "corner",
+        src: ECK01,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "corner",
+        src: ECK09,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "corner",
+        src: ECK09,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "corner",
+        src: ECK09,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "corner",
+        src: ECK09,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     windowsills: [
@@ -287,7 +434,7 @@ export const categories = {
     ],
     windowBar: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "",
@@ -300,7 +447,7 @@ export const categories = {
     ],
     mainCornice: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "",
@@ -313,7 +460,7 @@ export const categories = {
     ],
     pilaster: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "",
@@ -326,7 +473,7 @@ export const categories = {
     ],
     columns: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "",
@@ -339,7 +486,7 @@ export const categories = {
     ],
     miscellaneous: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "",
@@ -354,7 +501,7 @@ export const categories = {
   internal: {
     pictures: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "pictures",
@@ -367,7 +514,7 @@ export const categories = {
     ],
     ceilingAndWallMoldings: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "ceiling and wall moldings",
@@ -380,7 +527,7 @@ export const categories = {
     ],
     ceilingMirror: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "ceiling mirror",
@@ -393,7 +540,7 @@ export const categories = {
     ],
     decorativeCorners: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "decorative corners",
@@ -406,7 +553,7 @@ export const categories = {
     ],
     indirectLightStrips: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "Indirect light strips",
@@ -419,7 +566,7 @@ export const categories = {
     ],
     cassettes: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "cassettes",
@@ -432,7 +579,7 @@ export const categories = {
     ],
     lamps: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "lamps",
@@ -445,7 +592,7 @@ export const categories = {
     ],
     ornaments: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "ornaments",
@@ -458,7 +605,7 @@ export const categories = {
     ],
     pilaster: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "pilaster",
@@ -471,7 +618,7 @@ export const categories = {
     ],
     frameMoldings: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "frame moldings",
@@ -484,7 +631,7 @@ export const categories = {
     ],
     rosettes: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "rosettes",
@@ -497,7 +644,7 @@ export const categories = {
     ],
     columns: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "columns",
@@ -510,7 +657,8 @@ export const categories = {
     ],
     miscellaneous: [
       {
-        id: 1,
+        id: shortid.generate(),
+
         link: "",
         text: "",
         type: "miscellaneous",
@@ -523,7 +671,7 @@ export const categories = {
     ],
     supraport: [
       {
-        id: 1,
+        id: shortid.generate(),
         link: "",
         text: "",
         type: "supraport",

@@ -5,7 +5,7 @@ export const setTranslate = createAsyncThunk(
   "translate/setTranslate",
   async (language = "de", apiThunk) => {
     try {
-      const data = loadTranslation(language);
+      const data = await loadTranslation(language);
       return data;
     } catch (error) {
       apiThunk.rejectWithValue(error.message);

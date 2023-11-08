@@ -3,7 +3,7 @@ import { goToTop } from "../../../utils/helpers";
 
 const PaginationDots = ({ totalPages, handlePageChange, currentPage }) => {
   return (
-    <div className="pagination">
+    <div className="pagination ">
       {Array.from({ length: totalPages }).map((_, index) => (
         <button
           key={index + 1}

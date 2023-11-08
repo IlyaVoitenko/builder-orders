@@ -10,7 +10,7 @@ import DescriptionProduct from "./DescriptionProduct";
 const InfoProduct = () => {
   const product = useSelector(selectedProductSelector);
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col w-screen">
       <Navigation
         categorie={product.categorie}
         subcategorie={product.type}

@@ -7,19 +7,20 @@ import PaginationDots from "./PaginationDots";
 
 const Pagination = ({ page = "product" }) => {
   const products = useSelector(productsReselect);
-  const productsPagination = [...products]; // Ваш массив products для отображения
-  const itemsPerPage = 8; // Количество элементов на одной странице
+  const productsPagination = [...products];
+
+  const itemsPerPage = 16;
 
   const { currentPage, totalPages, handlePageChange, getCurrentPageItems } =
     usePagination(itemsPerPage, productsPagination);
 
   return (
-    <div className="flex flex-col  justify-center items-center">
+    <div className="flex flex-col  justify-between items-center w-screen">
       <nav
         className={`flex  ${
           page === "home"
             ? "justify-between w-[70%] max-sm:w-[90%]  flex-row flex-wrap"
-            : "justify-around max-lg:flex-col max-lg:items-center  flex-wrap md:items-start  h-[90%] md:w-full md:flex-row lg:w-[90%] "
+            : "justify-around max-lg:flex-col max-lg:items-center  flex-wrap md:items-start   md:w-full md:flex-row lg:w-[90%] "
         }   mt-5`}
       >
         {getCurrentPageItems().map((product) => (
