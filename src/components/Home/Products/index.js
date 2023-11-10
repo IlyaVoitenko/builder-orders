@@ -3,7 +3,6 @@ import { translateSelector } from "../../../store/selectors";
 import TitleProducts from "./TitleProducts";
 import ProductsList from "./ProductsList";
 import { useSelector } from "react-redux";
-// ECK-01-300x300.png"
 import ECK01 from "../../../assets/images/ECK-01-300x300.png";
 import ECK09 from "../../../assets/images/ECK-09-300x300.png";
 import PK35 from "../../../assets/images/PK-35-300x300.png";

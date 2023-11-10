@@ -6,20 +6,17 @@ import KS40 from "../../../../assets/images/KS-40-300x300.png";
 import PG35 from "../../../../assets/images/PG-35-300x300.png";
 import GS40 from "../../../../assets/images/GS-40-300x300.png";
 import ECK05 from "../../../../assets/images/ECK-05-300x300.png";
-import HG06 from "../../../../assets/images/HG-06-300x300.png";
 
+import HG06 from "../../../../assets/images/HG-06-300x300.png";
 import HG08 from "../../../../assets/images/HG-08-300x300.png";
 import HG10 from "../../../../assets/images/HG-10-300x300.png";
 import HG11 from "../../../../assets/images/HG-11-300x300.png";
 import HG12 from "../../../../assets/images/HG-12-300x300.png";
-
 import HG13 from "../../../../assets/images/HG-13-300x300.png";
 import HG14 from "../../../../assets/images/HG-14-300x300.png";
-
 import HG15 from "../../../../assets/images/HG-15-300x300.png";
 import HG16 from "../../../../assets/images/HG-16-300x300.png";
 import HG17 from "../../../../assets/images/HG-17-300x300.png";
-
 import HG18 from "../../../../assets/images/HG-18-300x300.png";
 import HG19 from "../../../../assets/images/HG-19-300x300.png";
 import HG20 from "../../../../assets/images/HG-20-300x300.png";
@@ -48,6 +45,54 @@ import BO01 from "../../../../assets/images/BO-01-300x300.png";
 import BO02 from "../../../../assets/images/BO-02-300x300.png";
 import BO03 from "../../../../assets/images/BO-03-300x300.png";
 import BO07 from "../../../../assets/images/BO-07-300x300.png";
+
+import FB01 from "../../../../assets/images/FB-01-300x300.png";
+import FB02 from "../../../../assets/images/FB-02-300x300.png";
+import FB03 from "../../../../assets/images/FB-03-300x300.png";
+import FB04 from "../../../../assets/images/FB-04-300x300.png";
+import FB05 from "../../../../assets/images/FB-05-300x300.png";
+import FB06 from "../../../../assets/images/FB-06-300x300.png";
+import FB07 from "../../../../assets/images/FB-07-300x300.png";
+import FB08 from "../../../../assets/images/FB-08-300x300.png";
+import FB09 from "../../../../assets/images/FB-09-300x300.png";
+import FB10 from "../../../../assets/images/FB-10-300x300.png";
+import FB11 from "../../../../assets/images/FB-11-300x300.png";
+import FB12 from "../../../../assets/images/FB-12-300x300.png";
+import FB13 from "../../../../assets/images/FB-13-300x300.png";
+import FB14 from "../../../../assets/images/FB-14-300x300.png";
+import FB15 from "../../../../assets/images/FB-15-300x300.png";
+import FB16 from "../../../../assets/images/FB-16-300x300.png";
+import FB17 from "../../../../assets/images/FB-17-300x300.png";
+import FB18 from "../../../../assets/images/FB-18-300x300.png";
+import FB19 from "../../../../assets/images/FB-19-300x300.png";
+import FB20 from "../../../../assets/images/FB-20-300x300.png";
+import FB21 from "../../../../assets/images/FB-21-300x300.png";
+import FB22 from "../../../../assets/images/FB-22-300x300.png";
+import FB23 from "../../../../assets/images/FB-23-300x300.png";
+import FB24 from "../../../../assets/images/FB-24-300x300.png";
+import FB25 from "../../../../assets/images/FB-25-300x300.png";
+import FB26 from "../../../../assets/images/FB-26-300x300.png";
+import FB27 from "../../../../assets/images/FB-27-300x300.png";
+import FB28 from "../../../../assets/images/FB-28-300x300.png";
+import FB29 from "../../../../assets/images/FB-29-300x300.png";
+import FB30 from "../../../../assets/images/FB-30-300x300.png";
+import FB31 from "../../../../assets/images/FB-31-300x300.png";
+import FB32 from "../../../../assets/images/FB-32-300x300.png";
+import FB33 from "../../../../assets/images/FB-33-300x300.png";
+import FB34 from "../../../../assets/images/FB-34-300x300.png";
+
+import FB35 from "../../../../assets/images/FB-35-300x300.png";
+import FB36 from "../../../../assets/images/FB-36-300x300.png";
+import FB37 from "../../../../assets/images/FB-37-300x300.png";
+import FB38 from "../../../../assets/images/FB-38-300x300.png";
+import FB39 from "../../../../assets/images/FB-39-300x300.png";
+import FB40 from "../../../../assets/images/FB-40-300x300.png";
+import FB41 from "../../../../assets/images/FB-41-300x300.png";
+import FB42 from "../../../../assets/images/FB-42-300x300.png";
+import FB43 from "../../../../assets/images/FB-43-300x300.png";
+import FB44 from "../../../../assets/images/FB-44-300x300.png";
+import FB45 from "../../../../assets/images/FB-45-300x300.png";
+import FB46 from "../../../../assets/images/FB-46-300x300.png";
 
 import shortid from "shortid";
 
@@ -873,15 +918,694 @@ export const categories = {
     ],
     windowsills: [
       {
-        id: 1,
-        link: "",
-        text: "",
-        type: "",
-        imgUrl: "",
-        categorie: "",
-        price: "",
-        discription: "",
-        translaterField: "",
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-46",
+        type: "windowsills",
+        src: FB46,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-45",
+        type: "windowsills",
+        src: FB45,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-44",
+        type: "windowsills",
+        src: FB44,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-43",
+        type: "windowsills",
+        src: FB43,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-42",
+        type: "windowsills",
+        src: FB42,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-41",
+        type: "windowsills",
+        src: FB41,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-40",
+        type: "windowsills",
+        src: FB40,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-39",
+        type: "windowsills",
+        src: FB39,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-38",
+        type: "windowsills",
+        src: FB38,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-37",
+        type: "windowsills",
+        src: FB37,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-36",
+        type: "windowsills",
+        src: FB36,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-35",
+        type: "windowsills",
+        src: FB35,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-34",
+        type: "windowsills",
+        src: FB34,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-33",
+        type: "windowsills",
+        src: FB33,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-32",
+        type: "windowsills",
+        src: FB32,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-31",
+        type: "windowsills",
+        src: FB31,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-30",
+        type: "windowsills",
+        src: FB30,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-29",
+        type: "windowsills",
+        src: FB29,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-28",
+        type: "windowsills",
+        src: FB28,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-27",
+        type: "windowsills",
+        src: FB27,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-26",
+        type: "windowsills",
+        src: FB26,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-25",
+        type: "windowsills",
+        src: FB25,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-24",
+        type: "windowsills",
+        src: FB24,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-23",
+        type: "windowsills",
+        src: FB23,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-22",
+        type: "windowsills",
+        src: FB22,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-21",
+        type: "windowsills",
+        src: FB21,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-20",
+        type: "windowsills",
+        src: FB20,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-19",
+        type: "windowsills",
+        src: FB19,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-18",
+        type: "windowsills",
+        src: FB18,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-17",
+        type: "windowsills",
+        src: FB17,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-16",
+        type: "windowsills",
+        src: FB16,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-15",
+        type: "windowsills",
+        src: FB15,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-14",
+        type: "windowsills",
+        src: FB14,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-13",
+        type: "windowsills",
+        src: FB13,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-12",
+        type: "windowsills",
+        src: FB12,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-11",
+        type: "windowsills",
+        src: FB11,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-10",
+        type: "windowsills",
+        src: FB10,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-09",
+        type: "windowsills",
+        src: FB09,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-08",
+        type: "windowsills",
+        src: FB08,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-07",
+        type: "windowsills",
+        src: FB07,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-06",
+        type: "windowsills",
+        src: FB06,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-05",
+        type: "windowsills",
+        src: FB05,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-04",
+        type: "windowsills",
+        src: FB04,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-03",
+        type: "windowsills",
+        src: FB03,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-02",
+        type: "windowsills",
+        src: FB02,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FB-01",
+        type: "windowsills",
+        src: FB01,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     windowBar: [

@@ -10,7 +10,7 @@ const Gallery = () => {
             <figure className={"w-1/2 p-1 md:p-2"} key={image.id}>
               <img
                 alt={image.alt}
-                className="block h-full w-full rounded-lg object-cover object-center"
+                className="block h-[30vw] w-full rounded-lg object-cover object-center"
                 src={image.src}
               />
             </figure>
