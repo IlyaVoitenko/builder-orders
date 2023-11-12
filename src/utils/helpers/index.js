@@ -1,5 +1,6 @@
 import { setTranslate } from "../../store/thunk";
 import { setCurrentLanguage } from "../../store/reducer/translate";
+import { categories } from "../../components/ProductsCategories/constants";
 
 export const goToTop = () => {
   window.scrollTo({
@@ -16,4 +17,8 @@ export const validationFornBtn = (isAgree, lastname, email, requestUser) => {
     return false;
   }
   return true;
+};
+export const validationCategorieName = (categorie) => {
+  if (categories[categorie]) return categories[categorie];
+  return categorie;
 };

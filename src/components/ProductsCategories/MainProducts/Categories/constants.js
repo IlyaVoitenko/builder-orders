@@ -80,7 +80,6 @@ import FB31 from "../../../../assets/images/FB-31-300x300.png";
 import FB32 from "../../../../assets/images/FB-32-300x300.png";
 import FB33 from "../../../../assets/images/FB-33-300x300.png";
 import FB34 from "../../../../assets/images/FB-34-300x300.png";
-
 import FB35 from "../../../../assets/images/FB-35-300x300.png";
 import FB36 from "../../../../assets/images/FB-36-300x300.png";
 import FB37 from "../../../../assets/images/FB-37-300x300.png";
@@ -93,6 +92,43 @@ import FB43 from "../../../../assets/images/FB-43-300x300.png";
 import FB44 from "../../../../assets/images/FB-44-300x300.png";
 import FB45 from "../../../../assets/images/FB-45-300x300.png";
 import FB46 from "../../../../assets/images/FB-46-300x300.png";
+
+import FL35 from "../../../../assets/images/FL-35-300x300.png";
+import FL34 from "../../../../assets/images/FL-34-300x300.png";
+import FL33 from "../../../../assets/images/FL-33-300x300.png";
+import FL32 from "../../../../assets/images/FL-32-300x300.png";
+import FL31 from "../../../../assets/images/FL-31-300x300.png";
+import FL30 from "../../../../assets/images/FL-30-300x300.png";
+import FL29 from "../../../../assets/images/FL-29-300x300.png";
+import FL28 from "../../../../assets/images/FL-28-300x300.png";
+import FL27 from "../../../../assets/images/FL-27-300x300.png";
+import FL26 from "../../../../assets/images/FL-26-300x300.png";
+import FL25 from "../../../../assets/images/FL-25-300x300.png";
+import FL24 from "../../../../assets/images/FL-24-300x300.png";
+import FL23 from "../../../../assets/images/FL-23-300x300.png";
+import FL22 from "../../../../assets/images/FL-22-300x300.png";
+import FL21 from "../../../../assets/images/FL-21-300x300.png";
+import FL20 from "../../../../assets/images/FL-20-300x300.png";
+import FL19 from "../../../../assets/images/FL-19-300x300.png";
+import FL18 from "../../../../assets/images/FL-18-300x300.png";
+import FL17 from "../../../../assets/images/FL-17-300x300.png";
+import FL16 from "../../../../assets/images/FL-16-300x300.png";
+import FL15 from "../../../../assets/images/FL-15-300x300.png";
+import FL14 from "../../../../assets/images/FL-14-300x300.png";
+import FL13 from "../../../../assets/images/FL-13-300x300.png";
+import FL12 from "../../../../assets/images/FL-12-300x300.png";
+import FL11 from "../../../../assets/images/FL-11-300x300.png";
+import FL10 from "../../../../assets/images/FL-10-300x300.png";
+import FL09 from "../../../../assets/images/FL-09-1-300x300.png";
+import FL08 from "../../../../assets/images/FL-08-300x300.png";
+import FL07 from "../../../../assets/images/FL-07-300x300.png";
+import FL06 from "../../../../assets/images/FL-06-300x300.png";
+import FL05 from "../../../../assets/images/FL-05-300x300.png";
+import FL04 from "../../../../assets/images/FL-04-300x300.png";
+import FL03 from "../../../../assets/images/FL-03-300x300.png";
+import FL02 from "../../../../assets/images/FL-02-300x300.png";
+import FL01 from "../../../../assets/images/FL-01-300x300.png";
+// import FL from "../../../../assets/images/FL--300x300.png";
 
 import shortid from "shortid";
 
@@ -1611,14 +1647,528 @@ export const categories = {
     windowBar: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
-        type: "",
-        imgUrl: "",
-        categorie: "",
-        price: "",
-        discription: "",
-        translaterField: "",
+        link: "/Product",
+        title: "FL-35",
+        type: "windowBar",
+        src: FL35,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-34",
+        type: "windowBar",
+        src: FL34,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-33",
+        type: "windowBar",
+        src: FL33,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-32",
+        type: "windowBar",
+        src: FL32,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-31",
+        type: "windowBar",
+        src: FL31,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-30",
+        type: "windowBar",
+        src: FL30,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-29",
+        type: "windowBar",
+        src: FL29,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-28",
+        type: "windowBar",
+        src: FL28,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-27",
+        type: "windowBar",
+        src: FL27,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-26",
+        type: "windowBar",
+        src: FL26,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-25",
+        type: "windowBar",
+        src: FL25,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-24",
+        type: "windowBar",
+        src: FL24,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-23",
+        type: "windowBar",
+        src: FL23,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-22",
+        type: "windowBar",
+        src: FL22,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-21",
+        type: "windowBar",
+        src: FL21,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-20",
+        type: "windowBar",
+        src: FL20,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL19",
+        type: "windowBar",
+        src: FL19,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-18",
+        type: "windowBar",
+        src: FL18,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-17",
+        type: "windowBar",
+        src: FL17,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-16",
+        type: "windowBar",
+        src: FL16,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-15",
+        type: "windowBar",
+        src: FL15,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-14",
+        type: "windowBar",
+        src: FL14,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-13",
+        type: "windowBar",
+        src: FL13,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-12",
+        type: "windowBar",
+        src: FL12,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-11",
+        type: "windowBar",
+        src: FL11,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-10",
+        type: "windowBar",
+        src: FL10,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-09",
+        type: "windowBar",
+        src: FL09,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-08",
+        type: "windowBar",
+        src: FL08,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-07",
+        type: "windowBar",
+        src: FL07,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-06",
+        type: "windowBar",
+        src: FL06,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-05",
+        type: "windowBar",
+        src: FL05,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-04",
+        type: "windowBar",
+        src: FL04,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-03",
+        type: "windowBar",
+        src: FL03,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-02",
+        type: "windowBar",
+        src: FL02,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "FL-01",
+        type: "windowBar",
+        src: FL01,
+        categorie: "facadeStucco",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     mainCornice: [
