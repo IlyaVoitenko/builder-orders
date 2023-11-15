@@ -19,6 +19,7 @@ const SubcategorieItem = ({
   const translate = useSelector(translateSelector);
   const selectedCategorie = useSelector(selectedCategorieSelector);
   const navigate = useNavigate();
+
   return (
     <div
       className={`text-left pl-5 cursor-pointer
@@ -33,8 +34,8 @@ const SubcategorieItem = ({
       }}
     >
       {
-        translate?.productsCategories.categories[`${сategorieTranslater}`]
-          .categoriesTypes[`${item}`]
+        translate?.productsCategories.categories[сategorieTranslater]
+          .categoriesTypes[item]
       }
     </div>
   );

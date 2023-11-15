@@ -17,16 +17,14 @@ const Navigation = ({ categorie, subcategorie, nameProduct }) => {
       </Link>
       /
       <Link to="/products-categories" className="pr-1 pl-1">
-        {
-          translate?.productsCategories.categories[`${categorie}`]
-            .titleCategorie
-        }
+        {translate?.productsCategories.categories[categorie].titleCategorie}
       </Link>
       /
       <Link to="/products-categories" className="pr-1 pl-1">
         {
-          translate?.productsCategories.categories[`${categorie}`]
-            .categoriesTypes[`${validSubcategorie}`]
+          translate?.productsCategories.categories[categorie].categoriesTypes[
+            validSubcategorie
+          ]
         }
       </Link>
       /<span className="pr-1 pl-1">{nameProduct}</span>

@@ -5,6 +5,7 @@ import { useSelector } from "react-redux";
 import { categories } from "./constants";
 
 const Categories = ({ isProductsCategoriesPage = false }) => {
+  const { facadeStucco, internal } = categories;
   const translate = useSelector(translateSelector);
   return (
     <div
@@ -18,7 +19,7 @@ const Categories = ({ isProductsCategoriesPage = false }) => {
         {translate?.productsCategories.title}
       </span>
       <Categorie
-        subcategories={categories.facadeStucco}
+        subcategories={facadeStucco}
         сategorieTranslater={"facadeStucco"}
         isProductsCategoriesPage={isProductsCategoriesPage}
         titleCatrgorie={
@@ -26,7 +27,7 @@ const Categories = ({ isProductsCategoriesPage = false }) => {
         }
       />
       <Categorie
-        subcategories={categories.internal}
+        subcategories={internal}
         isProductsCategoriesPage={isProductsCategoriesPage}
         сategorieTranslater={"internal"}
         titleCatrgorie={"productsCategories.categories.internal.titleCategorie"}

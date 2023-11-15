@@ -134,7 +134,6 @@ import FL04 from "../../../../assets/images/FL-04-300x300.png";
 import FL03 from "../../../../assets/images/FL-03-300x300.png";
 import FL02 from "../../../../assets/images/FL-02-300x300.png";
 import FL01 from "../../../../assets/images/FL-01-300x300.png";
-// import FL from "../../../../assets/images/FL--300x300.png";
 
 import shortid from "shortid";
 
@@ -2787,6 +2786,23 @@ export const categories = {
     ],
   },
   internal: {
+    internal: [
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "EN-123",
+        type: "internal",
+        src: PK35,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+    ],
     pictures: [
       {
         id: shortid.generate(),
