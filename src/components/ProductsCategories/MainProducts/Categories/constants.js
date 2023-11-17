@@ -232,6 +232,14 @@ import img4025 from "../../../../assets/images/4025-300x300.png";
 
 import B2B from "../../../../assets/images/B28-300x300.png";
 
+import DS101 from "../../../../assets/images/DS-101-300x300.png";
+import DS101a from "../../../../assets/images/DS-101-A-300x300.png";
+import DS102 from "../../../../assets/images/DS-102-300x300.png";
+import DS102a from "../../../../assets/images/DS-102-A-300x300.png";
+import DS102b from "../../../../assets/images/DS-102-B-300x300.png";
+import DS102c from "../../../../assets/images/DS-102-C-300x300.png";
+import DS102d from "../../../../assets/images/DS-102-D-300x300.png";
+import DS103a from "../../../../assets/images/DS-103-A-300x300.png";
 import DS103 from "../../../../assets/images/DS-103-300x300.png";
 import DS104 from "../../../../assets/images/DS-104-2-300x300.png";
 
@@ -5292,14 +5300,153 @@ export const categories = {
     ceilingMirror: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "DS-104",
         type: "ceiling mirror",
-        imgUrl: "",
+        src: DS104,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-103",
+        type: "ceiling mirror",
+        src: DS103,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-101",
+        type: "ceiling mirror",
+        src: DS101,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-101a",
+        type: "ceiling mirror",
+        src: DS101a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-102",
+        type: "ceiling mirror",
+        src: DS102,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-102A",
+        type: "ceiling mirror",
+        src: DS102a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-102A",
+        type: "ceiling mirror",
+        src: DS102b,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-102C",
+        type: "ceiling mirror",
+        src: DS102c,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-102B",
+        type: "ceiling mirror",
+        src: DS102d,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-103A",
+        type: "ceiling mirror",
+        src: DS103a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     decorativeCorners: [
