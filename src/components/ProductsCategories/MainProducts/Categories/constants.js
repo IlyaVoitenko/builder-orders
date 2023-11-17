@@ -1,4 +1,3 @@
-import logo from "../../../../assets/images/second.jpg";
 import ECK01 from "../../../../assets/images/ECK-01-300x300.png";
 import ECK09 from "../../../../assets/images/ECK-09-300x300.png";
 import PK35 from "../../../../assets/images/PK-35-300x300.png";
@@ -134,6 +133,106 @@ import FL04 from "../../../../assets/images/FL-04-300x300.png";
 import FL03 from "../../../../assets/images/FL-03-300x300.png";
 import FL02 from "../../../../assets/images/FL-02-300x300.png";
 import FL01 from "../../../../assets/images/FL-01-300x300.png";
+
+import img102 from "../../../../assets/images/102-1-300x256.png";
+import img1022 from "../../../../assets/images/102-2-300x300 (1).png";
+import img103 from "../../../../assets/images/103-1-300x256.png";
+import img102a from "../../../../assets/images/103a-300x300.png";
+import img104 from "../../../../assets/images/104-300x256.png";
+import img106 from "../../../../assets/images/106-1-300x256.png";
+import img107 from "../../../../assets/images/107-1-300x256.png";
+import img113 from "../../../../assets/images/113-1-300x256.png";
+import img115 from "../../../../assets/images/115-1-300x256.png";
+import img116 from "../../../../assets/images/116-1-300x256.png";
+import img117 from "../../../../assets/images/117-1-300x256.png";
+import img119 from "../../../../assets/images/119-1-300x256.png";
+import img120 from "../../../../assets/images/120-300x256.png";
+import img121 from "../../../../assets/images/121-300x256.png";
+import img207a from "../../../../assets/images/207a-300x300.png";
+import img224 from "../../../../assets/images/224-300x300.png";
+import img233a from "../../../../assets/images/233a-300x300.png";
+import img1008X from "../../../../assets/images/1008X-1-300x300.png";
+import img20123 from "../../../../assets/images/2012-3-300x300.png";
+import img20132 from "../../../../assets/images/2013-2-300x300.png";
+import img3019c from "../../../../assets/images/3019c-300x300.png";
+import img4002 from "../../../../assets/images/4002-300x300.png";
+import img40221 from "../../../../assets/images/4022-1-300x300.png";
+import img4025 from "../../../../assets/images/4025-300x300.png";
+
+import B2B from "../../../../assets/images/B28-300x300.png";
+
+import DS103 from "../../../../assets/images/DS-103-300x300.png";
+import DS104 from "../../../../assets/images/DS-104-2-300x300.png";
+
+import GS26 from "../../../../assets/images/GS26-300x300.png";
+
+import I0051 from "../../../../assets/images/I005-1-300x300.png";
+import I0161 from "../../../../assets/images/I016-1-300x300.png";
+
+import K006 from "../../../../assets/images/K-006-300x300.png";
+import K007 from "../../../../assets/images/K-007-300x300.png";
+import K010 from "../../../../assets/images/K-010-1-300x300.png";
+import K012 from "../../../../assets/images/K-012-13-1-300x278.png";
+import K004 from "../../../../assets/images/KO-004-300x300.png";
+import KO012 from "../../../../assets/images/KO-012-281x300.png";
+import KO014 from "../../../../assets/images/KO-014-300x300.png";
+import KO017 from "../../../../assets/images/KO-017.png";
+import KO0181 from "../../../../assets/images/KO-018-1-300x300.png";
+import KO018 from "../../../../assets/images/KO-018-300x300.png";
+
+import KS26 from "../../../../assets/images/KS26-300x300.png";
+
+import LA002 from "../../../../assets/images/LA-002-300x300.png";
+
+import OR023 from "../../../../assets/images/OR-023.png";
+import OR025 from "../../../../assets/images/OR-025.png";
+import OR027 from "../../../../assets/images/OR-027-300x300.png";
+import OR072 from "../../../../assets/images/OR-072-300x300.png";
+import OR076 from "../../../../assets/images/OR-076.png";
+import OR082 from "../../../../assets/images/OR-082-300x300.png";
+import OR087 from "../../../../assets/images/OR-087.png";
+import OR092 from "../../../../assets/images/OR-092-300x87.png";
+import OR099 from "../../../../assets/images/OR-099-300x171.png";
+import OR101 from "../../../../assets/images/OR-101.png";
+import OR108 from "../../../../assets/images/OR-108-300x300.png";
+import OR109 from "../../../../assets/images/OR-109-300x300.png";
+
+import P30 from "../../../../assets/images/P-30-300x275.png";
+
+import RC003 from "../../../../assets/images/R-C003-300x300.png";
+import RC004 from "../../../../assets/images/R-C004-300x300.png";
+import RC014 from "../../../../assets/images/R-C014-300x300.png";
+import RC017 from "../../../../assets/images/R-C017-300x300.png";
+
+import RD003 from "../../../../assets/images/R-D003-300x300.png";
+import RD012 from "../../../../assets/images/R-D012-300x300.png";
+
+import RE005 from "../../../../assets/images/R-E005-600x601.png";
+import RE012 from "../../../../assets/images/R-E012-600x601.png";
+import RE014 from "../../../../assets/images/R-E014-600x601.png";
+import RE015 from "../../../../assets/images/R-E015-600x601.png";
+import RE021 from "../../../../assets/images/R-E021-600x601.png";
+import RE022 from "../../../../assets/images/R-E022-600x601.png";
+import RE024 from "../../../../assets/images/R-E024-600x601.png";
+
+import RF001 from "../../../../assets/images/R-F001-600x601.png";
+import RF003 from "../../../../assets/images/R-F003-600x601.png";
+import RF006 from "../../../../assets/images/R-F006-600x601.png";
+import RF007 from "../../../../assets/images/R-F007-600x601.png";
+import RF010 from "../../../../assets/images/R-F010-600x601.png";
+import RF013 from "../../../../assets/images/R-F013-600x601.png";
+import RF014 from "../../../../assets/images/R-F014-600x601.png";
+import RF016 from "../../../../assets/images/R-F016-600x601.png";
+
+import RH012 from "../../../../assets/images/R-H012-300x300.png";
+import RH014 from "../../../../assets/images/R-H014-300x300.png";
+
+import RG006 from "../../../../assets/images/RG006-600x601.png";
+import RG008 from "../../../../assets/images/RG008-600x601.png";
+import RG009 from "../../../../assets/images/RG009-600x601.png";
+import RG012 from "../../../../assets/images/RG012-600x601.png";
+
+import SP02 from "../../../../assets/images/SP02-1-300x300.png";
 
 import shortid from "shortid";
 
@@ -822,30 +921,15 @@ export const categories = {
       {
         id: shortid.generate(),
         link: "/Product",
-        title: "EN-123",
+        title: "BO-35",
         type: "bosses",
-        src: logo,
+        src: PG35,
         categorie: "facadeStucco",
         price: "€ 15.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
-        link: "/Product",
-        title: "EN-123",
-        type: "bosses",
-        src: logo,
-        categorie: "facadeStucco",
-        price: "€ 15.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: "Anschluss: RL 103",
           price: "Цена за единицу:",
         },
       },
@@ -2790,9 +2874,1239 @@ export const categories = {
       {
         id: shortid.generate(),
         link: "/Product",
-        title: "EN-123",
+        title: "RL-102",
         type: "internal",
-        src: PK35,
+        src: img102,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-102",
+        type: "internal",
+        src: img1022,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-103",
+        type: "internal",
+        src: img103,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-102",
+        type: "internal",
+        src: img102a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-104",
+        type: "internal",
+        src: img104,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-106",
+        type: "internal",
+        src: img106,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-107",
+        type: "internal",
+        src: img107,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-115",
+        type: "internal",
+        src: img115,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-116",
+        type: "internal",
+        src: img116,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-117",
+        type: "internal",
+        src: img117,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-119",
+        type: "internal",
+        src: img119,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-120",
+        type: "internal",
+        src: img120,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-121",
+        type: "internal",
+        src: img121,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-207",
+        type: "internal",
+        src: img207a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-224",
+        type: "internal",
+        src: img224,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-4002",
+        type: "internal",
+        src: img4002,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-113",
+        type: "internal",
+        src: img113,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-4025",
+        type: "internal",
+        src: img4025,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-233",
+        type: "internal",
+        src: img233a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-1008",
+        type: "internal",
+        src: img1008X,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-20123",
+        type: "internal",
+        src: img20123,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-20132",
+        type: "internal",
+        src: img20132,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-3019",
+        type: "internal",
+        src: img3019c,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-40221",
+        type: "internal",
+        src: img40221,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-2B",
+        type: "internal",
+        src: B2B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-103",
+        type: "internal",
+        src: DS103,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DS-104",
+        type: "internal",
+        src: DS104,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "GS-26",
+        type: "internal",
+        src: GS26,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "I-51",
+        type: "internal",
+        src: I0051,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "I-161",
+        type: "internal",
+        src: I0161,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-006",
+        type: "internal",
+        src: K006,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-007",
+        type: "internal",
+        src: K007,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-10",
+        type: "internal",
+        src: K010,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-12",
+        type: "internal",
+        src: K012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-4",
+        type: "internal",
+        src: K004,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "KO-12",
+        type: "internal",
+        src: KO012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "KO-14",
+        type: "internal",
+        src: KO014,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "KO-17",
+        type: "internal",
+        src: KO017,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "KO-181",
+        type: "internal",
+        src: KO0181,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "KO-18",
+        type: "internal",
+        src: KO018,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "KS-26",
+        type: "internal",
+        src: KS26,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "LA-02",
+        type: "internal",
+        src: LA002,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-23",
+        type: "internal",
+        src: OR023,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-25",
+        type: "internal",
+        src: OR025,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-72",
+        type: "internal",
+        src: OR072,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-76",
+        type: "internal",
+        src: OR076,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-27",
+        type: "internal",
+        src: OR027,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-82",
+        type: "internal",
+        src: OR082,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-87",
+        type: "internal",
+        src: OR087,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-92",
+        type: "internal",
+        src: OR092,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-99",
+        type: "internal",
+        src: OR099,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-101",
+        type: "internal",
+        src: OR101,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-108",
+        type: "internal",
+        src: OR108,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "OR-109",
+        type: "internal",
+        src: OR109,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "P-30",
+        type: "internal",
+        src: P30,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-3",
+        type: "internal",
+        src: RC003,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-4",
+        type: "internal",
+        src: RC004,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-14",
+        type: "internal",
+        src: RC014,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-17",
+        type: "internal",
+        src: RC017,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RD-3",
+        type: "internal",
+        src: RD003,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RD-12",
+        type: "internal",
+        src: RD012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-5",
+        type: "internal",
+        src: RE005,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-12",
+        type: "internal",
+        src: RE012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-14",
+        type: "internal",
+        src: RE014,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-15",
+        type: "internal",
+        src: RE015,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-21",
+        type: "internal",
+        src: RE021,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-22",
+        type: "internal",
+        src: RE022,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-24",
+        type: "internal",
+        src: RE024,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-1",
+        type: "internal",
+        src: RF001,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-3",
+        type: "internal",
+        src: RF003,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-7",
+        type: "internal",
+        src: RF007,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-6",
+        type: "internal",
+        src: RF006,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-10",
+        type: "internal",
+        src: RF010,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-13",
+        type: "internal",
+        src: RF013,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-14",
+        type: "internal",
+        src: RF014,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-16",
+        type: "internal",
+        src: RF016,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RH-12",
+        type: "internal",
+        src: RH012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-6",
+        type: "internal",
+        src: RG006,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-8",
+        type: "internal",
+        src: RG008,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-9",
+        type: "internal",
+        src: RG009,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-12",
+        type: "internal",
+        src: RG012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "SP-2",
+        type: "internal",
+        src: SP02,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RH-14",
+        type: "internal",
+        src: RH014,
         categorie: "internal",
         price: "€ 15.00",
         discription: {
