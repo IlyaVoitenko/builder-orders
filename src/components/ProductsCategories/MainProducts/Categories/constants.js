@@ -144,22 +144,39 @@ import FL03 from "../../../../assets/images/FL-03-300x300.png";
 import FL02 from "../../../../assets/images/FL-02-300x300.png";
 import FL01 from "../../../../assets/images/FL-01-300x300.png";
 
+import img101 from "../../../../assets/images/101-1-300x300.png";
+import img101a from "../../../../assets/images/101a-300x300.png";
 import img102 from "../../../../assets/images/102-1-300x256.png";
 import img1022 from "../../../../assets/images/102-2-300x300 (1).png";
 import img103 from "../../../../assets/images/103-1-300x256.png";
-import img102a from "../../../../assets/images/103a-300x300.png";
+import img103a from "../../../../assets/images/103a-300x300.png";
 import img104 from "../../../../assets/images/104-300x256.png";
+import img104a from "../../../../assets/images/104a-300x300.png";
+import img105 from "../../../../assets/images/105-1-300x300.png";
 import img106 from "../../../../assets/images/106-1-300x256.png";
 import img107 from "../../../../assets/images/107-1-300x256.png";
+import img108 from "../../../../assets/images/108-1-300x300.png";
+import img110 from "../../../../assets/images/110-1-300x300.png";
+import img112 from "../../../../assets/images/112-1-300x300.png";
 import img113 from "../../../../assets/images/113-1-300x256.png";
 import img115 from "../../../../assets/images/115-1-300x256.png";
+import img116a from "../../../../assets/images/116a-1-300x300.png";
 import img116 from "../../../../assets/images/116-1-300x256.png";
 import img117 from "../../../../assets/images/117-1-300x256.png";
 import img119 from "../../../../assets/images/119-1-300x256.png";
 import img120 from "../../../../assets/images/120-300x256.png";
 import img121 from "../../../../assets/images/121-300x256.png";
+import img201 from "../../../../assets/images/201-1-300x300.png";
+import img202 from "../../../../assets/images/202-1-300x300.png";
+import img203 from "../../../../assets/images/203-1-300x300.png";
+import img204 from "../../../../assets/images/204-1-300x300.png";
+import img205a from "../../../../assets/images/205a-300x300.png";
+import img205 from "../../../../assets/images/205-1-300x300.png";
 import img207a from "../../../../assets/images/207a-300x300.png";
 import img224 from "../../../../assets/images/224-300x300.png";
+import img227a from "../../../../assets/images/227a-300x300.png";
+import img227 from "../../../../assets/images/227-1-300x300.png";
+import img233 from "../../../../assets/images/233-300x300.png";
 import img233a from "../../../../assets/images/233a-300x300.png";
 import img1008X from "../../../../assets/images/1008X-1-300x300.png";
 import img20123 from "../../../../assets/images/2012-3-300x300.png";
@@ -2998,9 +3015,9 @@ export const categories = {
       {
         id: shortid.generate(),
         link: "/Product",
-        title: "DE-102",
+        title: "DE-103A",
         type: "internal",
-        src: img102a,
+        src: img103a,
         categorie: "internal",
         price: "€ 15.00",
         discription: {
@@ -5452,14 +5469,334 @@ export const categories = {
     decorativeCorners: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "DE-224",
         type: "decorative corners",
-        imgUrl: "",
+        src: img224,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-207A",
+        type: "decorative corners",
+        src: img207a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-103A",
+        type: "decorative corners",
+        src: img103a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-102",
+        type: "decorative corners",
+        src: img1022,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-233A",
+        type: "decorative corners",
+        src: img233a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-233",
+        type: "decorative corners",
+        src: img233,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-227A",
+        type: "decorative corners",
+        src: img227a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-227",
+        type: "decorative corners",
+        src: img227,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-205A",
+        type: "decorative corners",
+        src: img205a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-205",
+        type: "decorative corners",
+        src: img205,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-204",
+        type: "decorative corners",
+        src: img204,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-101",
+        type: "decorative corners",
+        src: img101,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-101A",
+        type: "decorative corners",
+        src: img101a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-104A",
+        type: "decorative corners",
+        src: img104a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-105",
+        type: "decorative corners",
+        src: img105,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-108",
+        type: "decorative corners",
+        src: img108,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-110",
+        type: "decorative corners",
+        src: img110,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-112",
+        type: "decorative corners",
+        src: img112,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-116A",
+        type: "decorative corners",
+        src: img116a,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-201",
+        type: "decorative corners",
+        src: img201,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-202",
+        type: "decorative corners",
+        src: img202,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "DE-203",
+        type: "decorative corners",
+        src: img203,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     indirectLightStrips: [
