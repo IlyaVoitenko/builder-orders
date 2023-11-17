@@ -50,6 +50,16 @@ import BO01 from "../../../../assets/images/BO-01-300x300.png";
 import BO02 from "../../../../assets/images/BO-02-300x300.png";
 import BO03 from "../../../../assets/images/BO-03-300x300.png";
 import BO07 from "../../../../assets/images/BO-07-300x300.png";
+import B02 from "../../../../assets/images/B-002-300x300.png";
+import B04 from "../../../../assets/images/B-004-300x300.png";
+import B05 from "../../../../assets/images/B-005.png";
+import B11 from "../../../../assets/images/B-011-300x300.png";
+import B20 from "../../../../assets/images/B-020-221x300.png";
+import B23 from "../../../../assets/images/B-023-300x300.png";
+import B25 from "../../../../assets/images/B-025-300x262.png";
+import B27 from "../../../../assets/images/B27-300x300.png";
+import B28 from "../../../../assets/images/B28-300x300 (1).png";
+import B29 from "../../../../assets/images/B29-300x300.png";
 
 import FB01 from "../../../../assets/images/FB-01-300x300.png";
 import FB02 from "../../../../assets/images/FB-02-300x300.png";
@@ -4120,14 +4130,153 @@ export const categories = {
     pictures: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "B-2",
         type: "pictures",
-        imgUrl: "",
+        src: B02,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-4",
+        type: "pictures",
+        src: B04,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-5",
+        type: "pictures",
+        src: B05,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-11",
+        type: "pictures",
+        src: B11,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-20",
+        type: "pictures",
+        src: B20,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-23",
+        type: "pictures",
+        src: B23,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-25",
+        type: "pictures",
+        src: B25,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-27",
+        type: "pictures",
+        src: B27,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-28",
+        type: "pictures",
+        src: B28,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "B-29",
+        type: "pictures",
+        src: B29,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     ceilingAndWallMoldings: [
