@@ -262,9 +262,6 @@ import DS104 from "../../../../assets/images/DS-104-2-300x300.png";
 
 import GS26 from "../../../../assets/images/GS26-300x300.png";
 
-import I0051 from "../../../../assets/images/I005-1-300x300.png";
-import I0161 from "../../../../assets/images/I016-1-300x300.png";
-
 import K006 from "../../../../assets/images/K-006-300x300.png";
 import K007 from "../../../../assets/images/K-007-300x300.png";
 import K010 from "../../../../assets/images/K-010-1-300x300.png";
@@ -329,6 +326,36 @@ import RG009 from "../../../../assets/images/RG009-600x601.png";
 import RG012 from "../../../../assets/images/RG012-600x601.png";
 
 import SP02 from "../../../../assets/images/SP02-1-300x300.png";
+
+import I0051 from "../../../../assets/images/I005-1-300x300.png";
+import I0161 from "../../../../assets/images/I016-1-300x300.png";
+import I001A from "../../../../assets/images/I001A-1-300x300.png";
+import I001AB from "../../../../assets/images/I001AB-2-300x300.png";
+import I001B from "../../../../assets/images/I001B-2-300x300.png";
+import I002 from "../../../../assets/images/I002-1-300x300.png";
+import I003A from "../../../../assets/images/I003A-1-300x300.png";
+import I003AB from "../../../../assets/images/I003AB-1-300x300.png";
+import I003B from "../../../../assets/images/I003B-1-300x300.png";
+import I004 from "../../../../assets/images/I004-1-300x300.png";
+import I006 from "../../../../assets/images/I006-1-300x300.png";
+import I007 from "../../../../assets/images/I007-2-300x300.png";
+import I008 from "../../../../assets/images/I008-2-300x300.png";
+import I009 from "../../../../assets/images/I009-2-300x300.png";
+import I010 from "../../../../assets/images/I010-3-300x300.png";
+import I011A from "../../../../assets/images/I011A-2-300x300.png";
+import I011AB from "../../../../assets/images/I011AB-2-300x300.png";
+import I012A from "../../../../assets/images/I012A-2-300x300.png";
+import I012AB from "../../../../assets/images/I012AB-2-300x300.png";
+import I012B from "../../../../assets/images/I012B-2-300x300.png";
+import I013A from "../../../../assets/images/I013A-2-300x300.png";
+import I013AB from "../../../../assets/images/I013AB-2-300x300.png";
+import I013B from "../../../../assets/images/I013B-3-300x300.png";
+import I014A from "../../../../assets/images/I014A-2-300x300.png";
+import I014AB from "../../../../assets/images/I014AB-2-300x300.png";
+import I014B from "../../../../assets/images/I014B-2-300x300.png";
+import I015A from "../../../../assets/images/I015A-2-300x300.png";
+import I015AB from "../../../../assets/images/I015AB-2-300x300.png";
+import I015B from "../../../../assets/images/I015B-2-300x300.png";
 
 import shortid from "shortid";
 
@@ -5802,14 +5829,438 @@ export const categories = {
     indirectLightStrips: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "IO-161",
         type: "Indirect light strips",
-        imgUrl: "",
+        src: I0161,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-51",
+        type: "Indirect light strips",
+        src: I0051,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-1A",
+        type: "Indirect light strips",
+        src: I001A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-1AB",
+        type: "Indirect light strips",
+        src: I001AB,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-1B",
+        type: "Indirect light strips",
+        src: I001B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-2",
+        type: "Indirect light strips",
+        src: I002,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-3A",
+        type: "Indirect light strips",
+        src: I003A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-3AB",
+        type: "Indirect light strips",
+        src: I003AB,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-3B",
+        type: "Indirect light strips",
+        src: I003B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-4",
+        type: "Indirect light strips",
+        src: I004,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-6",
+        type: "Indirect light strips",
+        src: I006,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-7",
+        type: "Indirect light strips",
+        src: I007,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-8",
+        type: "Indirect light strips",
+        src: I008,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-9",
+        type: "Indirect light strips",
+        src: I009,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-10",
+        type: "Indirect light strips",
+        src: I010,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-11A",
+        type: "Indirect light strips",
+        src: I011A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-11AB",
+        type: "Indirect light strips",
+        src: I011AB,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-12A",
+        type: "Indirect light strips",
+        src: I012A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-12AB",
+        type: "Indirect light strips",
+        src: I012AB,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-12B",
+        type: "Indirect light strips",
+        src: I012B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-13A",
+        type: "Indirect light strips",
+        src: I013A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-13AB",
+        type: "Indirect light strips",
+        src: I013AB,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-13B",
+        type: "Indirect light strips",
+        src: I013B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-14A",
+        type: "Indirect light strips",
+        src: I014A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-14AB",
+        type: "Indirect light strips",
+        src: I014AB,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-14B",
+        type: "Indirect light strips",
+        src: I014B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-15A",
+        type: "Indirect light strips",
+        src: I015A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-15AB",
+        type: "Indirect light strips",
+        src: I015AB,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "IO-15B",
+        type: "Indirect light strips",
+        src: I015B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     cassettes: [
