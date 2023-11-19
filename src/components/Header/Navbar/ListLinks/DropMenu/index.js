@@ -5,7 +5,6 @@ import MenuList from "./MenuList";
 
 const DropMenu = ({ arr, title }) => {
   const [isOpenMenu, setIsOpenMenu] = useState(false);
-
   return (
     <div className="lg:relative z-40">
       <button

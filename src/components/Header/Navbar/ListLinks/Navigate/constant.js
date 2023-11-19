@@ -6,10 +6,17 @@ export const serviceLinks = [
 ];
 
 export const productsLinks = [
-  { value: "ВСТАВКИ", link: "/products-categories" },
-  { value: "ФАСАДНАЯ ЛЕПНИЦА", link: "" },
-  { value: "КАТАЛОГ  СКАЧАТЬ", link: "" },
-  { value: "КАТАЛОГ FASSANDENSTUCK СКАЧАТЬ", link: "" },
+  { value: "", link: "" },
+  {
+    link: "/products-categories",
+    categorie: "facadeStucco",
+    subcategorie: "facadestucco",
+  },
+  {
+    link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "internal",
+  },
 ];
 
 export const contactsLinks = [

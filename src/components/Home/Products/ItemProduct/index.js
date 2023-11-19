@@ -1,18 +1,24 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { setSelectedProduct } from "../../../../store/reducer/categories";
+import {
+  setProducts,
+  setSelectedCategorie,
+} from "../../../../store/reducer/categories";
 import { useDispatch } from "react-redux";
 import { goToTop } from "../../../../utils/helpers";
 
 const ItemProduct = ({ item }) => {
   const dispatch = useDispatch();
+
+  const { categorie, subcategorie } = item;
   return (
     <Link
       to={item.link}
       className="w-[21%] max-sm:w-[49%]"
       onClick={() => {
         goToTop();
-        dispatch(setSelectedProduct(item));
+        dispatch(setSelectedCategorie(subcategorie));
+        dispatch(setProducts(categorie));
       }}
     >
       <figure className="flex flex-col  mt-5  ">
