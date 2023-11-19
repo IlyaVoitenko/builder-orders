@@ -284,8 +284,8 @@ import K04 from "../../../../assets/images/K-004-300x300.png";
 import K05 from "../../../../assets/images/K-005-300x300.png";
 import K08 from "../../../../assets/images/K-008-1-300x300.png";
 import K013 from "../../../../assets/images/K-013-300x241.png";
-
 import K004 from "../../../../assets/images/KO-004-300x300.png";
+
 import KO012 from "../../../../assets/images/KO-012-281x300.png";
 import KO014 from "../../../../assets/images/KO-014-300x300.png";
 import KO017 from "../../../../assets/images/KO-017.png";
@@ -344,7 +344,6 @@ import OR111 from "../../../../assets/images/OR-111-300x300.png";
 import OR112 from "../../../../assets/images/OR-112-300x300.png";
 import OR114 from "../../../../assets/images/OR-114.png";
 import OR115 from "../../../../assets/images/OR-115-295x300.png";
-
 import OR023 from "../../../../assets/images/OR-023.png";
 import OR025 from "../../../../assets/images/OR-025.png";
 import OR027 from "../../../../assets/images/OR-027-300x300.png";
@@ -391,15 +390,30 @@ import RE024 from "../../../../assets/images/R-E024-600x601.png";
 
 import RF001 from "../../../../assets/images/R-F001-600x601.png";
 import RF003 from "../../../../assets/images/R-F003-600x601.png";
+import RF005 from "../../../../assets/images/R-F005-600x601.png";
 import RF006 from "../../../../assets/images/R-F006-600x601.png";
 import RF007 from "../../../../assets/images/R-F007-600x601.png";
 import RF010 from "../../../../assets/images/R-F010-600x601.png";
+import RF011 from "../../../../assets/images/R-F011-600x601.png";
 import RF013 from "../../../../assets/images/R-F013-600x601.png";
 import RF014 from "../../../../assets/images/R-F014-600x601.png";
 import RF016 from "../../../../assets/images/R-F016-600x601.png";
+import RF017 from "../../../../assets/images/R-F017-600x601.png";
 
-import RH012 from "../../../../assets/images/R-H012-300x300.png";
+import RH04 from "../../../../assets/images/R-H004-300x300.png";
+import RH07 from "../../../../assets/images/R-H007-300x300.png";
+import RH09 from "../../../../assets/images/R-H009-300x300.png";
+import RH10 from "../../../../assets/images/R-H010-300x300.png";
 import RH014 from "../../../../assets/images/R-H014-300x300.png";
+import RH016 from "../../../../assets/images/R-H016-300x300.png";
+import RH017 from "../../../../assets/images/R-H017-300x300.png";
+import RH018 from "../../../../assets/images/R-H018-300x300.png";
+import RH019 from "../../../../assets/images/R-H019-300x300.png";
+import RH020 from "../../../../assets/images/R-H020-300x300.png";
+
+import RG004 from "../../../../assets/images/RG004-600x601.png";
+import RG007 from "../../../../assets/images/RG007-600x601.png";
+import RG010 from "../../../../assets/images/RG010-600x601.png";
 
 import RG006 from "../../../../assets/images/RG006-600x601.png";
 import RG008 from "../../../../assets/images/RG008-600x601.png";
@@ -4186,9 +4200,9 @@ export const categories = {
       {
         id: shortid.generate(),
         link: "/Product",
-        title: "RH-12",
+        title: "RH-4",
         type: "internal",
-        src: RH012,
+        src: RH04,
         categorie: "internal",
         price: "€ 15.00",
         discription: {
@@ -7933,14 +7947,618 @@ export const categories = {
     rosettes: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "RL-104",
         type: "rosettes",
-        imgUrl: "",
+        src: img104,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RH-4",
+        type: "rosettes",
+        src: RH04,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-6",
+        type: "rosettes",
+        src: RG006,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-8",
+        type: "rosettes",
+        src: RG008,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-9",
+        type: "rosettes",
+        src: RG009,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-12",
+        type: "rosettes",
+        src: RG012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-3",
+        type: "rosettes",
+        src: RC003,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-4",
+        type: "rosettes",
+        src: RC004,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-14",
+        type: "rosettes",
+        src: RC014,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RC-17",
+        type: "rosettes",
+        src: RC017,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-5",
+        type: "rosettes",
+        src: RE005,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-12",
+        type: "rosettes",
+        src: RE012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-14",
+        type: "rosettes",
+        src: RE014,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-15",
+        type: "rosettes",
+        src: RE015,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-21",
+        type: "rosettes",
+        src: RE021,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-22",
+        type: "rosettes",
+        src: RE022,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RE-24",
+        type: "rosettes",
+        src: RE024,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RD-3",
+        type: "rosettes",
+        src: RD003,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RD-12",
+        type: "rosettes",
+        src: RD012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-1",
+        type: "rosettes",
+        src: RF001,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-3",
+        type: "rosettes",
+        src: RF003,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-7",
+        type: "rosettes",
+        src: RF007,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-6",
+        type: "rosettes",
+        src: RF006,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-10",
+        type: "rosettes",
+        src: RF010,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-13",
+        type: "rosettes",
+        src: RF013,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-14",
+        type: "rosettes",
+        src: RF014,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-16",
+        type: "rosettes",
+        src: RF016,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-17",
+        type: "rosettes",
+        src: RF017,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-5",
+        type: "rosettes",
+        src: RF005,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-11",
+        type: "rosettes",
+        src: RF011,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-7",
+        type: "rosettes",
+        src: RH07,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-9",
+        type: "rosettes",
+        src: RH09,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-10",
+        type: "rosettes",
+        src: RH10,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RF-16",
+        type: "rosettes",
+        src: RH016,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RH-17",
+        type: "rosettes",
+        src: RH017,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RH-18",
+        type: "rosettes",
+        src: RH018,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RH-19",
+        type: "rosettes",
+        src: RH019,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RH-20",
+        type: "rosettes",
+        src: RH020,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-4",
+        type: "rosettes",
+        src: RG004,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-7",
+        type: "rosettes",
+        src: RG007,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RG-10",
+        type: "rosettes",
+        src: RG010,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     miscellaneous: [
