@@ -266,6 +266,12 @@ import K006 from "../../../../assets/images/K-006-300x300.png";
 import K007 from "../../../../assets/images/K-007-300x300.png";
 import K010 from "../../../../assets/images/K-010-1-300x300.png";
 import K012 from "../../../../assets/images/K-012-13-1-300x278.png";
+import K01 from "../../../../assets/images/K-001-300x300.png";
+import K04 from "../../../../assets/images/K-004-300x300.png";
+import K05 from "../../../../assets/images/K-005-300x300.png";
+import K08 from "../../../../assets/images/K-008-1-300x300.png";
+import K013 from "../../../../assets/images/K-013-300x241.png";
+
 import K004 from "../../../../assets/images/KO-004-300x300.png";
 import KO012 from "../../../../assets/images/KO-012-281x300.png";
 import KO014 from "../../../../assets/images/KO-014-300x300.png";
@@ -6266,14 +6272,138 @@ export const categories = {
     cassettes: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "K-006",
         type: "cassettes",
-        imgUrl: "",
+        src: K006,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-007",
+        type: "cassettes",
+        src: K007,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-10",
+        type: "internal",
+        src: K010,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-12",
+        type: "cassettes",
+        src: K012,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-1",
+        type: "cassettes",
+        src: K01,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-4",
+        type: "cassettes",
+        src: K04,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-5",
+        type: "cassettes",
+        src: K05,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-8",
+        type: "cassettes",
+        src: K08,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "K-13",
+        type: "cassettes",
+        src: K013,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     lamps: [
