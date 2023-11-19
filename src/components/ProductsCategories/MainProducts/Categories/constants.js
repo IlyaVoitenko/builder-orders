@@ -294,6 +294,12 @@ import KO013 from "../../../../assets/images/KO-013.png";
 import KS26 from "../../../../assets/images/KS26-300x300.png";
 
 import LA002 from "../../../../assets/images/LA-002-300x300.png";
+import LA001 from "../../../../assets/images/LA-001-300x300.png";
+import LA004 from "../../../../assets/images/LA-004-300x300.png";
+import LA005 from "../../../../assets/images/LA-005-300x245.png";
+import LA006 from "../../../../assets/images/LA-006-300x300.png";
+import LA007 from "../../../../assets/images/LA-007-300x300.png";
+import LA008 from "../../../../assets/images/LA-008-300x300.png";
 
 import OR023 from "../../../../assets/images/OR-023.png";
 import OR025 from "../../../../assets/images/OR-025.png";
@@ -6694,9 +6700,99 @@ export const categories = {
       {
         id: shortid.generate(),
         link: "/Product",
-        title: "K-006",
+        title: "LA-2",
         type: "lamps",
-        src: K006,
+        src: LA002,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "LA-1",
+        type: "lamps",
+        src: LA001,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "LA-4",
+        type: "lamps",
+        src: LA004,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "LA-5",
+        type: "lamps",
+        src: LA005,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "LA-6",
+        type: "lamps",
+        src: LA006,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "LA-7",
+        type: "lamps",
+        src: LA007,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "LA-8",
+        type: "lamps",
+        src: LA008,
         categorie: "internal",
         price: "€ 15.00",
         discription: {
