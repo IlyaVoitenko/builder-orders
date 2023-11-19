@@ -345,6 +345,19 @@ import OR101 from "../../../../assets/images/OR-101.png";
 import OR108 from "../../../../assets/images/OR-108-300x300.png";
 import OR109 from "../../../../assets/images/OR-109-300x300.png";
 
+import PB8 from "../../../../assets/images/PB-8-300x296.png";
+import PB16 from "../../../../assets/images/PB-16-A-300x300.png";
+import PB20 from "../../../../assets/images/PB-20-300x300.png";
+import PB30 from "../../../../assets/images/PB-30-B-300x300.png";
+
+import PK8B from "../../../../assets/images/PK-8-B-300x300.png";
+import PK12 from "../../../../assets/images/PK-12-300x300.png";
+import PK16 from "../../../../assets/images/PK-16-A-300x225.png";
+import PK20 from "../../../../assets/images/PK-20-B-300x300.png";
+import PK30A from "../../../../assets/images/PK-30-A-300x300.png";
+import PK30B from "../../../../assets/images/PK-30-B-300x300.png";
+
+import P18 from "../../../../assets/images/P-18-300x275.png";
 import P30 from "../../../../assets/images/P-30-300x275.png";
 
 import RC003 from "../../../../assets/images/R-C003-300x300.png";
@@ -7485,14 +7498,168 @@ export const categories = {
     pilaster: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "PB-8",
         type: "pilaster",
-        imgUrl: "",
+        src: PB8,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PB-16",
+        type: "pilaster",
+        src: PB16,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PB-20",
+        type: "pilaster",
+        src: PB20,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PB-30",
+        type: "pilaster",
+        src: PB30,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PK-8",
+        type: "pilaster",
+        src: PK8B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PK-12",
+        type: "pilaster",
+        src: PK12,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PK-16",
+        type: "pilaster",
+        src: PK16,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PK-20",
+        type: "pilaster",
+        src: PK20,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PK-30",
+        type: "pilaster",
+        src: PK30A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "PK-30",
+        type: "pilaster",
+        src: PK30B,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "P-18",
+        type: "pilaster",
+        src: P18,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     frameMoldings: [
