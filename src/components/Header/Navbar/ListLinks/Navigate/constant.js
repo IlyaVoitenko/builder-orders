@@ -9,13 +9,13 @@ export const productsLinks = [
   { value: "", link: "" },
   {
     link: "/products-categories",
-    categorie: "facadeStucco",
-    subcategorie: "facadestucco",
+    categorie: "internal",
+    subcategorie: "internal",
   },
   {
     link: "/products-categories",
-    categorie: "internal",
-    subcategorie: "internal",
+    categorie: "facadeStucco",
+    subcategorie: "facadestucco",
   },
 ];
 
