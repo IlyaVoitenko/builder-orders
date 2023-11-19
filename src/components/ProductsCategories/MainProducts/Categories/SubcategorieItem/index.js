@@ -9,6 +9,7 @@ import {
 } from "../../../../../store/selectors";
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
+import { goToTop } from "../../../../../utils/helpers";
 
 const SubcategorieItem = ({
   item,
@@ -28,6 +29,7 @@ const SubcategorieItem = ({
       onClick={() => {
         dispatch(setSelectedCategorie(item));
         dispatch(setProducts(сategorieTranslater));
+        goToTop();
         if (isProductsCategoriesPage) {
           navigate("/products-categories");
         }

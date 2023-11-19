@@ -8675,5 +8675,4 @@ export const categories = {
       },
     ],
   },
-  recommended: [],
 };

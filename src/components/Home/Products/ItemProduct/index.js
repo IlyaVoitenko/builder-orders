@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { setSelectedProduct } from "../../../../store/reducer/categories";
 import { useDispatch } from "react-redux";
+import { goToTop } from "../../../../utils/helpers";
 
 const ItemProduct = ({ item }) => {
   const dispatch = useDispatch();
@@ -9,7 +10,10 @@ const ItemProduct = ({ item }) => {
     <Link
       to={item.link}
       className="w-[21%] max-sm:w-[49%]"
-      onClick={() => dispatch(setSelectedProduct(item))}
+      onClick={() => {
+        goToTop();
+        dispatch(setSelectedProduct(item));
+      }}
     >
       <figure className="flex flex-col  mt-5  ">
         <img src={item.src} className="w-full" alt="" />

@@ -9,7 +9,6 @@ const Navigation = ({ categorie, subcategorie, nameProduct }) => {
   const home = translate?.header.navigate.home;
   const toLowerCaseSubcategorie = subcategorie.toLowerCase();
   const validSubcategorie = validationCategorieName(toLowerCaseSubcategorie);
-  console.log("subcategorie:", validSubcategorie);
 
   return (
     <nav className="flex justify-center	">

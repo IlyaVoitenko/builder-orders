@@ -3,48 +3,62 @@ import { translateSelector } from "../../../store/selectors";
 import TitleProducts from "./TitleProducts";
 import ProductsList from "./ProductsList";
 import { useSelector } from "react-redux";
-import ECK01 from "../../../assets/images/ECK-01-300x300.png";
-import ECK09 from "../../../assets/images/ECK-09-300x300.png";
-import PK35 from "../../../assets/images/PK-35-300x300.png";
-import KS40 from "../../../assets/images/KS-40-300x300.png";
-import PG35 from "../../../assets/images/PG-35-300x300.png";
-import shortid from "shortid";
 
+import K6 from "../../../assets/images/K-006-300x300.png";
+import DS104 from "../../../assets/images/DS-104-2-300x300.png";
+import img102 from "../../../assets/images/102-2-300x300 (1).png";
+import KO4 from "../../../assets/images/KO-004-300x300.png";
+import RG6 from "../../../assets/images/RG006-600x601.png";
+
+import shortid from "shortid";
+//ceiling mirror
+//Decorative corners
+//Ceiling mirror
 const categoriesList = [
   {
     id: shortid.generate(),
-    src: ECK01,
+    src: img102,
     title: "EN-123",
     price: "€ 15.00",
     link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "decorativeCorners",
   },
   {
     id: shortid.generate(),
-    src: ECK09,
+    src: K6,
     title: "EN-123",
     price: "€ 15.00",
     link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "cassettes",
   },
   {
     id: shortid.generate(),
-    src: PK35,
+    src: DS104,
     title: "EN-123",
     price: "€ 15.00",
     link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "ceilingmirror",
   },
   {
     id: shortid.generate(),
-    src: KS40,
-    title: "EN-123",
+    src: KO4,
+    title: "K-4",
     price: "€ 15.00",
     link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "consoles",
   },
   {
     id: shortid.generate(),
-    src: PG35,
-    title: "EN-123",
+    src: RG6,
+    title: "RG-6",
     price: "€ 15.00",
     link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "rosettes",
   },
 ];
 
