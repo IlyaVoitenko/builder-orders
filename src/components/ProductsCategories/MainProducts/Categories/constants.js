@@ -420,7 +420,13 @@ import RG008 from "../../../../assets/images/RG008-600x601.png";
 import RG009 from "../../../../assets/images/RG009-600x601.png";
 import RG012 from "../../../../assets/images/RG012-600x601.png";
 
+import SP01 from "../../../../assets/images/SP01-1-300x300.png";
 import SP02 from "../../../../assets/images/SP02-1-300x300.png";
+import SP03 from "../../../../assets/images/SP03-1-300x300.png";
+import SP04 from "../../../../assets/images/SP04-1-300x300.png";
+import SP05 from "../../../../assets/images/Sp05-1-300x300.png";
+import SP06 from "../../../../assets/images/SP007-1-300x300.png";
+import SP07 from "../../../../assets/images/Sp08-1-300x300.png";
 
 import I0051 from "../../../../assets/images/I005-1-300x300.png";
 import I0161 from "../../../../assets/images/I016-1-300x300.png";
@@ -8561,31 +8567,111 @@ export const categories = {
         },
       },
     ],
-    miscellaneous: [
-      {
-        id: shortid.generate(),
-
-        link: "",
-        text: "",
-        type: "miscellaneous",
-        imgUrl: "",
-        categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
-      },
-    ],
     supraport: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "SP-1",
         type: "supraport",
-        imgUrl: "",
+        src: SP01,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "SP-3",
+        type: "supraport",
+        src: SP03,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "SP-4",
+        type: "supraport",
+        src: SP04,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "SP-5",
+        type: "supraport",
+        src: SP05,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "SP-6",
+        type: "supraport",
+        src: SP06,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "SP-7",
+        type: "supraport",
+        src: SP07,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "SP-2",
+        type: "supraport",
+        src: SP02,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
   },
