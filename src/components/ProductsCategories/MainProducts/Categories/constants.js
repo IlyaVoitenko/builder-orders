@@ -144,6 +144,17 @@ import FL03 from "../../../../assets/images/FL-03-300x300.png";
 import FL02 from "../../../../assets/images/FL-02-300x300.png";
 import FL01 from "../../../../assets/images/FL-01-300x300.png";
 
+import img101A from "../../../../assets/images/101-300x256.png";
+import img104A from "../../../../assets/images/104a-300x256.png";
+import img109A from "../../../../assets/images/109-1-300x256.png";
+import img111A from "../../../../assets/images/111-1-300x256.png";
+import img112A from "../../../../assets/images/112a-300x256.png";
+import img114A from "../../../../assets/images/114-1-300x256.png";
+import img1161 from "../../../../assets/images/116A-1-300x256.png";
+import img118A from "../../../../assets/images/118-300x256.png";
+import img121A from "../../../../assets/images/121a-300x256.png";
+import img1141 from "../../../../assets/images/114-1-300x256.png";
+
 import img101 from "../../../../assets/images/101-1-300x300.png";
 import img101a from "../../../../assets/images/101a-300x300.png";
 import img102 from "../../../../assets/images/102-1-300x256.png";
@@ -160,10 +171,12 @@ import img110 from "../../../../assets/images/110-1-300x300.png";
 import img112 from "../../../../assets/images/112-1-300x300.png";
 import img113 from "../../../../assets/images/113-1-300x256.png";
 import img115 from "../../../../assets/images/115-1-300x256.png";
+import img116A from "../../../../assets/images/116A-1-300x256.png";
 import img116a from "../../../../assets/images/116a-1-300x300.png";
 import img116 from "../../../../assets/images/116-1-300x256.png";
 import img117 from "../../../../assets/images/117-1-300x256.png";
 import img119 from "../../../../assets/images/119-1-300x256.png";
+import img118 from "../../../../assets/images/118-300x256.png";
 import img120 from "../../../../assets/images/120-300x256.png";
 import img121 from "../../../../assets/images/121-300x256.png";
 import img201 from "../../../../assets/images/201-1-300x300.png";
@@ -3000,38 +3013,6 @@ export const categories = {
         title: "HG-01",
         type: "mainCornice",
         src: HG01,
-        categorie: "facadeStucco",
-        price: "€ 15.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-    ],
-    pilaster: [
-      {
-        id: shortid.generate(),
-        link: "/Product",
-        title: "PK-35",
-        type: "pilaster",
-        src: PK35,
-        categorie: "facadeStucco",
-        price: "€ 15.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
-        link: "/Product",
-        title: "PG-35",
-        type: "pilaster",
-        src: PG35,
         categorie: "facadeStucco",
         price: "€ 15.00",
         discription: {
@@ -7665,14 +7646,288 @@ export const categories = {
     frameMoldings: [
       {
         id: shortid.generate(),
-        link: "",
-        text: "",
+        link: "/Product",
+        title: "RL-104",
         type: "frame moldings",
-        imgUrl: "",
+        src: img104,
         categorie: "internal",
-        price: "",
-        discription: "",
-        translaterField: "",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-120",
+        type: "frame moldings",
+        src: img120,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-119",
+        type: "frame moldings",
+        src: img119,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-118",
+        type: "frame moldings",
+        src: img118,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-116",
+        type: "frame moldings",
+        src: img116A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-113",
+        type: "frame moldings",
+        src: img113,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-107",
+        type: "frame moldings",
+        src: img107,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-106",
+        type: "frame moldings",
+        src: img106,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-102",
+        type: "frame moldings",
+        src: img102,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-101",
+        type: "frame moldings",
+        src: img101A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-104",
+        type: "frame moldings",
+        src: img104A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-109",
+        type: "frame moldings",
+        src: img109A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-111",
+        type: "frame moldings",
+        src: img111A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-112",
+        type: "frame moldings",
+        src: img112A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-114",
+        type: "frame moldings",
+        src: img114A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-116",
+        type: "frame moldings",
+        src: img1161,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-118",
+        type: "frame moldings",
+        src: img118A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-121",
+        type: "frame moldings",
+        src: img121A,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+        link: "/Product",
+        title: "RL-141",
+        type: "frame moldings",
+        src: img1141,
+        categorie: "internal",
+        price: "€ 15.00",
+        discription: {
+          title: "discription",
+          size: "/28×28/кг: 0,5",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
       },
     ],
     rosettes: [
