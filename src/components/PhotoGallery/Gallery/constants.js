@@ -54,7 +54,13 @@ export const custom = [
     src: DSC_1098,
   },
 ];
-
+export const specialFabrication = [
+  {
+    id: shortid.generate(),
+    alt: "special fabrication",
+    src: Bog7,
+  },
+];
 export const imagesPhotoGllery = [
   {
     id: shortid.generate(),
