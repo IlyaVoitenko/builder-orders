@@ -31,12 +31,27 @@ import interior from "../../../assets/images/interior.jpg";
 import largeFr from "../../../assets/images/large_Fr 020.JPG";
 
 import Grh12 from "../../../assets/images/Grh12.jpg";
+import Bog7 from "../../../assets/images/Bog7.jpg";
+import DSC_1098 from "../../../assets/images/DSC_1098 (2).JPG";
 
 export const wholesaleRetail = [
   {
     id: shortid.generate(),
     alt: "wholesaleRetail",
     src: Grh12,
+  },
+];
+
+export const custom = [
+  {
+    id: shortid.generate(),
+    alt: "Custom Moulding",
+    src: Bog7,
+  },
+  {
+    id: shortid.generate(),
+    alt: "Custom Moulding",
+    src: DSC_1098,
   },
 ];
 

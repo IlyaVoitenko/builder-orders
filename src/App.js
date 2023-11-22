@@ -11,6 +11,7 @@ const ProductsCategories = lazy(() => import("./pages/ProductsCategoriesPage"));
 const Product = lazy(() => import("./pages/ProductPage"));
 const WholesaleAndRetail = lazy(() => import("./pages/WholesaleAndRetailPage"));
 const StuccoWork = lazy(() => import("./pages/StuccoWork"));
+const CustomMoulding = lazy(() => import("./pages/CustomMouldingPage"));
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
             />
             <Route path="/wholesale-retail" element={<WholesaleAndRetail />} />
             <Route path="/stucco-work" element={<StuccoWork />} />
+            <Route path="/custom-moulding" element={<CustomMoulding />} />
           </Route>
         </Routes>
       </BrowserRouter>

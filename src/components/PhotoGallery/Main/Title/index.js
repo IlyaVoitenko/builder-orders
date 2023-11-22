@@ -10,7 +10,6 @@ const Title = ({ pageName }) => {
         {translate?.photoGallery[pageName].title}
       </h3>
       <br></br>
-      <p>{translate?.photoGallery[pageName].context}</p>
     </section>
   );
 };
