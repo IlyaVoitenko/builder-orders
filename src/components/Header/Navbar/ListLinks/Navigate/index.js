@@ -8,7 +8,7 @@ import {
 import useWindowDimensions from "../../../../useWindowDimensions";
 import ListInfo from "../../../Info/ListInfo";
 import DropMenu from "../DropMenu";
-import { productsLinks, serviceLinks, contactsLinks } from "./constant";
+import { productsLinks, serviceLinks } from "./constant";
 
 const styleSm = ``;
 const styleMd = `max-md:w-full max-md:mt-1`;
