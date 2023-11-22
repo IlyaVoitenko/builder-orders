@@ -5,7 +5,9 @@ const Phone = () => {
   return (
     <span className="flex flex-row items-center max-lg:mr-1 max-lg:ml-1">
       <BsTelephone />
-      <span className="ml-1">(123)333 333 33</span>
+      <a href="tel:+490000000" className="ml-1">
+        (123)333 333 33
+      </a>
     </span>
   );
 };

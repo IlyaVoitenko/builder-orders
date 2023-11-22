@@ -9,11 +9,9 @@ const Content = ({ pageName }) => {
     <div className="w-[71%] max-lg:w-[85%] max-lg:text-sm">
       {context &&
         context.map((_, index) => (
-          <>
-            <p key={index} className="mt-4 mb-4">
-              {translate.photoGallery[pageName].context[index][`p-${index}`]}
-            </p>
-          </>
+          <p key={index} className="mt-4 mb-4">
+            {translate.photoGallery[pageName].context[index][`p-${index}`]}
+          </p>
         ))}
     </div>
   );
