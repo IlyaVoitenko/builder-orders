@@ -29,7 +29,18 @@ import IMGfdd97bc3091b974daa1401b423ed04b5 from "../../../assets/images/IMG-fdd9
 import IMG6f131f778228efd8929e31cdeb4f02f4 from "../../../assets/images/IMG-6f131f778228efd8929e31cdeb4f02f4-V.jpg";
 import interior from "../../../assets/images/interior.jpg";
 import largeFr from "../../../assets/images/large_Fr 020.JPG";
-export const imagesGllery = [
+
+import Grh12 from "../../../assets/images/Grh12.jpg";
+
+export const wholesaleRetail = [
+  {
+    id: shortid.generate(),
+    alt: "wholesaleRetail",
+    src: Grh12,
+  },
+];
+
+export const imagesPhotoGllery = [
   {
     id: shortid.generate(),
     alt: "gallery",

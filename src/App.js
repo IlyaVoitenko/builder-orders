@@ -9,6 +9,7 @@ const Home = lazy(() => import("./pages/HomePage"));
 const PhotoGallery = lazy(() => import("./pages/PhotoGalleryPage"));
 const ProductsCategories = lazy(() => import("./pages/ProductsCategoriesPage"));
 const Product = lazy(() => import("./pages/ProductPage"));
+const WholesaleAndRetail = lazy(() => import("./pages/WholesaleAndRetailPage"));
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
               path="/products-categories"
               element={<ProductsCategories />}
             />
+            <Route path="/wholesale-retail" element={<WholesaleAndRetail />} />
           </Route>
         </Routes>
       </BrowserRouter>

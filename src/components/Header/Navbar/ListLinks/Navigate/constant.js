@@ -1,8 +1,9 @@
 export const serviceLinks = [
-  { value: "ОПТОВАЯ И РОЗНИЧНАЯ", link: "" },
-  { value: "ЛЕПНЫЕ РАБОТЫ", link: "" },
-  { value: "ИНДИВИДУАЛЬНОЕ ПРОИЗВОДСТВО", link: "" },
-  { value: "ФОРМОВОЧНАЯ ТЕХНОЛОГИЯ", link: "" },
+  { value: "", link: "" },
+  { link: "/wholesale-retail" },
+  { link: "" },
+  { link: "" },
+  { link: "" },
 ];
 
 export const productsLinks = [

@@ -2,11 +2,11 @@ import React from "react";
 import Title from "./Title";
 import Gallery from "../Gallery";
 
-const Main = () => {
+const Main = ({ pageName, imageList }) => {
   return (
     <main className="flex flex-col  items-center justify-center text-left ">
-      <Title />
-      <Gallery />
+      <Title pageName={pageName} />
+      <Gallery imageList={imageList} />
     </main>
   );
 };
