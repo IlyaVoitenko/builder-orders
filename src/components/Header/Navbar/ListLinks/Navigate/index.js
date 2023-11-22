@@ -55,12 +55,7 @@ const Navigate = () => {
           <Link to="/">{translate?.header.navigate.loginDetails}</Link>
         </nav>
       </li>
-      <li>
-        <DropMenu
-          arr={contactsLinks}
-          title={translate?.header.navigate.contact}
-        />
-      </li>
+
       <li>{width < 1024 ? <ListInfo /> : null}</li>
     </ul>
   );

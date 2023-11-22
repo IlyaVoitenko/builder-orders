@@ -19,10 +19,3 @@ export const productsLinks = [
     subcategorie: "facadestucco",
   },
 ];
-
-export const contactsLinks = [
-  { value: "НАПРАВЛЕНИЯ", link: "" },
-  { value: "ДОСТАВКА ОБРАЗЦА", link: "" },
-  { value: "Условия", link: "" },
-  { value: "ДОСТАВКА И ОПЛАТА", link: "" },
-];
