@@ -1,7 +1,7 @@
 export const serviceLinks = [
   { value: "", link: "" },
   { link: "/wholesale-retail" },
-  { link: "" },
+  { link: "/stucco-work" },
   { link: "" },
   { link: "" },
 ];

@@ -27,13 +27,6 @@ const SubcategorieItem = ({
       ${selectedCategorie === item && "text-blue-600"}
       `}
       onClick={() => {
-        console.log(
-          "сategorieTranslater : ",
-          сategorieTranslater,
-          " ",
-          "setSelectedCategorie :",
-          item
-        );
         dispatch(setSelectedCategorie(item));
         dispatch(setProducts(сategorieTranslater));
         goToTop();

@@ -10,6 +10,7 @@ const PhotoGallery = lazy(() => import("./pages/PhotoGalleryPage"));
 const ProductsCategories = lazy(() => import("./pages/ProductsCategoriesPage"));
 const Product = lazy(() => import("./pages/ProductPage"));
 const WholesaleAndRetail = lazy(() => import("./pages/WholesaleAndRetailPage"));
+const StuccoWork = lazy(() => import("./pages/StuccoWork"));
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
               element={<ProductsCategories />}
             />
             <Route path="/wholesale-retail" element={<WholesaleAndRetail />} />
+            <Route path="/stucco-work" element={<StuccoWork />} />
           </Route>
         </Routes>
       </BrowserRouter>
