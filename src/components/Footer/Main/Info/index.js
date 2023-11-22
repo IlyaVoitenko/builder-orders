@@ -12,9 +12,9 @@ const Info = () => {
     >
       <section>{translate?.footer.info.consultation}</section>
       <br></br>
-      <section>
-        <p>phone:+33333333</p>
-        <p>email:temlate@werwe.com</p>
+      <section className="flex flex-col">
+        <a href="tel:+490000000">phone:+33333333</a>
+        <a href="mailto:webmaster@example.com">email:temlate@werwe.com</a>
       </section>
       <br></br>
       <section>{translate?.footer.info.contactWithUs}</section>

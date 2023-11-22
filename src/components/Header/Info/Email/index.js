@@ -4,7 +4,10 @@ import { AiOutlineMail } from "react-icons/ai";
 const Email = () => {
   return (
     <span className="flex flex-row items-center max-lg:mr-1 max-lg:ml-1 ">
-      <AiOutlineMail /> <span className="ml-1">email@werwer.com</span>
+      <AiOutlineMail />{" "}
+      <a className="ml-1" href="mailto:webmaster@example.com">
+        email@werwer.com
+      </a>
     </span>
   );
 };
