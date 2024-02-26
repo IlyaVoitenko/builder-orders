@@ -1,72 +1,84 @@
-# Getting Started with Create React App
+# Description
 
-REACT_APP_BASE_URL_SERVER = url of server with translates
+## The project's idea
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project had development for show products of stuck for clients
 
-## Available Scripts
+## Install dependencies
 
-In the project directory, you can run:
+Use any package manager [yarn] or [npm] for install dependencies.
 
-### `npm start`
+```bash
+yarn  | npm i
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Start project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+yarn start | npm start
+```
 
-### `npm test`
+## Env
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+REACT_APP_BASE_URL_SERVER = url of server that get code (IETF) of language then enable you get a object with fields for translate
 
-### `npm run build`
+## Dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **autoprefixer**: ^10.4.17
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  - Autoprefixer is a PostCSS plugin that parses CSS and adds vendor prefixes to CSS rules using values from Can I Use.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **axios**: ^1.6.7
 
-### `npm run eject`
+  - Axios is a promise-based HTTP client for the browser and Node.js.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **postcss**: ^8.4.35
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - PostCSS is a tool for transforming CSS with JavaScript plugins.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **react**: ^18.2.0
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  - React is a JavaScript library for building user interfaces.
 
-## Learn More
+- **react-dom**: ^18.2.0
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  - React DOM is the entry point for working with the DOM in React.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **react-icons**: ^5.0.1
 
-### Code Splitting
+  - React Icons provides popular icon packs as React components.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **react-redux**: ^9.1.0
 
-### Analyzing the Bundle Size
+  - React Redux is the official React bindings for Redux.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **react-router-dom**: ^6.22.1
 
-### Making a Progressive Web App
+  - React Router DOM provides routing capabilities for React applications.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **react-scripts**: ^5.0.1
 
-### Advanced Configuration
+  - React Scripts provides scripts and configuration used by Create React App.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **react-slick**: ^0.30.2
 
-### Deployment
+  - React Slick is a carousel component built with React.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- **redux-persist**: ^6.0.0
 
-### `npm run build` fails to minify
+  - Redux Persist is a library for persisting Redux state to storage.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **reselect**: ^5.1.0
+
+  - Reselect is a simple "selector" library for Redux.
+
+- **shortid**: ^2.2.16
+
+  - Shortid is a library for generating short non-sequential unique ids.
+
+- **slick-carousel**: ^1.8.1
+
+  - Slick Carousel is a responsive carousel jQuery plugin.
+
+- **tailwindcss**: ^3.4.1
+  - Tailwind CSS is a utility-first CSS framework for building custom designs.
