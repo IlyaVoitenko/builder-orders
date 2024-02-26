@@ -10,14 +10,14 @@ const Info = () => {
     <section
       className={`flex  flex-col  w-1/5 text-left text-white  ${styleLg}`}
     >
-      <section>{translate?.footer.info.consultation}</section>
+      <section>{translate?.footer?.info?.consultation}</section>
       <br></br>
       <section className="flex flex-col">
         <a href="tel:+490000000">phone:+33333333</a>
         <a href="mailto:webmaster@example.com">email:temlate@werwe.com</a>
       </section>
       <br></br>
-      <section>{translate?.footer.info.contactWithUs}</section>
+      <section>{translate?.footer?.info?.contactWithUs}</section>
     </section>
   );
 };

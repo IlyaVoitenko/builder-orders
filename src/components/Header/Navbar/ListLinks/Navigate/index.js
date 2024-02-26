@@ -28,31 +28,31 @@ const Navigate = () => {
     >
       <li>
         <nav>
-          <Link to="/">{translate?.header.navigate.home}</Link>
+          <Link to="/">{translate?.header?.navigate?.home}</Link>
         </nav>
       </li>
       <li>
         <DropMenu
           arr={serviceLinks}
-          title={translate?.header.navigate.services}
+          title={translate?.header?.navigate?.services}
         />
       </li>
       <li>
         <DropMenu
           arr={productsLinks}
-          title={translate?.header.navigate.products}
+          title={translate?.header?.navigate?.products}
         />
       </li>
       <li>
         <nav>
           <Link to="/photo-gallery">
-            {translate?.header.navigate.fotogalery}
+            {translate?.header?.navigate?.fotogalery}
           </Link>
         </nav>
       </li>
       <li>
         <nav>
-          <Link to="/">{translate?.header.navigate.loginDetails}</Link>
+          <Link to="/">{translate?.header?.navigate?.loginDetails}</Link>
         </nav>
       </li>
 

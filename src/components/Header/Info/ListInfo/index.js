@@ -16,14 +16,14 @@ const ListInfo = () => {
     <nav className="flex items-center  justify-center	 w-[27%] max-lg:w-screen lg:w-[50%]">
       <ul className="flex flex-row max-lg:flex-col items-center lg:justify-around  w-full ">
         <li className="max-lg:mt-2">
-          <Link to="/">{translate?.header.info.SiteNotice}</Link>
+          <Link to="/">{translate?.header?.info?.SiteNotice}</Link>
         </li>
         <li>
-          <Link to="/">{translate?.header.info.PrivacyPolicy}</Link>
+          <Link to="/">{translate?.header?.info?.PrivacyPolicy}</Link>
         </li>
         <li>
           <Link to="/products-categories">
-            {translate?.header.info.Catalog}
+            {translate?.header?.info?.Catalog}
           </Link>
         </li>
         <li

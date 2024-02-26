@@ -11,6 +11,7 @@ import { useDispatch, useSelector } from "react-redux";
 const Home = () => {
   const dispatch = useDispatch();
   const currentLanguage = useSelector(currentLanguageSelector);
+
   useEffect(() => {
     dispatch(setTranslate(currentLanguage));
   }, [dispatch, currentLanguage]);
