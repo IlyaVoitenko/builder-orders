@@ -9,13 +9,25 @@ The project had development for show products of stuck for clients
 Use any package manager [yarn] or [npm] for install dependencies.
 
 ```bash
-yarn  | npm i
+yarn
+```
+
+or
+
+```bash
+ npm i
 ```
 
 ## Start project
 
 ```bash
-yarn start | npm start
+yarn start
+```
+
+or
+
+```bash
+ npm start
 ```
 
 ## Env
