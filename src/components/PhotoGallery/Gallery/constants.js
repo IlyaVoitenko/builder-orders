@@ -13,7 +13,7 @@ import Mariinskipalace6 from "../../../assets/images/Mariinski_palace_6.jpg";
 import FB_IMG_1547636725454 from "../../../assets/images/FB_IMG_1547636725454.jpg";
 import FB_IMG_1547636741290 from "../../../assets/images/FB_IMG_1547636741290.jpg";
 import FB_IMG_1547636721568 from "../../../assets/images/FB_IMG_1547636721568.jpg";
-import mariinskiidvoretssanktpeterburgvnutri from "../../../assets/images/1647718981_71-na-dache-pro-p-mariinskii-dvorets-sankt-peterburg-vnutri-78.jpg";
+import mariinskiidvoretssanktpeterburgvnutri from "../../../assets/images/1647718981_71-na-dache-pro-p-mariinskii-dvorets-sankt-peterburg-vnutri-78.webp";
 import IMG480dbd2840d9458b0783087340a5798d from "../../../assets/images/IMG-480dbd2840d9458b0783087340a5798d-V.jpg";
 import w640h640s6303876 from "../../../assets/images/17311391_w640_h640_s6303876.jpg";
 import image59774490 from "../../../assets/images/59774490_137766617380471_8956751526659883008_n.jpg";
@@ -26,13 +26,13 @@ import dvernyeproemyoformlenie from "../../../assets/images/dvernye_proemy_oform
 import FBIMG1547636716410 from "../../../assets/images/FB_IMG_1547636716410.jpg";
 import universalnostesteticheskiepokazatelilepninyizgipsa from "../../../assets/images/universalnost-esteticheskie-pokazateli-lepniny-iz-gipsa.jpg";
 import IMGfdd97bc3091b974daa1401b423ed04b5 from "../../../assets/images/IMG-fdd97bc3091b974daa1401b423ed04b5-V.jpg";
-import IMG6f131f778228efd8929e31cdeb4f02f4 from "../../../assets/images/IMG-6f131f778228efd8929e31cdeb4f02f4-V.jpg";
+import IMG6f131f778228efd8929e31cdeb4f02f4 from "../../../assets/images/IMG-6f131f778228efd8929e31cdeb4f02f4-V.webp";
 import interior from "../../../assets/images/interior.jpg";
 import largeFr from "../../../assets/images/large_Fr 020.JPG";
 
-import Grh12 from "../../../assets/images/Grh12.jpg";
-import Bog7 from "../../../assets/images/Bog7.jpg";
-import DSC_1098 from "../../../assets/images/DSC_1098 (2).JPG";
+import Grh12 from "../../../assets/images/Grh12.webp";
+import Bog7 from "../../../assets/images/Bog7.webp";
+import DSC_1098 from "../../../assets/images/DSC_1098-_2_.webp";
 
 export const wholesaleRetail = [
   {

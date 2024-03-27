@@ -29,7 +29,7 @@ const ListInfo = () => {
         <li
           className={
             currentLanguage === "de"
-              ? "text-gray-950 cursor-pointer"
+              ? "accent-gray-200 cursor-pointer"
               : "cursor-pointer"
           }
           onClick={() => changeLanguage("de", dispatch)}
@@ -39,7 +39,7 @@ const ListInfo = () => {
         <li
           className={
             currentLanguage === "en"
-              ? "text-gray-950 cursor-pointer"
+              ? "accent-gray-200  cursor-pointer"
               : "cursor-pointer"
           }
           onClick={() => changeLanguage("en", dispatch)}

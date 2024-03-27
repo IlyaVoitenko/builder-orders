@@ -1,7 +1,7 @@
 import employee from "../../../assets/images/DSC_1098 (2).JPG";
 import employees from "../../../assets/images/Stk5.jpg";
-import created_products from "../../../assets/images/Grh12.jpg";
-import created from "../../../assets/images/Bog7.jpg";
+import created_products from "../../../assets/images/Grh12.webp";
+import created from "../../../assets/images/Bog7.webp";
 
 export const categoriesList = [
   {
