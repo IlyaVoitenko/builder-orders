@@ -17,7 +17,7 @@ import mariinskiidvoretssanktpeterburgvnutri from "../../../assets/images/164771
 import IMG480dbd2840d9458b0783087340a5798d from "../../../assets/images/IMG-480dbd2840d9458b0783087340a5798d-V.jpg";
 import w640h640s6303876 from "../../../assets/images/17311391_w640_h640_s6303876.jpg";
 import image59774490 from "../../../assets/images/59774490_137766617380471_8956751526659883008_n.jpg";
-import Mariinskipalace2 from "../../../assets/images/Mariinski_palace_2.jpg";
+import Mariinskipalace2 from "../../../assets/images/Mariinski_palace_2.webp";
 import image86f3695f94be970222155fd743fcabef from "../../../assets/images/86f3695f94be970222155fd743fcabef.jpeg";
 import large from "../../../assets/images/large_DSCF8767.JPG";
 import DSC06250 from "../../../assets/images/DSC06250.jpg";

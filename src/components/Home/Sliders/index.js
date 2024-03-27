@@ -6,7 +6,7 @@ import "./style.css";
 import first from "../../../assets/images/istoriya-i-sovremennost-lepniny-iz-gipsa.webp";
 import second from "../../../assets/images/1647718981_71-na-dache-pro-p-mariinskii-dvorets-sankt-peterburg-vnutri-78.webp";
 import three from "../../../assets/images/IMG-6f131f778228efd8929e31cdeb4f02f4-V.webp";
-import four from "../../../assets/images/Mariinski_palace_2.jpg";
+import four from "../../../assets/images/Mariinski_palace_2.webp";
 
 const images = [{ src: first }, { src: second }, { src: three }, { src: four }];
 
