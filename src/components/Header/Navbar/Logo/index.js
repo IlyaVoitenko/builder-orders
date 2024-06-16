@@ -4,7 +4,7 @@ import { translateSelector } from "../../../../store/selectors";
 import logo from "../../../../assets/images/vecteezy_ai-generated-ancient-greek-temple-facade-png_42655125.png";
 const Logo = () => {
   const translate = useSelector(translateSelector);
-
+  console.log("translate?.header?", translate?.header);
   return (
     <div className=" flex">
       <figure>
@@ -19,7 +19,6 @@ const Logo = () => {
         </span>
         <span>{translate?.header?.logoSubtitle}</span>
       </div>
-      {/* <span className="absolute left-0 rotate-[-25deg]">SADI</span> */}
     </div>
   );
 };
