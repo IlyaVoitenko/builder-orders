@@ -1,4 +1,5 @@
 import { createSelector } from "reselect";
+export const isLoadingSelector = (state) => state.loading.isLoading;
 //header links
 export const isShowMenuSelector = (state) => state.menu.isShowMenu;
 //categories

@@ -14,6 +14,7 @@ import menuReducer from "./reducer/menu";
 import categoriesReducer from "./reducer/categories";
 import translateReducer from "./reducer/translate";
 import userRequestReducer from "./reducer/userRequest";
+import loadingReducer from "./reducer/loading";
 
 const persistConfig = {
   key: "root",
@@ -26,6 +27,7 @@ const rootReducer = combineReducers({
   categories: categoriesReducer,
   translate: translateReducer,
   userRequest: userRequestReducer,
+  loading: loadingReducer,
 });
 
 const persistedReducer = persistReducer(persistConfig, rootReducer);
