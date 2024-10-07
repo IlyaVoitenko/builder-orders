@@ -10,7 +10,6 @@ import ListInfo from "../../../Info/ListInfo";
 import DropMenu from "../DropMenu";
 import { productsLinks, serviceLinks } from "./constant";
 
-const styleSm = ``;
 const styleMd = `max-md:w-full max-md:mt-1`;
 const styleLg = `max-lg:z-30 max-lg:w-screen	max:lg:left-0	 max-lg:flex-col  max-lg:mt-5 lg:flex  lg:w-[60%]`;
 const styleXl = `xl:flex`;
@@ -24,11 +23,11 @@ const Navigate = () => {
     <ul
       className={`${
         isShowMenu ? "block " : "hidden"
-      } flex flex-row items-center bg-white justify-between font-bold  ${styleSm}  ${styleMd} ${styleLg} ${styleXl} ${styleXxl}`}
+      } flex flex-row items-center bg-white justify-between font-bold   ${styleMd} ${styleLg} ${styleXl} ${styleXxl}`}
     >
       <li>
         <nav>
-          <Link to="/">{translate?.header?.navigate?.home}</Link>
+          <Link to="/">{translate?.header?.navigate?.home}ee</Link>
         </nav>
       </li>
       <li>

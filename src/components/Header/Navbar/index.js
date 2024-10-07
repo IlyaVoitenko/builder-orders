@@ -12,7 +12,7 @@ const Navbar = () => {
     <div
       className={`${
         isShowMenu ? "mt-5" : ""
-      } flex  flex-row flex-wrap justify-around items-center h-36 max-md:h-12 max-lg:h-24 relative `}
+      } flex  flex-row flex-wrap justify-around items-center h-36 max-md:h-[5rem] max-lg:h-24 relative `}
     >
       <Logo />
       <BtnShowMenu />

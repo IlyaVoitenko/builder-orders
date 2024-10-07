@@ -18,7 +18,7 @@ const InfoProduct = () => {
       />
       <div className=" flex flex-row max-lg:flex-col  justify-center	mt-3">
         <ImageProduct image={product.src} nameProduct={product.title} />
-        <div className="flex flex-col">
+        <div className="flex flex-col justify-center items-center ">
           <PriceAndName nameProduct={product.title} price={product.price} />
           <CurrentCategorie
             subcategorie={product.type}

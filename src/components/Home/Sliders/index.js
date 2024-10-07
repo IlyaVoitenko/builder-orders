@@ -24,9 +24,10 @@ const Sliders = () => {
   return (
     <div className="relative ">
       <Slider ref={sliderRef} {...settings}>
-        {images.map((item, index) => (
-          <img src={item.src} key={index} className="h-[45vw]" alt="logo" />
-        ))}
+        {images &&
+          images.map((item, index) => (
+            <img src={item.src} key={index} className="h-[45vw]" alt="logo" />
+          ))}
       </Slider>
       <BtnsMove sliderRef={sliderRef} />
     </div>

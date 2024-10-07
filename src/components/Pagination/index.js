@@ -1,12 +1,12 @@
 import React from "react";
 import usePagination from "../usePagination";
 import { useSelector } from "react-redux";
-import { productsReselect } from "../../store/selectors";
+import { productsSelector } from "../../store/selectors";
 import ItemProduct from "../Home/Products/ItemProduct";
 import PaginationDots from "./PaginationDots";
 
 const Pagination = ({ page = "product" }) => {
-  const products = useSelector(productsReselect);
+  const products = useSelector(productsSelector);
   const productsPagination = [...products];
 
   const itemsPerPage = 16;

@@ -10,9 +10,8 @@ const ProductsList = ({ products, page }) => {
           : "justify-around max-lg:flex-col max-lg:items-center  flex-wrap md:items-start   md:w-full md:flex-row lg:w-[70%] "
       }   mt-5`}
     >
-      {products.map((item) => (
-        <ItemProduct key={item.id} item={item} />
-      ))}
+      {products &&
+        products.map((item) => <ItemProduct key={item.id} item={item} />)}
     </nav>
   );
 };

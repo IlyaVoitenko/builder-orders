@@ -14,15 +14,16 @@ const Categorie = ({
   return (
     <div className=" w-64">
       <div className="text-left"> {translate[`${titleCatrgorie}`]}</div>
-      {fields.map((item, index) => (
-        <SubcategorieItem
-          item={item}
-          key={index}
-          isProductsCategoriesPage={isProductsCategoriesPage}
-          сategorieTranslater={сategorieTranslater}
-          subcategories={subcategories}
-        />
-      ))}
+      {fields &&
+        fields.map((item, index) => (
+          <SubcategorieItem
+            item={item}
+            key={index}
+            isProductsCategoriesPage={isProductsCategoriesPage}
+            сategorieTranslater={сategorieTranslater}
+            subcategories={subcategories}
+          />
+        ))}
     </div>
   );
 };

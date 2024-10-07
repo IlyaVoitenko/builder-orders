@@ -4,7 +4,6 @@ import { translateSelector } from "../../../../store/selectors";
 import logo from "../../../../assets/images/vecteezy_ai-generated-ancient-greek-temple-facade-png_42655125.png";
 const Logo = () => {
   const translate = useSelector(translateSelector);
-  console.log("translate?.header?", translate?.header);
   return (
     <div className=" flex">
       <figure>

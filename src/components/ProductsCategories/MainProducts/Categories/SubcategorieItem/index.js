@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import {
   setSelectedCategorie,
   setProducts,
@@ -21,6 +21,7 @@ const SubcategorieItem = ({
   const selectedCategorie = useSelector(selectedCategorieSelector);
   const navigate = useNavigate();
 
+  useEffect(() => {}, [selectedCategorie]);
   return (
     <div
       className={`text-left pl-5 cursor-pointer
