@@ -6,7 +6,7 @@ import { validationCategorieName } from "../../../../utils/helpers";
 
 const CurrentCategorie = ({ subcategorie, categorie }) => {
   const translate = useSelector(translateSelector);
-  const toLowerCaseSubcategorie = subcategorie.toLowerCase();
+  const toLowerCaseSubcategorie = subcategorie?.toLowerCase();
   const validSubcategorie = validationCategorieName(toLowerCaseSubcategorie);
   return (
     <article className="mt-5 w-full ">

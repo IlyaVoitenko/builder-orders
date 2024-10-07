@@ -7,7 +7,7 @@ import { validationCategorieName } from "../../../../utils/helpers";
 const Navigation = ({ categorie, subcategorie, nameProduct }) => {
   const translate = useSelector(translateSelector);
   const home = translate?.header.navigate.home;
-  const toLowerCaseSubcategorie = subcategorie.toLowerCase();
+  const toLowerCaseSubcategorie = subcategorie?.toLowerCase();
   const validSubcategorie = validationCategorieName(toLowerCaseSubcategorie);
 
   return (
