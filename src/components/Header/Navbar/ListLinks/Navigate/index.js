@@ -27,7 +27,7 @@ const Navigate = () => {
     >
       <li>
         <nav>
-          <Link to="/">{translate?.header?.navigate?.home}ee</Link>
+          <Link to="/">{translate?.header?.navigate?.home}</Link>
         </nav>
       </li>
       <li>

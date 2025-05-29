@@ -1,7 +1,6 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import { translateSelector } from "../../../../store/selectors";
-
 const Title = ({ pageName }) => {
   const translate = useSelector(translateSelector);
   return (
