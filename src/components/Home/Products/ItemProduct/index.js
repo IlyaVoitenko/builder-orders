@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import {
   setProducts,
@@ -13,7 +12,7 @@ const ItemProduct = ({ item }) => {
   const { categorie, type, subcategorie } = item || {};
   return (
     <Link
-      to={item.link}
+      to={`/product/${encodeURIComponent(item.title.trim())}`}
       className="w-[21%] max-sm:w-[49%]"
       onClick={() => {
         goToTop();

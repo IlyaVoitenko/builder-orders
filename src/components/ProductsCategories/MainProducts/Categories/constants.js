@@ -465,7 +465,6 @@ export const categories = {
     facadestucco: [
       {
         id: shortid.generate(),
-        link: "/Product",
         title: "EN-123",
         type: "facadeStucco",
         src: PK35,
@@ -480,7 +479,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: KS40,
@@ -495,7 +494,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: PG35,
@@ -510,7 +509,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: GS40,
@@ -525,7 +524,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: ECK09,
@@ -540,7 +539,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: ECK05,
@@ -555,7 +554,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG42,
@@ -570,7 +569,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG43,
@@ -585,7 +584,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG45,
@@ -600,7 +599,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: ECK01,
@@ -615,7 +614,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: BO01,
@@ -630,7 +629,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG44,
@@ -645,7 +644,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: BO02,
@@ -660,7 +659,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: BO07,
@@ -675,7 +674,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: BO03,
@@ -690,7 +689,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG41,
@@ -706,7 +705,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG37,
@@ -722,7 +721,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG35,
@@ -737,7 +736,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG38,
@@ -752,7 +751,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG33,
@@ -767,7 +766,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG30,
@@ -782,7 +781,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG32,
@@ -797,7 +796,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG32,
@@ -812,7 +811,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG29,
@@ -827,7 +826,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG28,
@@ -842,7 +841,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG27,
@@ -857,7 +856,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG26,
@@ -872,7 +871,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG25,
@@ -887,7 +886,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG24,
@@ -902,7 +901,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG23,
@@ -917,7 +916,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG22,
@@ -932,7 +931,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG21,
@@ -947,7 +946,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG20,
@@ -962,7 +961,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG18,
@@ -977,7 +976,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG19,
@@ -992,7 +991,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG17,
@@ -1007,7 +1006,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG16,
@@ -1022,7 +1021,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG15,
@@ -1037,7 +1036,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG14,
@@ -1052,7 +1051,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG13,
@@ -1067,7 +1066,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG12,
@@ -1082,7 +1081,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG11,
@@ -1097,7 +1096,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG10,
@@ -1112,7 +1111,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG08,
@@ -1127,7 +1126,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "facadeStucco",
         src: HG06,
@@ -1144,7 +1143,7 @@ export const categories = {
     bosses: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "BO-35",
         type: "bosses",
         src: PG35,
@@ -1161,7 +1160,7 @@ export const categories = {
     corner: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "corner",
         src: ECK01,
@@ -1176,7 +1175,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "corner",
         src: ECK01,
@@ -1191,7 +1190,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "corner",
         src: ECK01,
@@ -1206,7 +1205,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "corner",
         src: ECK09,
@@ -1221,7 +1220,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "corner",
         src: ECK09,
@@ -1236,7 +1235,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "corner",
         src: ECK09,
@@ -1251,7 +1250,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "EN-123",
         type: "corner",
         src: ECK09,
@@ -1268,7 +1267,7 @@ export const categories = {
     windowsills: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-46",
         type: "windowsills",
         src: FB46,
@@ -1283,7 +1282,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-45",
         type: "windowsills",
         src: FB45,
@@ -1298,7 +1297,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-44",
         type: "windowsills",
         src: FB44,
@@ -1313,7 +1312,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-43",
         type: "windowsills",
         src: FB43,
@@ -1328,7 +1327,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-42",
         type: "windowsills",
         src: FB42,
@@ -1343,7 +1342,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-41",
         type: "windowsills",
         src: FB41,
@@ -1358,7 +1357,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-40",
         type: "windowsills",
         src: FB40,
@@ -1373,7 +1372,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-39",
         type: "windowsills",
         src: FB39,
@@ -1388,7 +1387,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-38",
         type: "windowsills",
         src: FB38,
@@ -1403,7 +1402,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-37",
         type: "windowsills",
         src: FB37,
@@ -1418,7 +1417,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-36",
         type: "windowsills",
         src: FB36,
@@ -1433,7 +1432,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-35",
         type: "windowsills",
         src: FB35,
@@ -1448,7 +1447,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-34",
         type: "windowsills",
         src: FB34,
@@ -1463,7 +1462,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-33",
         type: "windowsills",
         src: FB33,
@@ -1478,7 +1477,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-32",
         type: "windowsills",
         src: FB32,
@@ -1493,7 +1492,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-31",
         type: "windowsills",
         src: FB31,
@@ -1508,7 +1507,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-30",
         type: "windowsills",
         src: FB30,
@@ -1523,7 +1522,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-29",
         type: "windowsills",
         src: FB29,
@@ -1538,7 +1537,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-28",
         type: "windowsills",
         src: FB28,
@@ -1553,7 +1552,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-27",
         type: "windowsills",
         src: FB27,
@@ -1568,7 +1567,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-26",
         type: "windowsills",
         src: FB26,
@@ -1583,7 +1582,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-25",
         type: "windowsills",
         src: FB25,
@@ -1598,7 +1597,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-24",
         type: "windowsills",
         src: FB24,
@@ -1613,7 +1612,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-23",
         type: "windowsills",
         src: FB23,
@@ -1628,7 +1627,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-22",
         type: "windowsills",
         src: FB22,
@@ -1643,7 +1642,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-21",
         type: "windowsills",
         src: FB21,
@@ -1658,7 +1657,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-20",
         type: "windowsills",
         src: FB20,
@@ -1673,7 +1672,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-19",
         type: "windowsills",
         src: FB19,
@@ -1688,7 +1687,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-18",
         type: "windowsills",
         src: FB18,
@@ -1703,7 +1702,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-17",
         type: "windowsills",
         src: FB17,
@@ -1718,7 +1717,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-16",
         type: "windowsills",
         src: FB16,
@@ -1733,7 +1732,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-15",
         type: "windowsills",
         src: FB15,
@@ -1748,7 +1747,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-14",
         type: "windowsills",
         src: FB14,
@@ -1763,7 +1762,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-13",
         type: "windowsills",
         src: FB13,
@@ -1778,7 +1777,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-12",
         type: "windowsills",
         src: FB12,
@@ -1793,7 +1792,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-11",
         type: "windowsills",
         src: FB11,
@@ -1808,7 +1807,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-10",
         type: "windowsills",
         src: FB10,
@@ -1823,7 +1822,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-09",
         type: "windowsills",
         src: FB09,
@@ -1838,7 +1837,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-08",
         type: "windowsills",
         src: FB08,
@@ -1853,7 +1852,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-07",
         type: "windowsills",
         src: FB07,
@@ -1868,7 +1867,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-06",
         type: "windowsills",
         src: FB06,
@@ -1883,7 +1882,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-05",
         type: "windowsills",
         src: FB05,
@@ -1898,7 +1897,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-04",
         type: "windowsills",
         src: FB04,
@@ -1913,7 +1912,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-03",
         type: "windowsills",
         src: FB03,
@@ -1928,7 +1927,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-02",
         type: "windowsills",
         src: FB02,
@@ -1943,7 +1942,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FB-01",
         type: "windowsills",
         src: FB01,
@@ -1960,7 +1959,7 @@ export const categories = {
     windowBar: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-35",
         type: "windowBar",
         src: FL35,
@@ -1975,7 +1974,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-34",
         type: "windowBar",
         src: FL34,
@@ -1990,7 +1989,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-33",
         type: "windowBar",
         src: FL33,
@@ -2005,7 +2004,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-32",
         type: "windowBar",
         src: FL32,
@@ -2020,7 +2019,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-31",
         type: "windowBar",
         src: FL31,
@@ -2035,7 +2034,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-30",
         type: "windowBar",
         src: FL30,
@@ -2050,7 +2049,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-29",
         type: "windowBar",
         src: FL29,
@@ -2065,7 +2064,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-28",
         type: "windowBar",
         src: FL28,
@@ -2080,7 +2079,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-27",
         type: "windowBar",
         src: FL27,
@@ -2095,7 +2094,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-26",
         type: "windowBar",
         src: FL26,
@@ -2110,7 +2109,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-25",
         type: "windowBar",
         src: FL25,
@@ -2125,7 +2124,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-24",
         type: "windowBar",
         src: FL24,
@@ -2140,7 +2139,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-23",
         type: "windowBar",
         src: FL23,
@@ -2155,7 +2154,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-22",
         type: "windowBar",
         src: FL22,
@@ -2170,7 +2169,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-21",
         type: "windowBar",
         src: FL21,
@@ -2185,7 +2184,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-20",
         type: "windowBar",
         src: FL20,
@@ -2200,7 +2199,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL19",
         type: "windowBar",
         src: FL19,
@@ -2215,7 +2214,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-18",
         type: "windowBar",
         src: FL18,
@@ -2230,7 +2229,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-17",
         type: "windowBar",
         src: FL17,
@@ -2245,7 +2244,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-16",
         type: "windowBar",
         src: FL16,
@@ -2260,7 +2259,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-15",
         type: "windowBar",
         src: FL15,
@@ -2275,7 +2274,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-14",
         type: "windowBar",
         src: FL14,
@@ -2290,7 +2289,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-13",
         type: "windowBar",
         src: FL13,
@@ -2305,7 +2304,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-12",
         type: "windowBar",
         src: FL12,
@@ -2320,7 +2319,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-11",
         type: "windowBar",
         src: FL11,
@@ -2335,7 +2334,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-10",
         type: "windowBar",
         src: FL10,
@@ -2350,7 +2349,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-09",
         type: "windowBar",
         src: FL09,
@@ -2365,7 +2364,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-08",
         type: "windowBar",
         src: FL08,
@@ -2380,7 +2379,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-07",
         type: "windowBar",
         src: FL07,
@@ -2395,7 +2394,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-06",
         type: "windowBar",
         src: FL06,
@@ -2410,7 +2409,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-05",
         type: "windowBar",
         src: FL05,
@@ -2425,7 +2424,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-04",
         type: "windowBar",
         src: FL04,
@@ -2440,7 +2439,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-03",
         type: "windowBar",
         src: FL03,
@@ -2455,7 +2454,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-02",
         type: "windowBar",
         src: FL02,
@@ -2470,7 +2469,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "FL-01",
         type: "windowBar",
         src: FL01,
@@ -2487,7 +2486,7 @@ export const categories = {
     mainCornice: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-42",
         type: "mainCornice",
         src: HG42,
@@ -2502,7 +2501,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-43",
         type: "mainCornice",
         src: HG43,
@@ -2517,7 +2516,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-45",
         type: "mainCornice",
         src: HG45,
@@ -2532,7 +2531,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-44",
         type: "mainCornice",
         src: HG44,
@@ -2547,7 +2546,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-41",
         type: "mainCornice",
         src: HG41,
@@ -2562,7 +2561,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-37",
         type: "mainCornice",
         src: HG37,
@@ -2577,7 +2576,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-35",
         type: "mainCornice",
         src: HG35,
@@ -2592,7 +2591,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-38",
         type: "mainCornice",
         src: HG38,
@@ -2607,7 +2606,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-33",
         type: "mainCornice",
         src: HG33,
@@ -2622,7 +2621,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-30",
         type: "mainCornice",
         src: HG30,
@@ -2637,7 +2636,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-32",
         type: "mainCornice",
         src: HG32,
@@ -2653,7 +2652,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-29",
         type: "mainCornice",
         src: HG29,
@@ -2668,7 +2667,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-28",
         type: "mainCornice",
         src: HG28,
@@ -2683,7 +2682,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-27",
         type: "mainCornice",
         src: HG27,
@@ -2698,7 +2697,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-26",
         type: "mainCornice",
         src: HG26,
@@ -2713,7 +2712,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-25",
         type: "mainCornice",
         src: HG25,
@@ -2728,7 +2727,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-24",
         type: "mainCornice",
         src: HG24,
@@ -2743,7 +2742,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-23",
         type: "mainCornice",
         src: HG23,
@@ -2758,7 +2757,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-22",
         type: "mainCornice",
         src: HG22,
@@ -2773,7 +2772,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-21",
         type: "mainCornice",
         src: HG21,
@@ -2788,7 +2787,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-20",
         type: "mainCornice",
         src: HG20,
@@ -2803,7 +2802,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-18",
         type: "mainCornice",
         src: HG18,
@@ -2818,7 +2817,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-19",
         type: "mainCornice",
         src: HG19,
@@ -2833,7 +2832,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-17",
         type: "mainCornice",
         src: HG17,
@@ -2848,7 +2847,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-16",
         type: "mainCornice",
         src: HG16,
@@ -2863,7 +2862,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-15",
         type: "mainCornice",
         src: HG15,
@@ -2878,7 +2877,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-14",
         type: "mainCornice",
         src: HG14,
@@ -2893,7 +2892,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-13",
         type: "mainCornice",
         src: HG13,
@@ -2908,7 +2907,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-12",
         type: "mainCornice",
         src: HG12,
@@ -2923,7 +2922,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-11",
         type: "mainCornice",
         src: HG11,
@@ -2938,7 +2937,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-10",
         type: "mainCornice",
         src: HG10,
@@ -2953,7 +2952,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-08",
         type: "mainCornice",
         src: HG08,
@@ -2968,7 +2967,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-05",
         type: "mainCornice",
         src: HG05,
@@ -2983,7 +2982,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-04",
         type: "mainCornice",
         src: HG04,
@@ -2998,7 +2997,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-03",
         type: "mainCornice",
         src: HG03,
@@ -3013,7 +3012,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-02",
         type: "mainCornice",
         src: HG02,
@@ -3029,7 +3028,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "HG-01",
         type: "mainCornice",
         src: HG01,
@@ -3046,7 +3045,7 @@ export const categories = {
     columns: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KS-40",
         type: "columns",
         src: KS40,
@@ -3065,7 +3064,7 @@ export const categories = {
     internal: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-102",
         type: "internal",
         src: img102,
@@ -3080,7 +3079,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-102",
         type: "internal",
         src: img1022,
@@ -3095,7 +3094,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-103",
         type: "internal",
         src: img103,
@@ -3110,7 +3109,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-103A",
         type: "internal",
         src: img103a,
@@ -3125,7 +3124,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-104",
         type: "internal",
         src: img104,
@@ -3140,7 +3139,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-106",
         type: "internal",
         src: img106,
@@ -3155,7 +3154,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-107",
         type: "internal",
         src: img107,
@@ -3170,7 +3169,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-115",
         type: "internal",
         src: img115,
@@ -3185,7 +3184,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-116",
         type: "internal",
         src: img116,
@@ -3200,7 +3199,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-117",
         type: "internal",
         src: img117,
@@ -3215,7 +3214,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-119",
         type: "internal",
         src: img119,
@@ -3230,7 +3229,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-120",
         type: "internal",
         src: img120,
@@ -3245,7 +3244,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-121",
         type: "internal",
         src: img121,
@@ -3260,7 +3259,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-207",
         type: "internal",
         src: img207a,
@@ -3275,7 +3274,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-224",
         type: "internal",
         src: img224,
@@ -3290,7 +3289,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-4002",
         type: "internal",
         src: img4002,
@@ -3305,7 +3304,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-113",
         type: "internal",
         src: img113,
@@ -3320,7 +3319,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-4025",
         type: "internal",
         src: img4025,
@@ -3335,7 +3334,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-233",
         type: "internal",
         src: img233a,
@@ -3350,7 +3349,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-1008",
         type: "internal",
         src: img1008X,
@@ -3365,7 +3364,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-20123",
         type: "internal",
         src: img20123,
@@ -3380,7 +3379,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-20132",
         type: "internal",
         src: img20132,
@@ -3395,7 +3394,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-3019",
         type: "internal",
         src: img3019c,
@@ -3410,7 +3409,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-40221",
         type: "internal",
         src: img40221,
@@ -3425,7 +3424,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-2B",
         type: "internal",
         src: B2B,
@@ -3440,7 +3439,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-103",
         type: "internal",
         src: DS103,
@@ -3455,7 +3454,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-104",
         type: "internal",
         src: DS104,
@@ -3470,7 +3469,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "GS-26",
         type: "internal",
         src: GS26,
@@ -3485,7 +3484,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "I-51",
         type: "internal",
         src: I0051,
@@ -3500,7 +3499,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "I-161",
         type: "internal",
         src: I0161,
@@ -3515,7 +3514,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-006",
         type: "internal",
         src: K006,
@@ -3530,7 +3529,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-007",
         type: "internal",
         src: K007,
@@ -3545,7 +3544,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-10",
         type: "internal",
         src: K010,
@@ -3560,7 +3559,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-12",
         type: "internal",
         src: K012,
@@ -3575,7 +3574,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-4",
         type: "internal",
         src: K004,
@@ -3590,7 +3589,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-12",
         type: "internal",
         src: KO012,
@@ -3605,7 +3604,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-14",
         type: "internal",
         src: KO014,
@@ -3620,7 +3619,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-17",
         type: "internal",
         src: KO017,
@@ -3635,7 +3634,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-181",
         type: "internal",
         src: KO0181,
@@ -3650,7 +3649,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-18",
         type: "internal",
         src: KO018,
@@ -3665,7 +3664,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KS-26",
         type: "internal",
         src: KS26,
@@ -3680,7 +3679,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-02",
         type: "internal",
         src: LA002,
@@ -3695,7 +3694,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-23",
         type: "internal",
         src: OR023,
@@ -3710,7 +3709,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-25",
         type: "internal",
         src: OR025,
@@ -3725,7 +3724,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-72",
         type: "internal",
         src: OR072,
@@ -3740,7 +3739,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-76",
         type: "internal",
         src: OR076,
@@ -3755,7 +3754,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-27",
         type: "internal",
         src: OR027,
@@ -3770,7 +3769,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-82",
         type: "internal",
         src: OR082,
@@ -3785,7 +3784,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-87",
         type: "internal",
         src: OR087,
@@ -3800,7 +3799,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-92",
         type: "internal",
         src: OR092,
@@ -3815,7 +3814,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-99",
         type: "internal",
         src: OR099,
@@ -3830,7 +3829,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-101",
         type: "internal",
         src: OR101,
@@ -3845,7 +3844,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-108",
         type: "internal",
         src: OR108,
@@ -3860,7 +3859,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-109",
         type: "internal",
         src: OR109,
@@ -3875,7 +3874,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "P-30",
         type: "internal",
         src: P30,
@@ -3890,7 +3889,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-3",
         type: "internal",
         src: RC003,
@@ -3905,7 +3904,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-4",
         type: "internal",
         src: RC004,
@@ -3920,7 +3919,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-14",
         type: "internal",
         src: RC014,
@@ -3935,7 +3934,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-17",
         type: "internal",
         src: RC017,
@@ -3950,7 +3949,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RD-3",
         type: "internal",
         src: RD003,
@@ -3965,7 +3964,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RD-12",
         type: "internal",
         src: RD012,
@@ -3980,7 +3979,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-5",
         type: "internal",
         src: RE005,
@@ -3995,7 +3994,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-12",
         type: "internal",
         src: RE012,
@@ -4010,7 +4009,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-14",
         type: "internal",
         src: RE014,
@@ -4025,7 +4024,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-15",
         type: "internal",
         src: RE015,
@@ -4040,7 +4039,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-21",
         type: "internal",
         src: RE021,
@@ -4055,7 +4054,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-22",
         type: "internal",
         src: RE022,
@@ -4070,7 +4069,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-24",
         type: "internal",
         src: RE024,
@@ -4085,7 +4084,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-1",
         type: "internal",
         src: RF001,
@@ -4100,7 +4099,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-3",
         type: "internal",
         src: RF003,
@@ -4115,7 +4114,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-7",
         type: "internal",
         src: RF007,
@@ -4130,7 +4129,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-6",
         type: "internal",
         src: RF006,
@@ -4145,7 +4144,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-10",
         type: "internal",
         src: RF010,
@@ -4160,7 +4159,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-13",
         type: "internal",
         src: RF013,
@@ -4175,7 +4174,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-14",
         type: "internal",
         src: RF014,
@@ -4190,7 +4189,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-16",
         type: "internal",
         src: RF016,
@@ -4205,7 +4204,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RH-4",
         type: "internal",
         src: RH04,
@@ -4220,7 +4219,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-6",
         type: "internal",
         src: RG006,
@@ -4235,7 +4234,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-8",
         type: "internal",
         src: RG008,
@@ -4250,7 +4249,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-9",
         type: "internal",
         src: RG009,
@@ -4265,7 +4264,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-12",
         type: "internal",
         src: RG012,
@@ -4280,7 +4279,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-2",
         type: "internal",
         src: SP02,
@@ -4295,7 +4294,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RH-14",
         type: "internal",
         src: RH014,
@@ -4312,7 +4311,7 @@ export const categories = {
     pictures: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-2",
         type: "pictures",
         src: B02,
@@ -4327,7 +4326,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-4",
         type: "pictures",
         src: B04,
@@ -4342,7 +4341,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-5",
         type: "pictures",
         src: B05,
@@ -4357,7 +4356,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-11",
         type: "pictures",
         src: B11,
@@ -4372,7 +4371,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-20",
         type: "pictures",
         src: B20,
@@ -4387,7 +4386,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-23",
         type: "pictures",
         src: B23,
@@ -4402,7 +4401,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-25",
         type: "pictures",
         src: B25,
@@ -4417,7 +4416,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-27",
         type: "pictures",
         src: B27,
@@ -4432,7 +4431,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-28",
         type: "pictures",
         src: B28,
@@ -4447,7 +4446,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "B-29",
         type: "pictures",
         src: B29,
@@ -4464,7 +4463,7 @@ export const categories = {
     ceilingAndWallMoldings: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4025",
         type: "ceiling and wall moldings",
         src: img4025,
@@ -4479,7 +4478,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4002",
         type: "ceiling and wall moldings",
         src: img4002,
@@ -4494,7 +4493,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3019",
         type: "ceiling and wall moldings",
         src: img3019c,
@@ -4509,7 +4508,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3018",
         type: "ceiling and wall moldings",
         src: img3018,
@@ -4524,7 +4523,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3017",
         type: "ceiling and wall moldings",
         src: img3017,
@@ -4539,7 +4538,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3015",
         type: "ceiling and wall moldings",
         src: img3015b,
@@ -4554,7 +4553,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3014",
         type: "ceiling and wall moldings",
         src: img3014h,
@@ -4569,7 +4568,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1008",
         type: "ceiling and wall moldings",
         src: img1008X,
@@ -4585,7 +4584,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1001",
         type: "ceiling and wall moldings",
         src: img1001,
@@ -4600,7 +4599,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1002",
         type: "ceiling and wall moldings",
         src: img1002,
@@ -4615,7 +4614,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1004",
         type: "ceiling and wall moldings",
         src: img1004,
@@ -4630,7 +4629,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1004а",
         type: "ceiling and wall moldings",
         src: img1004a,
@@ -4645,7 +4644,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1005",
         type: "ceiling and wall moldings",
         src: img1005,
@@ -4660,7 +4659,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1006",
         type: "ceiling and wall moldings",
         src: img1006,
@@ -4675,7 +4674,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1006а",
         type: "ceiling and wall moldings",
         src: img1006a,
@@ -4690,7 +4689,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1007",
         type: "ceiling and wall moldings",
         src: img1007,
@@ -4705,7 +4704,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1008",
         type: "ceiling and wall moldings",
         src: img1008,
@@ -4720,7 +4719,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3013",
         type: "ceiling and wall moldings",
         src: img3013b,
@@ -4735,7 +4734,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1008",
         type: "ceiling and wall moldings",
         src: img1008xa,
@@ -4750,7 +4749,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-1011",
         type: "ceiling and wall moldings",
         src: img1011,
@@ -4765,7 +4764,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2002",
         type: "ceiling and wall moldings",
         src: img2002,
@@ -4780,7 +4779,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2008",
         type: "ceiling and wall moldings",
         src: img2008,
@@ -4795,7 +4794,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2014",
         type: "ceiling and wall moldings",
         src: img2014,
@@ -4810,7 +4809,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2015",
         type: "ceiling and wall moldings",
         src: img2015,
@@ -4825,7 +4824,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2016",
         type: "ceiling and wall moldings",
         src: img2016,
@@ -4840,7 +4839,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2017",
         type: "ceiling and wall moldings",
         src: img2017,
@@ -4855,7 +4854,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2019",
         type: "ceiling and wall moldings",
         src: img2019,
@@ -4870,7 +4869,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2020",
         type: "ceiling and wall moldings",
         src: img2020,
@@ -4885,7 +4884,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2021",
         type: "ceiling and wall moldings",
         src: img2021,
@@ -4900,7 +4899,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2022",
         type: "ceiling and wall moldings",
         src: img2022,
@@ -4915,7 +4914,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2023",
         type: "ceiling and wall moldings",
         src: img2023,
@@ -4930,7 +4929,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2024",
         type: "ceiling and wall moldings",
         src: img2024,
@@ -4945,7 +4944,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2026",
         type: "ceiling and wall moldings",
         src: img2026,
@@ -4960,7 +4959,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2027",
         type: "ceiling and wall moldings",
         src: img2027,
@@ -4975,7 +4974,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2028",
         type: "ceiling and wall moldings",
         src: img2028,
@@ -4990,7 +4989,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2029",
         type: "ceiling and wall moldings",
         src: img2029,
@@ -5005,7 +5004,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2030",
         type: "ceiling and wall moldings",
         src: img2030,
@@ -5020,7 +5019,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-2031",
         type: "ceiling and wall moldings",
         src: img2031,
@@ -5035,7 +5034,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3001А",
         type: "ceiling and wall moldings",
         src: img3001a,
@@ -5050,7 +5049,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3002",
         type: "ceiling and wall moldings",
         src: img3002,
@@ -5065,7 +5064,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3002А",
         type: "ceiling and wall moldings",
         src: img3002a,
@@ -5080,7 +5079,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3004",
         type: "ceiling and wall moldings",
         src: img3004,
@@ -5095,7 +5094,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3005",
         type: "ceiling and wall moldings",
         src: img3005,
@@ -5110,7 +5109,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3006",
         type: "ceiling and wall moldings",
         src: img3006,
@@ -5125,7 +5124,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3007",
         type: "ceiling and wall moldings",
         src: img3007,
@@ -5141,7 +5140,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3010",
         type: "ceiling and wall moldings",
         src: img3010,
@@ -5156,7 +5155,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3011",
         type: "ceiling and wall moldings",
         src: img3011,
@@ -5171,7 +5170,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-3012А",
         type: "ceiling and wall moldings",
         src: img3012a,
@@ -5186,7 +5185,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4001",
         type: "ceiling and wall moldings",
         src: img4001,
@@ -5201,7 +5200,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4004А",
         type: "ceiling and wall moldings",
         src: img4004a,
@@ -5216,7 +5215,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4005",
         type: "ceiling and wall moldings",
         src: img4005,
@@ -5231,7 +5230,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4006А",
         type: "ceiling and wall moldings",
         src: img4006a,
@@ -5246,7 +5245,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4007",
         type: "ceiling and wall moldings",
         src: img4007,
@@ -5261,7 +5260,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4008",
         type: "ceiling and wall moldings",
         src: img4008,
@@ -5276,7 +5275,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4012А",
         type: "ceiling and wall moldings",
         src: img4012a,
@@ -5291,7 +5290,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4014",
         type: "ceiling and wall moldings",
         src: img4014,
@@ -5306,7 +5305,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4015",
         type: "ceiling and wall moldings",
         src: img4015,
@@ -5321,7 +5320,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4016",
         type: "ceiling and wall moldings",
         src: img4016,
@@ -5336,7 +5335,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4017",
         type: "ceiling and wall moldings",
         src: img4017,
@@ -5351,7 +5350,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4018",
         type: "ceiling and wall moldings",
         src: img4018,
@@ -5366,7 +5365,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4020",
         type: "ceiling and wall moldings",
         src: img4020,
@@ -5381,7 +5380,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4021",
         type: "ceiling and wall moldings",
         src: img4021,
@@ -5396,7 +5395,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DWL-4024",
         type: "ceiling and wall moldings",
         src: img4024,
@@ -5413,7 +5412,7 @@ export const categories = {
     ceilingMirror: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-104",
         type: "ceiling mirror",
         src: DS104,
@@ -5428,7 +5427,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-103",
         type: "ceiling mirror",
         src: DS103,
@@ -5443,7 +5442,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-101",
         type: "ceiling mirror",
         src: DS101,
@@ -5458,7 +5457,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-101a",
         type: "ceiling mirror",
         src: DS101a,
@@ -5473,7 +5472,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-102",
         type: "ceiling mirror",
         src: DS102,
@@ -5488,7 +5487,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-102A",
         type: "ceiling mirror",
         src: DS102a,
@@ -5503,7 +5502,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-102A",
         type: "ceiling mirror",
         src: DS102b,
@@ -5518,7 +5517,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-102C",
         type: "ceiling mirror",
         src: DS102c,
@@ -5533,7 +5532,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-102B",
         type: "ceiling mirror",
         src: DS102d,
@@ -5548,7 +5547,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DS-103A",
         type: "ceiling mirror",
         src: DS103a,
@@ -5565,7 +5564,7 @@ export const categories = {
     decorativeCorners: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-224",
         type: "decorative corners",
         src: img224,
@@ -5580,7 +5579,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-207A",
         type: "decorative corners",
         src: img207a,
@@ -5596,7 +5595,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-103A",
         type: "decorative corners",
         src: img103a,
@@ -5611,7 +5610,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-102",
         type: "decorative corners",
         src: img1022,
@@ -5626,7 +5625,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-233A",
         type: "decorative corners",
         src: img233a,
@@ -5641,7 +5640,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-233",
         type: "decorative corners",
         src: img233,
@@ -5656,7 +5655,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-227A",
         type: "decorative corners",
         src: img227a,
@@ -5671,7 +5670,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-227",
         type: "decorative corners",
         src: img227,
@@ -5686,7 +5685,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-205A",
         type: "decorative corners",
         src: img205a,
@@ -5701,7 +5700,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-205",
         type: "decorative corners",
         src: img205,
@@ -5716,7 +5715,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-204",
         type: "decorative corners",
         src: img204,
@@ -5731,7 +5730,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-101",
         type: "decorative corners",
         src: img101,
@@ -5746,7 +5745,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-101A",
         type: "decorative corners",
         src: img101a,
@@ -5761,7 +5760,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-104A",
         type: "decorative corners",
         src: img104a,
@@ -5776,7 +5775,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-105",
         type: "decorative corners",
         src: img105,
@@ -5791,7 +5790,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-108",
         type: "decorative corners",
         src: img108,
@@ -5806,7 +5805,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-110",
         type: "decorative corners",
         src: img110,
@@ -5821,7 +5820,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-112",
         type: "decorative corners",
         src: img112,
@@ -5836,7 +5835,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-116A",
         type: "decorative corners",
         src: img116a,
@@ -5851,7 +5850,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-201",
         type: "decorative corners",
         src: img201,
@@ -5866,7 +5865,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-202",
         type: "decorative corners",
         src: img202,
@@ -5881,7 +5880,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "DE-203",
         type: "decorative corners",
         src: img203,
@@ -5898,7 +5897,7 @@ export const categories = {
     indirectLightStrips: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-161",
         type: "Indirect light strips",
         src: I0161,
@@ -5913,7 +5912,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-51",
         type: "Indirect light strips",
         src: I0051,
@@ -5928,7 +5927,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-1A",
         type: "Indirect light strips",
         src: I001A,
@@ -5943,7 +5942,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-1AB",
         type: "Indirect light strips",
         src: I001AB,
@@ -5958,7 +5957,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-1B",
         type: "Indirect light strips",
         src: I001B,
@@ -5973,7 +5972,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-2",
         type: "Indirect light strips",
         src: I002,
@@ -5988,7 +5987,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-3A",
         type: "Indirect light strips",
         src: I003A,
@@ -6003,7 +6002,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-3AB",
         type: "Indirect light strips",
         src: I003AB,
@@ -6018,7 +6017,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-3B",
         type: "Indirect light strips",
         src: I003B,
@@ -6033,7 +6032,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-4",
         type: "Indirect light strips",
         src: I004,
@@ -6048,7 +6047,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-6",
         type: "Indirect light strips",
         src: I006,
@@ -6063,7 +6062,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-7",
         type: "Indirect light strips",
         src: I007,
@@ -6078,7 +6077,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-8",
         type: "Indirect light strips",
         src: I008,
@@ -6093,7 +6092,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-9",
         type: "Indirect light strips",
         src: I009,
@@ -6108,7 +6107,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-10",
         type: "Indirect light strips",
         src: I010,
@@ -6123,7 +6122,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-11A",
         type: "Indirect light strips",
         src: I011A,
@@ -6138,7 +6137,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-11AB",
         type: "Indirect light strips",
         src: I011AB,
@@ -6153,7 +6152,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-12A",
         type: "Indirect light strips",
         src: I012A,
@@ -6168,7 +6167,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-12AB",
         type: "Indirect light strips",
         src: I012AB,
@@ -6183,7 +6182,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-12B",
         type: "Indirect light strips",
         src: I012B,
@@ -6198,7 +6197,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-13A",
         type: "Indirect light strips",
         src: I013A,
@@ -6213,7 +6212,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-13AB",
         type: "Indirect light strips",
         src: I013AB,
@@ -6228,7 +6227,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-13B",
         type: "Indirect light strips",
         src: I013B,
@@ -6243,7 +6242,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-14A",
         type: "Indirect light strips",
         src: I014A,
@@ -6258,7 +6257,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-14AB",
         type: "Indirect light strips",
         src: I014AB,
@@ -6273,7 +6272,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-14B",
         type: "Indirect light strips",
         src: I014B,
@@ -6288,7 +6287,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-15A",
         type: "Indirect light strips",
         src: I015A,
@@ -6303,7 +6302,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-15AB",
         type: "Indirect light strips",
         src: I015AB,
@@ -6318,7 +6317,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "IO-15B",
         type: "Indirect light strips",
         src: I015B,
@@ -6335,7 +6334,7 @@ export const categories = {
     cassettes: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-006",
         type: "cassettes",
         src: K006,
@@ -6350,7 +6349,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-007",
         type: "cassettes",
         src: K007,
@@ -6365,7 +6364,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-10",
         type: "internal",
         src: K010,
@@ -6380,7 +6379,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-12",
         type: "cassettes",
         src: K012,
@@ -6395,7 +6394,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-1",
         type: "cassettes",
         src: K01,
@@ -6410,7 +6409,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-4",
         type: "cassettes",
         src: K04,
@@ -6425,7 +6424,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-5",
         type: "cassettes",
         src: K05,
@@ -6440,7 +6439,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-8",
         type: "cassettes",
         src: K08,
@@ -6455,7 +6454,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-13",
         type: "cassettes",
         src: K013,
@@ -6472,7 +6471,7 @@ export const categories = {
     consoles: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "K-4",
         type: "consoles",
         src: K004,
@@ -6487,7 +6486,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-12",
         type: "consoles",
         src: KO012,
@@ -6502,7 +6501,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-14",
         type: "consoles",
         src: KO014,
@@ -6517,7 +6516,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-17",
         type: "consoles",
         src: KO017,
@@ -6532,7 +6531,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-181",
         type: "consoles",
         src: KO0181,
@@ -6547,7 +6546,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-18",
         type: "consoles",
         src: KO018,
@@ -6562,7 +6561,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-19",
         type: "consoles",
         src: KO019,
@@ -6577,7 +6576,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-20",
         type: "consoles",
         src: KO020,
@@ -6592,7 +6591,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-3",
         type: "consoles",
         src: KO03,
@@ -6607,7 +6606,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-2",
         type: "consoles",
         src: KO02,
@@ -6622,7 +6621,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-5",
         type: "consoles",
         src: KO05,
@@ -6637,7 +6636,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-6",
         type: "consoles",
         src: KO06,
@@ -6652,7 +6651,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-7",
         type: "consoles",
         src: KO07,
@@ -6667,7 +6666,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-8",
         type: "consoles",
         src: KO08,
@@ -6682,7 +6681,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-9",
         type: "consoles",
         src: KO09,
@@ -6697,7 +6696,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-10",
         type: "consoles",
         src: KO010,
@@ -6712,7 +6711,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-11",
         type: "consoles",
         src: KO011,
@@ -6727,7 +6726,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "KO-13",
         type: "consoles",
         src: KO013,
@@ -6744,7 +6743,7 @@ export const categories = {
     lamps: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-2",
         type: "lamps",
         src: LA002,
@@ -6759,7 +6758,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-1",
         type: "lamps",
         src: LA001,
@@ -6774,7 +6773,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-4",
         type: "lamps",
         src: LA004,
@@ -6789,7 +6788,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-5",
         type: "lamps",
         src: LA005,
@@ -6804,7 +6803,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-6",
         type: "lamps",
         src: LA006,
@@ -6819,7 +6818,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-7",
         type: "lamps",
         src: LA007,
@@ -6834,7 +6833,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-8",
         type: "lamps",
         src: LA008,
@@ -6851,7 +6850,7 @@ export const categories = {
     ornaments: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "LA-7",
         type: "ornaments",
         src: LA007,
@@ -6866,7 +6865,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-23",
         type: "ornaments",
         src: OR023,
@@ -6881,7 +6880,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-25",
         type: "ornaments",
         src: OR025,
@@ -6896,7 +6895,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-72",
         type: "ornaments",
         src: OR072,
@@ -6911,7 +6910,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-76",
         type: "ornaments",
         src: OR076,
@@ -6926,7 +6925,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-27",
         type: "ornaments",
         src: OR027,
@@ -6941,7 +6940,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-82",
         type: "ornaments",
         src: OR082,
@@ -6956,7 +6955,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-87",
         type: "ornaments",
         src: OR087,
@@ -6971,7 +6970,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-92",
         type: "ornaments",
         src: OR092,
@@ -6986,7 +6985,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-99",
         type: "ornaments",
         src: OR099,
@@ -7001,7 +7000,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-101",
         type: "ornaments",
         src: OR101,
@@ -7016,7 +7015,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-108",
         type: "ornaments",
         src: OR108,
@@ -7031,7 +7030,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-109",
         type: "ornaments",
         src: OR109,
@@ -7046,7 +7045,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-29",
         type: "ornaments",
         src: OR029,
@@ -7061,7 +7060,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-34",
         type: "ornaments",
         src: OR034,
@@ -7076,7 +7075,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-41",
         type: "ornaments",
         src: OR041,
@@ -7091,7 +7090,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-48",
         type: "ornaments",
         src: OR048,
@@ -7106,7 +7105,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-50",
         type: "ornaments",
         src: OR050,
@@ -7121,7 +7120,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-53",
         type: "ornaments",
         src: OR053,
@@ -7136,7 +7135,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-54",
         type: "ornaments",
         src: OR054,
@@ -7151,7 +7150,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-55",
         type: "ornaments",
         src: OR055,
@@ -7166,7 +7165,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-59",
         type: "ornaments",
         src: OR059,
@@ -7181,7 +7180,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-60",
         type: "ornaments",
         src: OR060,
@@ -7196,7 +7195,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-64",
         type: "ornaments",
         src: OR064,
@@ -7211,7 +7210,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-70",
         type: "ornaments",
         src: OR070,
@@ -7226,7 +7225,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-81",
         type: "ornaments",
         src: OR081,
@@ -7242,7 +7241,7 @@ export const categories = {
 
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-86",
         type: "ornaments",
         src: OR086,
@@ -7257,7 +7256,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-88",
         type: "ornaments",
         src: OR088,
@@ -7272,7 +7271,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-89",
         type: "ornaments",
         src: OR089,
@@ -7287,7 +7286,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-90",
         type: "ornaments",
         src: OR090,
@@ -7302,7 +7301,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-91",
         type: "ornaments",
         src: OR091,
@@ -7317,7 +7316,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-93",
         type: "ornaments",
         src: OR093,
@@ -7332,7 +7331,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-97",
         type: "ornaments",
         src: OR097,
@@ -7347,7 +7346,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-98",
         type: "ornaments",
         src: OR098,
@@ -7362,7 +7361,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-100",
         type: "ornaments",
         src: OR100,
@@ -7377,7 +7376,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-104",
         type: "ornaments",
         src: OR104,
@@ -7392,7 +7391,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-105",
         type: "ornaments",
         src: OR105,
@@ -7407,7 +7406,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-107",
         type: "ornaments",
         src: OR107,
@@ -7422,7 +7421,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-110",
         type: "ornaments",
         src: OR110,
@@ -7437,7 +7436,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-111",
         type: "ornaments",
         src: OR111,
@@ -7452,7 +7451,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-112",
         type: "ornaments",
         src: OR112,
@@ -7467,7 +7466,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-114",
         type: "ornaments",
         src: OR114,
@@ -7482,7 +7481,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "OR-115",
         type: "ornaments",
         src: OR115,
@@ -7499,7 +7498,7 @@ export const categories = {
     pilaster: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PB-8",
         type: "pilaster",
         src: PB8,
@@ -7514,7 +7513,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PB-16",
         type: "pilaster",
         src: PB16,
@@ -7529,7 +7528,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PB-20",
         type: "pilaster",
         src: PB20,
@@ -7544,7 +7543,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PB-30",
         type: "pilaster",
         src: PB30,
@@ -7559,7 +7558,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PK-8",
         type: "pilaster",
         src: PK8B,
@@ -7574,7 +7573,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PK-12",
         type: "pilaster",
         src: PK12,
@@ -7589,7 +7588,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PK-16",
         type: "pilaster",
         src: PK16,
@@ -7604,7 +7603,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PK-20",
         type: "pilaster",
         src: PK20,
@@ -7619,7 +7618,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PK-30",
         type: "pilaster",
         src: PK30A,
@@ -7634,7 +7633,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "PK-30",
         type: "pilaster",
         src: PK30B,
@@ -7649,7 +7648,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "P-18",
         type: "pilaster",
         src: P18,
@@ -7666,7 +7665,7 @@ export const categories = {
     frameMoldings: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-104",
         type: "frame moldings",
         src: img104,
@@ -7681,7 +7680,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-120",
         type: "frame moldings",
         src: img120,
@@ -7696,7 +7695,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-119",
         type: "frame moldings",
         src: img119,
@@ -7711,7 +7710,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-118",
         type: "frame moldings",
         src: img118,
@@ -7726,7 +7725,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-116",
         type: "frame moldings",
         src: img116A,
@@ -7741,7 +7740,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-113",
         type: "frame moldings",
         src: img113,
@@ -7756,7 +7755,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-107",
         type: "frame moldings",
         src: img107,
@@ -7771,7 +7770,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-106",
         type: "frame moldings",
         src: img106,
@@ -7786,7 +7785,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-102",
         type: "frame moldings",
         src: img102,
@@ -7801,7 +7800,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-101",
         type: "frame moldings",
         src: img101A,
@@ -7816,7 +7815,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-104",
         type: "frame moldings",
         src: img104A,
@@ -7831,7 +7830,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-109",
         type: "frame moldings",
         src: img109A,
@@ -7846,7 +7845,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-111",
         type: "frame moldings",
         src: img111A,
@@ -7861,7 +7860,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-112",
         type: "frame moldings",
         src: img112A,
@@ -7876,7 +7875,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-114",
         type: "frame moldings",
         src: img114A,
@@ -7891,7 +7890,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-116",
         type: "frame moldings",
         src: img1161,
@@ -7906,7 +7905,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-118",
         type: "frame moldings",
         src: img118A,
@@ -7921,7 +7920,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-121",
         type: "frame moldings",
         src: img121A,
@@ -7936,7 +7935,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-141",
         type: "frame moldings",
         src: img1141,
@@ -7953,7 +7952,7 @@ export const categories = {
     rosettes: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RL-104",
         type: "rosettes",
         src: img104,
@@ -7968,7 +7967,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RH-4",
         type: "rosettes",
         src: RH04,
@@ -7983,7 +7982,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-6",
         type: "rosettes",
         src: RG006,
@@ -7998,7 +7997,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-8",
         type: "rosettes",
         src: RG008,
@@ -8013,7 +8012,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-9",
         type: "rosettes",
         src: RG009,
@@ -8028,7 +8027,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-12",
         type: "rosettes",
         src: RG012,
@@ -8043,7 +8042,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-3",
         type: "rosettes",
         src: RC003,
@@ -8058,7 +8057,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-4",
         type: "rosettes",
         src: RC004,
@@ -8073,7 +8072,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-14",
         type: "rosettes",
         src: RC014,
@@ -8088,7 +8087,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RC-17",
         type: "rosettes",
         src: RC017,
@@ -8103,7 +8102,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-5",
         type: "rosettes",
         src: RE005,
@@ -8118,7 +8117,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-12",
         type: "rosettes",
         src: RE012,
@@ -8133,7 +8132,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-14",
         type: "rosettes",
         src: RE014,
@@ -8148,7 +8147,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-15",
         type: "rosettes",
         src: RE015,
@@ -8163,7 +8162,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-21",
         type: "rosettes",
         src: RE021,
@@ -8178,7 +8177,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-22",
         type: "rosettes",
         src: RE022,
@@ -8193,7 +8192,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RE-24",
         type: "rosettes",
         src: RE024,
@@ -8208,7 +8207,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RD-3",
         type: "rosettes",
         src: RD003,
@@ -8223,7 +8222,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RD-12",
         type: "rosettes",
         src: RD012,
@@ -8238,7 +8237,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-1",
         type: "rosettes",
         src: RF001,
@@ -8253,7 +8252,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-3",
         type: "rosettes",
         src: RF003,
@@ -8268,7 +8267,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-7",
         type: "rosettes",
         src: RF007,
@@ -8283,7 +8282,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-6",
         type: "rosettes",
         src: RF006,
@@ -8298,7 +8297,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-10",
         type: "rosettes",
         src: RF010,
@@ -8313,7 +8312,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-13",
         type: "rosettes",
         src: RF013,
@@ -8328,7 +8327,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-14",
         type: "rosettes",
         src: RF014,
@@ -8343,7 +8342,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-16",
         type: "rosettes",
         src: RF016,
@@ -8358,7 +8357,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-17",
         type: "rosettes",
         src: RF017,
@@ -8373,7 +8372,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-5",
         type: "rosettes",
         src: RF005,
@@ -8388,7 +8387,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-11",
         type: "rosettes",
         src: RF011,
@@ -8403,7 +8402,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-7",
         type: "rosettes",
         src: RH07,
@@ -8418,7 +8417,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-9",
         type: "rosettes",
         src: RH09,
@@ -8433,7 +8432,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-10",
         type: "rosettes",
         src: RH10,
@@ -8448,7 +8447,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RF-16",
         type: "rosettes",
         src: RH016,
@@ -8463,7 +8462,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RH-17",
         type: "rosettes",
         src: RH017,
@@ -8478,7 +8477,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RH-18",
         type: "rosettes",
         src: RH018,
@@ -8493,7 +8492,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RH-19",
         type: "rosettes",
         src: RH019,
@@ -8508,7 +8507,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RH-20",
         type: "rosettes",
         src: RH020,
@@ -8523,7 +8522,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-4",
         type: "rosettes",
         src: RG004,
@@ -8538,7 +8537,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-7",
         type: "rosettes",
         src: RG007,
@@ -8553,7 +8552,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "RG-10",
         type: "rosettes",
         src: RG010,
@@ -8570,7 +8569,7 @@ export const categories = {
     supraport: [
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-1",
         type: "supraport",
         src: SP01,
@@ -8585,7 +8584,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-3",
         type: "supraport",
         src: SP03,
@@ -8600,7 +8599,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-4",
         type: "supraport",
         src: SP04,
@@ -8615,7 +8614,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-5",
         type: "supraport",
         src: SP05,
@@ -8630,7 +8629,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-6",
         type: "supraport",
         src: SP06,
@@ -8645,7 +8644,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-7",
         type: "supraport",
         src: SP07,
@@ -8660,7 +8659,7 @@ export const categories = {
       },
       {
         id: shortid.generate(),
-        link: "/Product",
+
         title: "SP-2",
         type: "supraport",
         src: SP02,
