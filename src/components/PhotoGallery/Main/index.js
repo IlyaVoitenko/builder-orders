@@ -12,7 +12,9 @@ const Main = ({ pageName, imageList }) => {
   return (
     <main className="flex flex-col  items-center justify-center text-left ">
       <Helmet>
-        <title> {translate?.photoGallery[pageName].title}</title>
+        <title>
+          Stuckwerkstatt Voitenko | {translate?.photoGallery[pageName].title}
+        </title>
         <meta
           name="description"
           content={translate.photoGallery[pageName].context[0][`p-${0}`]}
@@ -23,14 +25,31 @@ const Main = ({ pageName, imageList }) => {
         />
         <meta
           property="og:title"
-          content={translate?.photoGallery[pageName].title}
+          content={`Stuckwerkstatt Voitenko | ${translate?.photoGallery[pageName].title}`}
         />
         <meta
           property="og:description"
           content={translate.photoGallery[pageName].context[0][`p-${0}`]}
         />
-
+        <meta property="og:url" content="https://builder-orders.vercel.app/" />
         <meta property="og:type" content="website" />
+        <meta
+          property="og:image"
+          content="https://builder-orders.vercel.app/logoWeb.png"
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={`Stuckwerkstatt Voitenko | ${translate?.photoGallery[pageName].title}`}
+        />
+        <meta
+          name="twitter:description"
+          content="Welcome to Stuckwerkstatt Voitenko website"
+        />
+        <meta
+          name="twitter:image"
+          content="https://builder-orders.vercel.app/logoWeb.png"
+        />
       </Helmet>
       <Title pageName={pageName} />
       <Content pageName={pageName} />

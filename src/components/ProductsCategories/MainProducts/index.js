@@ -27,6 +27,10 @@ const MainProducts = () => {
           content="You can choose interesting categories including Facade stucco ,Bosses,Corner elements, Windowsills,Window bar,Main cornice,Columns,Internal,Pictures,Ceiling and wall moldings,Ceiling mirror,Decorative corners,Indirect Light Strips,Cassettes,Consoles,Lamps,Ornaments,Pilaster,Frame Moldings,Rosettes, Supraport"
         />
         <meta property="og:url" content="https://builder-orders.vercel.app/" />
+        <meta
+          property="og:image"
+          content="https://builder-orders.vercel.app/logoWeb.png"
+        />
         <meta property="og:type" content="website" />
       </Helmet>
       <Categories />

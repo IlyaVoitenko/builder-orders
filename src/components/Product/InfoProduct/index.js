@@ -14,7 +14,8 @@ const InfoProduct = () => {
     <>
       <Helmet>
         <title>
-          {product?.title} | {product.subcategorie || product.type}
+          Stuckwerkstatt Voitenko | {product?.title} |{" "}
+          {product.subcategorie || product.type}
         </title>
         <meta
           name="description"
@@ -26,8 +27,14 @@ const InfoProduct = () => {
             product?.subcategorie || product?.type
           }. The price is ${product?.price}.`}
         />
-        <link rel="canonical" href="https://builder-orders.vercel.app/" />
-        <meta property="og:title" content="Categories page" />
+        <link rel="canonical" href={`https://builder-orders.vercel.app/`} />
+        <meta
+          property="og:title"
+          content={`Stuckwerkstatt Voitenko | ${product?.title} | ${
+            product.subcategorie || product.type
+          }
+`}
+        />
         <meta
           property="og:description"
           content={`The product ${
@@ -38,8 +45,37 @@ const InfoProduct = () => {
             product?.subcategorie || product?.type
           }. The price is ${product?.price}.`}
         />
-        <meta property="og:url" content="https://builder-orders.vercel.app/" />
+        <meta
+          property="og:url"
+          content={`https://builder-orders.vercel.app/${product.title}`}
+        />
         <meta property="og:type" content="website" />
+        <meta
+          property="og:image"
+          content={`https://builder-orders.vercel.app/${product.src}`}
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={`Stuckwerkstatt Voitenko | ${product?.title} | ${
+            product.subcategorie || product.type
+          }
+`}
+        />
+        <meta
+          name="twitter:description"
+          content={`The product ${
+            product?.title
+          } has high quality and is available for purchase. It belongs to the category ${
+            product?.categorie
+          } and subcategory ${
+            product?.subcategorie || product?.type
+          }. The price is ${product?.price}.`}
+        />
+        <meta
+          name="twitter:image"
+          content="https://builder-orders.vercel.app/logoWeb.png"
+        />
       </Helmet>
       <div className="flex flex-col w-screen">
         <Navigation
