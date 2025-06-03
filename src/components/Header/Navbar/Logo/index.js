@@ -6,7 +6,6 @@ const Logo = () => {
         <figure>
           <img src="/logoWeb.png" className="w-[100px] h-full" alt="logo" />
         </figure>
-        <div className="flex flex-col justify-center text-left pl-1"></div>
       </Link>
     </nav>
   );
