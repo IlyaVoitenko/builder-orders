@@ -9,7 +9,6 @@ const Categorie = ({
   isProductsCategoriesPage,
 }) => {
   const fields = Object.keys(subcategories);
-  console.log("fields", fields);
   const translate = useSelector(translateSelector);
   return (
     <div className=" w-64">

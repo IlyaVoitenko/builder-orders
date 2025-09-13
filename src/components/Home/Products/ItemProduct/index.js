@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import {
-  setProducts,
   setSelectedCategorie,
   setSelectedProduct,
 } from "../../../../store/reducer/categories";
@@ -9,15 +8,13 @@ import { goToTop } from "../../../../utils/helpers";
 
 const ItemProduct = ({ item }) => {
   const dispatch = useDispatch();
-  const { categorie, type, subcategorie } = item || {};
   return (
     <Link
       to={`/product/${encodeURIComponent(item.title.trim())}`}
       className="w-[21%] max-sm:w-[49%]"
       onClick={() => {
         goToTop();
-        dispatch(setSelectedCategorie(subcategorie || type));
-        dispatch(setProducts(categorie));
+        dispatch(setSelectedCategorie(item.subcategorie || item.type));
         dispatch(setSelectedProduct(item));
       }}
     >

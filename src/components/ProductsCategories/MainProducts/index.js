@@ -1,4 +1,3 @@
-import React from "react";
 import Categories from "./Categories";
 import Pagination from "../../Pagination";
 import ProductsList from "../../Home/Products/ProductsList";

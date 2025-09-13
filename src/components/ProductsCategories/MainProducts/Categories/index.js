@@ -4,7 +4,6 @@ import { useSelector } from "react-redux";
 import { categories } from "./constants.data";
 
 const Categories = ({ isProductsCategoriesPage = false }) => {
-  console.log("isProductsCategoriesPage", isProductsCategoriesPage);
   const { internal } = categories;
   const translate = useSelector(translateSelector);
   return (

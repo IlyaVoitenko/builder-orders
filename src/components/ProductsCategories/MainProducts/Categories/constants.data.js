@@ -326,7 +326,6 @@ import I015B from "../../../../assets/images/I015B-2-300x300.png";
 import shortid from "shortid";
 
 export const categories = {
-  // facadeStucco: {
   //   // facadestucco: [
   //   //   {
   //   //     id: shortid.generate(),
@@ -334,7 +333,7 @@ export const categories = {
   //   //     type: "facadeStucco",
   //   //     src: PK35,
   //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
+  //   //     price: "€ 0.00",
   //   //     discription: {
   //   //       title: "discription",
   //   //       size: "/28×28/кг: 0,5",
@@ -349,7 +348,7 @@ export const categories = {
   //   //     type: "facadeStucco",
   //   //     src: KS40,
   //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
+  //   //     price: "€ 0.00",
   //   //     discription: {
   //   //       title: "discription",
   //   //       size: "/28×28/кг: 0,5",
@@ -364,7 +363,7 @@ export const categories = {
   //   //     type: "facadeStucco",
   //   //     src: PG35,
   //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
+  //   //     price: "€ 0.00",
   //   //     discription: {
   //   //       title: "discription",
   //   //       size: "/28×28/кг: 0,5",
@@ -2934,7 +2933,7 @@ export const categories = {
         type: "internal",
         src: img102,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -2949,7 +2948,7 @@ export const categories = {
         type: "internal",
         src: img1022,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -2964,7 +2963,7 @@ export const categories = {
         type: "internal",
         src: img103,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -2979,7 +2978,7 @@ export const categories = {
         type: "internal",
         src: img103a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -2994,7 +2993,7 @@ export const categories = {
         type: "internal",
         src: img104,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3009,7 +3008,7 @@ export const categories = {
         type: "internal",
         src: img106,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3024,7 +3023,7 @@ export const categories = {
         type: "internal",
         src: img107,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3039,7 +3038,7 @@ export const categories = {
         type: "internal",
         src: img115,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3054,7 +3053,7 @@ export const categories = {
         type: "internal",
         src: img116,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3069,7 +3068,7 @@ export const categories = {
         type: "internal",
         src: img117,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3084,7 +3083,7 @@ export const categories = {
         type: "internal",
         src: img119,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3099,7 +3098,7 @@ export const categories = {
         type: "internal",
         src: img120,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3114,7 +3113,7 @@ export const categories = {
         type: "internal",
         src: img121,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3129,7 +3128,7 @@ export const categories = {
         type: "internal",
         src: img207a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3144,7 +3143,7 @@ export const categories = {
         type: "internal",
         src: img224,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3159,7 +3158,7 @@ export const categories = {
         type: "internal",
         src: img4002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3174,7 +3173,7 @@ export const categories = {
         type: "internal",
         src: img113,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3189,7 +3188,7 @@ export const categories = {
         type: "internal",
         src: img4025,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3204,7 +3203,7 @@ export const categories = {
         type: "internal",
         src: img233a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3219,7 +3218,7 @@ export const categories = {
         type: "internal",
         src: img1008X,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3234,7 +3233,7 @@ export const categories = {
         type: "internal",
         src: img20123,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3249,7 +3248,7 @@ export const categories = {
         type: "internal",
         src: img20132,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3264,7 +3263,7 @@ export const categories = {
         type: "internal",
         src: img3019c,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3279,7 +3278,7 @@ export const categories = {
         type: "internal",
         src: img40221,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3294,7 +3293,7 @@ export const categories = {
         type: "internal",
         src: B2B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3309,7 +3308,7 @@ export const categories = {
         type: "internal",
         src: DS103,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3324,7 +3323,7 @@ export const categories = {
         type: "internal",
         src: DS104,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3339,7 +3338,7 @@ export const categories = {
         type: "internal",
         src: GS26,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3354,7 +3353,7 @@ export const categories = {
         type: "internal",
         src: I0051,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3369,7 +3368,7 @@ export const categories = {
         type: "internal",
         src: I0161,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3384,7 +3383,7 @@ export const categories = {
         type: "internal",
         src: K006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3399,7 +3398,7 @@ export const categories = {
         type: "internal",
         src: K007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3414,7 +3413,7 @@ export const categories = {
         type: "internal",
         src: K010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3429,7 +3428,7 @@ export const categories = {
         type: "internal",
         src: K012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3444,7 +3443,7 @@ export const categories = {
         type: "internal",
         src: K004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3459,7 +3458,7 @@ export const categories = {
         type: "internal",
         src: KO012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3474,7 +3473,7 @@ export const categories = {
         type: "internal",
         src: KO014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3489,7 +3488,7 @@ export const categories = {
         type: "internal",
         src: KO017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3504,7 +3503,7 @@ export const categories = {
         type: "internal",
         src: KO0181,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3519,7 +3518,7 @@ export const categories = {
         type: "internal",
         src: KO018,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3534,7 +3533,7 @@ export const categories = {
         type: "internal",
         src: KS26,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3549,7 +3548,7 @@ export const categories = {
         type: "internal",
         src: LA002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3564,7 +3563,7 @@ export const categories = {
         type: "internal",
         src: OR023,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3579,7 +3578,7 @@ export const categories = {
         type: "internal",
         src: OR025,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3594,7 +3593,7 @@ export const categories = {
         type: "internal",
         src: OR072,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3609,7 +3608,7 @@ export const categories = {
         type: "internal",
         src: OR076,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3624,7 +3623,7 @@ export const categories = {
         type: "internal",
         src: OR027,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3639,7 +3638,7 @@ export const categories = {
         type: "internal",
         src: OR082,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3654,7 +3653,7 @@ export const categories = {
         type: "internal",
         src: OR087,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3669,7 +3668,7 @@ export const categories = {
         type: "internal",
         src: OR092,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3684,7 +3683,7 @@ export const categories = {
         type: "internal",
         src: OR099,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3699,7 +3698,7 @@ export const categories = {
         type: "internal",
         src: OR101,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3714,7 +3713,7 @@ export const categories = {
         type: "internal",
         src: OR108,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3729,7 +3728,7 @@ export const categories = {
         type: "internal",
         src: OR109,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3744,7 +3743,7 @@ export const categories = {
         type: "internal",
         src: P30,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3759,7 +3758,7 @@ export const categories = {
         type: "internal",
         src: RC003,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3774,7 +3773,7 @@ export const categories = {
         type: "internal",
         src: RC004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3789,7 +3788,7 @@ export const categories = {
         type: "internal",
         src: RC014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3804,7 +3803,7 @@ export const categories = {
         type: "internal",
         src: RC017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3819,7 +3818,7 @@ export const categories = {
         type: "internal",
         src: RD003,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3834,7 +3833,7 @@ export const categories = {
         type: "internal",
         src: RD012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3849,7 +3848,7 @@ export const categories = {
         type: "internal",
         src: RE005,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3864,7 +3863,7 @@ export const categories = {
         type: "internal",
         src: RE012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3879,7 +3878,7 @@ export const categories = {
         type: "internal",
         src: RE014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3894,7 +3893,7 @@ export const categories = {
         type: "internal",
         src: RE015,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3909,7 +3908,7 @@ export const categories = {
         type: "internal",
         src: RE021,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3924,7 +3923,7 @@ export const categories = {
         type: "internal",
         src: RE022,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3939,7 +3938,7 @@ export const categories = {
         type: "internal",
         src: RE024,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3954,7 +3953,7 @@ export const categories = {
         type: "internal",
         src: RF001,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3969,7 +3968,7 @@ export const categories = {
         type: "internal",
         src: RF003,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3984,7 +3983,7 @@ export const categories = {
         type: "internal",
         src: RF007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -3999,7 +3998,7 @@ export const categories = {
         type: "internal",
         src: RF006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4014,7 +4013,7 @@ export const categories = {
         type: "internal",
         src: RF010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4029,7 +4028,7 @@ export const categories = {
         type: "internal",
         src: RF013,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4044,7 +4043,7 @@ export const categories = {
         type: "internal",
         src: RF014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4059,7 +4058,7 @@ export const categories = {
         type: "internal",
         src: RF016,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4074,7 +4073,7 @@ export const categories = {
         type: "internal",
         src: RH04,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4089,7 +4088,7 @@ export const categories = {
         type: "internal",
         src: RG006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4104,7 +4103,7 @@ export const categories = {
         type: "internal",
         src: RG008,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4119,7 +4118,7 @@ export const categories = {
         type: "internal",
         src: RG009,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4134,7 +4133,7 @@ export const categories = {
         type: "internal",
         src: RG012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4149,7 +4148,7 @@ export const categories = {
         type: "internal",
         src: SP02,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4164,7 +4163,7 @@ export const categories = {
         type: "internal",
         src: RH014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4181,7 +4180,7 @@ export const categories = {
         type: "pictures",
         src: B02,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4196,7 +4195,7 @@ export const categories = {
         type: "pictures",
         src: B04,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4211,7 +4210,7 @@ export const categories = {
         type: "pictures",
         src: B05,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4226,7 +4225,7 @@ export const categories = {
         type: "pictures",
         src: B11,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4241,7 +4240,7 @@ export const categories = {
         type: "pictures",
         src: B20,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4256,7 +4255,7 @@ export const categories = {
         type: "pictures",
         src: B23,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4271,7 +4270,7 @@ export const categories = {
         type: "pictures",
         src: B25,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4286,7 +4285,7 @@ export const categories = {
         type: "pictures",
         src: B27,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4301,7 +4300,7 @@ export const categories = {
         type: "pictures",
         src: B28,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4316,7 +4315,7 @@ export const categories = {
         type: "pictures",
         src: B29,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4333,7 +4332,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4025,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4348,7 +4347,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4363,7 +4362,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3019c,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4378,7 +4377,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3018,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4393,7 +4392,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4408,7 +4407,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3015b,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4423,7 +4422,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3014h,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4438,7 +4437,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1008X,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4454,7 +4453,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1001,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4469,7 +4468,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4484,7 +4483,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4499,7 +4498,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1004a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4514,7 +4513,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1005,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4529,7 +4528,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4544,7 +4543,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1006a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4559,7 +4558,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4574,7 +4573,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1008,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4589,7 +4588,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3013b,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4604,7 +4603,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1008xa,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4619,7 +4618,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img1011,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4634,7 +4633,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4649,7 +4648,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2008,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4664,7 +4663,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4679,7 +4678,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2015,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4694,7 +4693,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2016,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4709,7 +4708,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4724,7 +4723,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2019,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4739,7 +4738,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2020,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4754,7 +4753,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2021,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4769,7 +4768,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2022,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4784,7 +4783,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2023,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4799,7 +4798,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2024,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4814,7 +4813,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2026,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4829,7 +4828,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2027,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4844,7 +4843,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2028,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4859,7 +4858,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2029,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4874,7 +4873,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2030,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4889,7 +4888,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img2031,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4904,7 +4903,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3001a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4919,7 +4918,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4934,7 +4933,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3002a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4949,7 +4948,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4964,7 +4963,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3005,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4979,7 +4978,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -4994,7 +4993,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5010,7 +5009,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5025,7 +5024,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3011,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5040,7 +5039,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3012a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5055,7 +5054,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4001,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5070,7 +5069,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4004a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5085,7 +5084,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4005,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5100,7 +5099,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4006a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5115,7 +5114,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5130,7 +5129,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4008,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5145,7 +5144,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4012a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5160,7 +5159,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5175,7 +5174,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4015,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5190,7 +5189,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4016,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5205,7 +5204,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5220,7 +5219,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4018,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5235,7 +5234,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4020,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5250,7 +5249,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4021,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5265,7 +5264,7 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img4024,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5282,7 +5281,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS104,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5297,7 +5296,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS103,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5312,7 +5311,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS101,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5327,7 +5326,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS101a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5342,7 +5341,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS102,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5357,7 +5356,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS102a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5372,7 +5371,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS102b,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5387,7 +5386,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS102c,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5402,7 +5401,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS102d,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5417,7 +5416,7 @@ export const categories = {
         type: "ceiling mirror",
         src: DS103a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5434,7 +5433,7 @@ export const categories = {
         type: "decorative corners",
         src: img224,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5449,7 +5448,7 @@ export const categories = {
         type: "decorative corners",
         src: img207a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5465,7 +5464,7 @@ export const categories = {
         type: "decorative corners",
         src: img103a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5480,7 +5479,7 @@ export const categories = {
         type: "decorative corners",
         src: img1022,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5495,7 +5494,7 @@ export const categories = {
         type: "decorative corners",
         src: img233a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5510,7 +5509,7 @@ export const categories = {
         type: "decorative corners",
         src: img233,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5525,7 +5524,7 @@ export const categories = {
         type: "decorative corners",
         src: img227a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5540,7 +5539,7 @@ export const categories = {
         type: "decorative corners",
         src: img227,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5555,7 +5554,7 @@ export const categories = {
         type: "decorative corners",
         src: img205a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5570,7 +5569,7 @@ export const categories = {
         type: "decorative corners",
         src: img205,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5585,7 +5584,7 @@ export const categories = {
         type: "decorative corners",
         src: img204,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5600,7 +5599,7 @@ export const categories = {
         type: "decorative corners",
         src: img101,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5615,7 +5614,7 @@ export const categories = {
         type: "decorative corners",
         src: img101a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5630,7 +5629,7 @@ export const categories = {
         type: "decorative corners",
         src: img104a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5645,7 +5644,7 @@ export const categories = {
         type: "decorative corners",
         src: img105,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5660,7 +5659,7 @@ export const categories = {
         type: "decorative corners",
         src: img108,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5675,7 +5674,7 @@ export const categories = {
         type: "decorative corners",
         src: img110,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5690,7 +5689,7 @@ export const categories = {
         type: "decorative corners",
         src: img112,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5705,7 +5704,7 @@ export const categories = {
         type: "decorative corners",
         src: img116a,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5720,7 +5719,7 @@ export const categories = {
         type: "decorative corners",
         src: img201,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5735,7 +5734,7 @@ export const categories = {
         type: "decorative corners",
         src: img202,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5750,7 +5749,7 @@ export const categories = {
         type: "decorative corners",
         src: img203,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5767,7 +5766,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I0161,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5782,7 +5781,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I0051,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5797,7 +5796,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I001A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5812,7 +5811,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I001AB,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5827,7 +5826,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I001B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5842,7 +5841,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5857,7 +5856,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I003A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5872,7 +5871,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I003AB,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5887,7 +5886,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I003B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5902,7 +5901,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5917,7 +5916,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5932,7 +5931,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5947,7 +5946,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I008,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5962,7 +5961,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I009,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5977,7 +5976,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -5992,7 +5991,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I011A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6007,7 +6006,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I011AB,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6022,7 +6021,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I012A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6037,7 +6036,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I012AB,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6052,7 +6051,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I012B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6067,7 +6066,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I013A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6082,7 +6081,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I013AB,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6097,7 +6096,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I013B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6112,7 +6111,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I014A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6127,7 +6126,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I014AB,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6142,7 +6141,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I014B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6157,7 +6156,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I015A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6172,7 +6171,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I015AB,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6187,7 +6186,7 @@ export const categories = {
         type: "Indirect light strips",
         src: I015B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6204,7 +6203,7 @@ export const categories = {
         type: "cassettes",
         src: K006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6219,7 +6218,7 @@ export const categories = {
         type: "cassettes",
         src: K007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6234,7 +6233,7 @@ export const categories = {
         type: "internal",
         src: K010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6249,7 +6248,7 @@ export const categories = {
         type: "cassettes",
         src: K012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6264,7 +6263,7 @@ export const categories = {
         type: "cassettes",
         src: K01,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6279,7 +6278,7 @@ export const categories = {
         type: "cassettes",
         src: K04,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6294,7 +6293,7 @@ export const categories = {
         type: "cassettes",
         src: K05,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6309,7 +6308,7 @@ export const categories = {
         type: "cassettes",
         src: K08,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6324,7 +6323,7 @@ export const categories = {
         type: "cassettes",
         src: K013,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6341,7 +6340,7 @@ export const categories = {
         type: "consoles",
         src: K004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6356,7 +6355,7 @@ export const categories = {
         type: "consoles",
         src: KO012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6371,7 +6370,7 @@ export const categories = {
         type: "consoles",
         src: KO014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6386,7 +6385,7 @@ export const categories = {
         type: "consoles",
         src: KO017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6401,7 +6400,7 @@ export const categories = {
         type: "consoles",
         src: KO0181,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6416,7 +6415,7 @@ export const categories = {
         type: "consoles",
         src: KO018,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6431,7 +6430,7 @@ export const categories = {
         type: "consoles",
         src: KO019,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6446,7 +6445,7 @@ export const categories = {
         type: "consoles",
         src: KO020,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6461,7 +6460,7 @@ export const categories = {
         type: "consoles",
         src: KO03,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6476,7 +6475,7 @@ export const categories = {
         type: "consoles",
         src: KO02,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6491,7 +6490,7 @@ export const categories = {
         type: "consoles",
         src: KO05,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6506,7 +6505,7 @@ export const categories = {
         type: "consoles",
         src: KO06,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6521,7 +6520,7 @@ export const categories = {
         type: "consoles",
         src: KO07,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6536,7 +6535,7 @@ export const categories = {
         type: "consoles",
         src: KO08,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6551,7 +6550,7 @@ export const categories = {
         type: "consoles",
         src: KO09,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6566,7 +6565,7 @@ export const categories = {
         type: "consoles",
         src: KO010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6581,7 +6580,7 @@ export const categories = {
         type: "consoles",
         src: KO011,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6596,7 +6595,7 @@ export const categories = {
         type: "consoles",
         src: KO013,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6613,7 +6612,7 @@ export const categories = {
         type: "lamps",
         src: LA002,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6628,7 +6627,7 @@ export const categories = {
         type: "lamps",
         src: LA001,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6643,7 +6642,7 @@ export const categories = {
         type: "lamps",
         src: LA004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6658,7 +6657,7 @@ export const categories = {
         type: "lamps",
         src: LA005,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6673,7 +6672,7 @@ export const categories = {
         type: "lamps",
         src: LA006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6688,7 +6687,7 @@ export const categories = {
         type: "lamps",
         src: LA007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6703,7 +6702,7 @@ export const categories = {
         type: "lamps",
         src: LA008,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6720,7 +6719,7 @@ export const categories = {
         type: "ornaments",
         src: LA007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6735,7 +6734,7 @@ export const categories = {
         type: "ornaments",
         src: OR023,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6750,7 +6749,7 @@ export const categories = {
         type: "ornaments",
         src: OR025,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6765,7 +6764,7 @@ export const categories = {
         type: "ornaments",
         src: OR072,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6780,7 +6779,7 @@ export const categories = {
         type: "ornaments",
         src: OR076,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6795,7 +6794,7 @@ export const categories = {
         type: "ornaments",
         src: OR027,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6810,7 +6809,7 @@ export const categories = {
         type: "ornaments",
         src: OR082,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6825,7 +6824,7 @@ export const categories = {
         type: "ornaments",
         src: OR087,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6840,7 +6839,7 @@ export const categories = {
         type: "ornaments",
         src: OR092,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6855,7 +6854,7 @@ export const categories = {
         type: "ornaments",
         src: OR099,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6870,7 +6869,7 @@ export const categories = {
         type: "ornaments",
         src: OR101,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6885,7 +6884,7 @@ export const categories = {
         type: "ornaments",
         src: OR108,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6900,7 +6899,7 @@ export const categories = {
         type: "ornaments",
         src: OR109,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6915,7 +6914,7 @@ export const categories = {
         type: "ornaments",
         src: OR029,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6930,7 +6929,7 @@ export const categories = {
         type: "ornaments",
         src: OR034,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6945,7 +6944,7 @@ export const categories = {
         type: "ornaments",
         src: OR041,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6960,7 +6959,7 @@ export const categories = {
         type: "ornaments",
         src: OR048,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6975,7 +6974,7 @@ export const categories = {
         type: "ornaments",
         src: OR050,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -6990,7 +6989,7 @@ export const categories = {
         type: "ornaments",
         src: OR053,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7005,7 +7004,7 @@ export const categories = {
         type: "ornaments",
         src: OR054,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7020,7 +7019,7 @@ export const categories = {
         type: "ornaments",
         src: OR055,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7035,7 +7034,7 @@ export const categories = {
         type: "ornaments",
         src: OR059,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7050,7 +7049,7 @@ export const categories = {
         type: "ornaments",
         src: OR060,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7065,7 +7064,7 @@ export const categories = {
         type: "ornaments",
         src: OR064,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7080,7 +7079,7 @@ export const categories = {
         type: "ornaments",
         src: OR070,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7095,7 +7094,7 @@ export const categories = {
         type: "ornaments",
         src: OR081,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7111,7 +7110,7 @@ export const categories = {
         type: "ornaments",
         src: OR086,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7126,7 +7125,7 @@ export const categories = {
         type: "ornaments",
         src: OR088,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7141,7 +7140,7 @@ export const categories = {
         type: "ornaments",
         src: OR089,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7156,7 +7155,7 @@ export const categories = {
         type: "ornaments",
         src: OR090,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7171,7 +7170,7 @@ export const categories = {
         type: "ornaments",
         src: OR091,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7186,7 +7185,7 @@ export const categories = {
         type: "ornaments",
         src: OR093,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7201,7 +7200,7 @@ export const categories = {
         type: "ornaments",
         src: OR097,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7216,7 +7215,7 @@ export const categories = {
         type: "ornaments",
         src: OR098,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7231,7 +7230,7 @@ export const categories = {
         type: "ornaments",
         src: OR100,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7246,7 +7245,7 @@ export const categories = {
         type: "ornaments",
         src: OR104,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7261,7 +7260,7 @@ export const categories = {
         type: "ornaments",
         src: OR105,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7276,7 +7275,7 @@ export const categories = {
         type: "ornaments",
         src: OR107,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7291,7 +7290,7 @@ export const categories = {
         type: "ornaments",
         src: OR110,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7306,7 +7305,7 @@ export const categories = {
         type: "ornaments",
         src: OR111,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7321,7 +7320,7 @@ export const categories = {
         type: "ornaments",
         src: OR112,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7336,7 +7335,7 @@ export const categories = {
         type: "ornaments",
         src: OR114,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7351,7 +7350,7 @@ export const categories = {
         type: "ornaments",
         src: OR115,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7368,7 +7367,7 @@ export const categories = {
         type: "pilaster",
         src: PB8,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7383,7 +7382,7 @@ export const categories = {
         type: "pilaster",
         src: PB16,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7398,7 +7397,7 @@ export const categories = {
         type: "pilaster",
         src: PB20,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7413,7 +7412,7 @@ export const categories = {
         type: "pilaster",
         src: PB30,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7428,7 +7427,7 @@ export const categories = {
         type: "pilaster",
         src: PK8B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7443,7 +7442,7 @@ export const categories = {
         type: "pilaster",
         src: PK12,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7458,7 +7457,7 @@ export const categories = {
         type: "pilaster",
         src: PK16,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7473,7 +7472,7 @@ export const categories = {
         type: "pilaster",
         src: PK20,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7488,7 +7487,7 @@ export const categories = {
         type: "pilaster",
         src: PK30A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7503,7 +7502,7 @@ export const categories = {
         type: "pilaster",
         src: PK30B,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7518,7 +7517,7 @@ export const categories = {
         type: "pilaster",
         src: P18,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7535,7 +7534,7 @@ export const categories = {
         type: "frame moldings",
         src: img104,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7550,7 +7549,7 @@ export const categories = {
         type: "frame moldings",
         src: img120,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7565,7 +7564,7 @@ export const categories = {
         type: "frame moldings",
         src: img119,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7580,7 +7579,7 @@ export const categories = {
         type: "frame moldings",
         src: img118,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7595,7 +7594,7 @@ export const categories = {
         type: "frame moldings",
         src: img116A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7610,7 +7609,7 @@ export const categories = {
         type: "frame moldings",
         src: img113,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7625,7 +7624,7 @@ export const categories = {
         type: "frame moldings",
         src: img107,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7640,7 +7639,7 @@ export const categories = {
         type: "frame moldings",
         src: img106,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7655,7 +7654,7 @@ export const categories = {
         type: "frame moldings",
         src: img102,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7670,7 +7669,7 @@ export const categories = {
         type: "frame moldings",
         src: img101A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7685,7 +7684,7 @@ export const categories = {
         type: "frame moldings",
         src: img104A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7700,7 +7699,7 @@ export const categories = {
         type: "frame moldings",
         src: img109A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7715,7 +7714,7 @@ export const categories = {
         type: "frame moldings",
         src: img111A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7730,7 +7729,7 @@ export const categories = {
         type: "frame moldings",
         src: img112A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7745,7 +7744,7 @@ export const categories = {
         type: "frame moldings",
         src: img114A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7760,7 +7759,7 @@ export const categories = {
         type: "frame moldings",
         src: img1161,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7775,7 +7774,7 @@ export const categories = {
         type: "frame moldings",
         src: img118A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7790,7 +7789,7 @@ export const categories = {
         type: "frame moldings",
         src: img121A,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7805,7 +7804,7 @@ export const categories = {
         type: "frame moldings",
         src: img1141,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7822,7 +7821,7 @@ export const categories = {
         type: "rosettes",
         src: img104,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7837,7 +7836,7 @@ export const categories = {
         type: "rosettes",
         src: RH04,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7852,7 +7851,7 @@ export const categories = {
         type: "rosettes",
         src: RG006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7867,7 +7866,7 @@ export const categories = {
         type: "rosettes",
         src: RG008,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7882,7 +7881,7 @@ export const categories = {
         type: "rosettes",
         src: RG009,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7897,7 +7896,7 @@ export const categories = {
         type: "rosettes",
         src: RG012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7912,7 +7911,7 @@ export const categories = {
         type: "rosettes",
         src: RC003,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7927,7 +7926,7 @@ export const categories = {
         type: "rosettes",
         src: RC004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7942,7 +7941,7 @@ export const categories = {
         type: "rosettes",
         src: RC014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7957,7 +7956,7 @@ export const categories = {
         type: "rosettes",
         src: RC017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7972,7 +7971,7 @@ export const categories = {
         type: "rosettes",
         src: RE005,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -7987,7 +7986,7 @@ export const categories = {
         type: "rosettes",
         src: RE012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8002,7 +8001,7 @@ export const categories = {
         type: "rosettes",
         src: RE014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8017,7 +8016,7 @@ export const categories = {
         type: "rosettes",
         src: RE015,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8032,7 +8031,7 @@ export const categories = {
         type: "rosettes",
         src: RE021,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8047,7 +8046,7 @@ export const categories = {
         type: "rosettes",
         src: RE022,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8062,7 +8061,7 @@ export const categories = {
         type: "rosettes",
         src: RE024,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8077,7 +8076,7 @@ export const categories = {
         type: "rosettes",
         src: RD003,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8092,7 +8091,7 @@ export const categories = {
         type: "rosettes",
         src: RD012,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8107,7 +8106,7 @@ export const categories = {
         type: "rosettes",
         src: RF001,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8122,7 +8121,7 @@ export const categories = {
         type: "rosettes",
         src: RF003,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8137,7 +8136,7 @@ export const categories = {
         type: "rosettes",
         src: RF007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8152,7 +8151,7 @@ export const categories = {
         type: "rosettes",
         src: RF006,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8167,7 +8166,7 @@ export const categories = {
         type: "rosettes",
         src: RF010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8182,7 +8181,7 @@ export const categories = {
         type: "rosettes",
         src: RF013,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8197,7 +8196,7 @@ export const categories = {
         type: "rosettes",
         src: RF014,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8212,7 +8211,7 @@ export const categories = {
         type: "rosettes",
         src: RF016,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8227,7 +8226,7 @@ export const categories = {
         type: "rosettes",
         src: RF017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8242,7 +8241,7 @@ export const categories = {
         type: "rosettes",
         src: RF005,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8257,7 +8256,7 @@ export const categories = {
         type: "rosettes",
         src: RF011,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8272,7 +8271,7 @@ export const categories = {
         type: "rosettes",
         src: RH07,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8287,7 +8286,7 @@ export const categories = {
         type: "rosettes",
         src: RH09,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8302,7 +8301,7 @@ export const categories = {
         type: "rosettes",
         src: RH10,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8317,7 +8316,7 @@ export const categories = {
         type: "rosettes",
         src: RH016,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8332,7 +8331,7 @@ export const categories = {
         type: "rosettes",
         src: RH017,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8347,7 +8346,7 @@ export const categories = {
         type: "rosettes",
         src: RH018,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8362,7 +8361,7 @@ export const categories = {
         type: "rosettes",
         src: RH019,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8377,7 +8376,7 @@ export const categories = {
         type: "rosettes",
         src: RH020,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8392,7 +8391,7 @@ export const categories = {
         type: "rosettes",
         src: RG004,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8407,7 +8406,7 @@ export const categories = {
         type: "rosettes",
         src: RG007,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8422,7 +8421,7 @@ export const categories = {
         type: "rosettes",
         src: RG010,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8439,7 +8438,7 @@ export const categories = {
         type: "supraport",
         src: SP01,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8454,7 +8453,7 @@ export const categories = {
         type: "supraport",
         src: SP03,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8469,7 +8468,7 @@ export const categories = {
         type: "supraport",
         src: SP04,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8484,7 +8483,7 @@ export const categories = {
         type: "supraport",
         src: SP05,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8499,7 +8498,7 @@ export const categories = {
         type: "supraport",
         src: SP06,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8514,7 +8513,7 @@ export const categories = {
         type: "supraport",
         src: SP07,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
@@ -8529,7 +8528,7 @@ export const categories = {
         type: "supraport",
         src: SP02,
         categorie: "internal",
-        price: "€ 15.00",
+        price: "€ 0.00",
         discription: {
           title: "discription",
           size: "/28×28/кг: 0,5",
