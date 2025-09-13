@@ -1,4 +1,3 @@
-import React from "react";
 import ProductsList from "../../../Home/Products/ProductsList";
 
 const Products = ({ product }) => {

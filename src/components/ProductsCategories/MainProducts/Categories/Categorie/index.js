@@ -1,4 +1,3 @@
-import React from "react";
 import { translateSelector } from "../../../../../store/selectors";
 import SubcategorieItem from "../SubcategorieItem";
 import { useSelector } from "react-redux";
@@ -10,6 +9,7 @@ const Categorie = ({
   isProductsCategoriesPage,
 }) => {
   const fields = Object.keys(subcategories);
+  console.log("fields", fields);
   const translate = useSelector(translateSelector);
   return (
     <div className=" w-64">

@@ -1,11 +1,11 @@
-import React from "react";
 import { translateSelector } from "../../../../store/selectors";
 import Categorie from "./Categorie";
 import { useSelector } from "react-redux";
-import { categories } from "./constants";
+import { categories } from "./constants.data";
 
 const Categories = ({ isProductsCategoriesPage = false }) => {
-  const { facadeStucco, internal } = categories;
+  console.log("isProductsCategoriesPage", isProductsCategoriesPage);
+  const { internal } = categories;
   const translate = useSelector(translateSelector);
   return (
     <div
@@ -18,14 +18,6 @@ const Categories = ({ isProductsCategoriesPage = false }) => {
       <span className="text-blue-500 ">
         {translate?.productsCategories.title}
       </span>
-      <Categorie
-        subcategories={facadeStucco}
-        сategorieTranslater={"facadeStucco"}
-        isProductsCategoriesPage={isProductsCategoriesPage}
-        titleCatrgorie={
-          "productsCategories.categories.facadeStucco.titleCategorie"
-        }
-      />
       <Categorie
         subcategories={internal}
         isProductsCategoriesPage={isProductsCategoriesPage}

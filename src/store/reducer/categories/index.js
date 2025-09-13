@@ -1,10 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { categories } from "../../../components/ProductsCategories/MainProducts/Categories/constants";
+import { categories } from "../../../components/ProductsCategories/MainProducts/Categories/constants.data";
 
 const initialState = {
   selectedProduct: {},
-  selectedCategorie: "bosses",
-  products: [...categories.facadeStucco.bosses],
+  selectedCategorie: "internal",
+  products: [...categories.internal.internal],
 };
 
 export const categoriesSlice = createSlice({

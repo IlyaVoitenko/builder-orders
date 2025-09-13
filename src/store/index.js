@@ -13,7 +13,6 @@ import storage from "redux-persist/lib/storage";
 import menuReducer from "./reducer/menu";
 import categoriesReducer from "./reducer/categories";
 import translateReducer from "./reducer/translate";
-import userRequestReducer from "./reducer/userRequest";
 import loadingReducer from "./reducer/loading";
 
 const persistConfig = {
@@ -26,7 +25,6 @@ const rootReducer = combineReducers({
   menu: menuReducer,
   categories: categoriesReducer,
   translate: translateReducer,
-  userRequest: userRequestReducer,
   loading: loadingReducer,
 });
 
