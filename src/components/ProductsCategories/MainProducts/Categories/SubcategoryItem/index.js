@@ -24,7 +24,6 @@ const SubcategoryItem = ({
   const navigate = useNavigate();
 
   useEffect(() => {}, [selectedCategory]);
-  console.log(selectedProduct.subcategory, "---", selectedCategory);
   return (
     <div
       className={`text-left pl-5 cursor-pointer

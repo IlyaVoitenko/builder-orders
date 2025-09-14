@@ -53,7 +53,6 @@ import img1002 from "../../../../assets/images/1002-1-300x300.png";
 import img1004 from "../../../../assets/images/1004-2-300x300.png";
 import img1004a from "../../../../assets/images/1004A-2-300x300.png";
 import img1005 from "../../../../assets/images/1005-2-300x300.png";
-import img1006 from "../../../../assets/images/1006-2-300x300.png";
 import img1006a from "../../../../assets/images/1006A-3-300x300.png";
 import img1007 from "../../../../assets/images/1007-2-300x300.png";
 import img1008 from "../../../../assets/images/1008-2-300x300.png";
@@ -326,7 +325,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -341,7 +340,7 @@ export const categories = {
         price: "€ 60.00",
         description: {
           title: "description",
-          size: "/37×37/кг: 0,5",
+          size: "/37×37/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -356,7 +355,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -371,7 +370,7 @@ export const categories = {
         price: "€ 45.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -386,7 +385,7 @@ export const categories = {
         price: "€ 35.00",
         description: {
           title: "description",
-          size: "/4×2/кг: 0,5",
+          size: "/4×2/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -401,7 +400,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -416,7 +415,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -431,7 +430,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -446,7 +445,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -461,7 +460,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -476,7 +475,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -491,7 +490,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -506,7 +505,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -521,7 +520,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -536,7 +535,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/40×40/кг: 0,5",
+          size: "/40×40/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -551,7 +550,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -566,7 +565,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -581,7 +580,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -596,7 +595,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/37×37/кг: 0,5",
+          size: "/37×37/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -611,7 +610,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -626,7 +625,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -641,7 +640,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -656,7 +655,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -671,7 +670,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -686,7 +685,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -701,7 +700,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -716,7 +715,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -731,7 +730,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -746,7 +745,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -761,7 +760,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -776,7 +775,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -791,7 +790,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -806,7 +805,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -821,7 +820,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -836,7 +835,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -851,7 +850,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -866,7 +865,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -881,7 +880,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -896,7 +895,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -911,7 +910,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -926,7 +925,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -941,7 +940,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -956,7 +955,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -971,7 +970,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -986,7 +985,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1001,7 +1000,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1016,7 +1015,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1031,7 +1030,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1046,7 +1045,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1061,7 +1060,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1076,7 +1075,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1091,7 +1090,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1106,7 +1105,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1121,7 +1120,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1136,7 +1135,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1151,7 +1150,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1166,7 +1165,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1181,7 +1180,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1196,7 +1195,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1211,7 +1210,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1226,7 +1225,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1241,7 +1240,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1256,7 +1255,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1271,7 +1270,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1286,7 +1285,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1301,7 +1300,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1316,7 +1315,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1331,7 +1330,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1346,7 +1345,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1361,7 +1360,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1376,7 +1375,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1391,7 +1390,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1406,7 +1405,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1421,7 +1420,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1436,7 +1435,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1451,7 +1450,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1466,7 +1465,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1541,7 +1540,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1556,7 +1555,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1573,7 +1572,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1588,7 +1587,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1603,7 +1602,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1618,7 +1617,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1633,7 +1632,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1648,7 +1647,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1663,7 +1662,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1678,7 +1677,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1693,7 +1692,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1708,7 +1707,7 @@ export const categories = {
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
-    //       size: "/28×28/кг: 0,5",
+    //       size: "/28×28/kg: 0,5",
     //       connect: " RL 103",
     //       price: "Цена за единицу:",
     //     },
@@ -1725,7 +1724,7 @@ export const categories = {
       //   price: "€ 0.00",
       //   description: {
       //     title: "description",
-      //     size: "/28×28/кг: 0,5",
+      //     size: "/28×28/kg: 0,5",
       //     connect: " RL 103",
       //     price: "Цена за единицу:",
       //   },
@@ -1740,7 +1739,7 @@ export const categories = {
       //   price: "€ 0.00",
       //   description: {
       //     title: "description",
-      //     size: "/28×28/кг: 0,5",
+      //     size: "/28×28/kg: 0,5",
       //     connect: " RL 103",
       //     price: "Цена за единицу:",
       //   },
@@ -1755,7 +1754,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1785,7 +1784,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1800,7 +1799,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1815,7 +1814,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1830,7 +1829,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1846,7 +1845,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1861,7 +1860,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1876,7 +1875,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1891,7 +1890,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1906,7 +1905,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1921,7 +1920,7 @@ export const categories = {
       //   price: "€ 0.00",
       //   description: {
       //     title: "description",
-      //     size: "/28×28/кг: 0,5",
+      //     size: "/28×28/kg: 0,5",
       //     connect: " RL 103",
       //     price: "Цена за единицу:",
       //   },
@@ -1936,7 +1935,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1951,7 +1950,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1966,7 +1965,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1981,7 +1980,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1996,7 +1995,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2011,7 +2010,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2026,7 +2025,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2041,7 +2040,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2056,7 +2055,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2071,7 +2070,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2086,7 +2085,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2101,7 +2100,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2116,7 +2115,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2131,7 +2130,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2146,7 +2145,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2161,7 +2160,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2176,7 +2175,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2191,7 +2190,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2206,7 +2205,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2221,7 +2220,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2236,7 +2235,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2251,7 +2250,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2266,7 +2265,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2281,7 +2280,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2296,7 +2295,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2311,7 +2310,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2326,7 +2325,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2341,7 +2340,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2356,7 +2355,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2371,7 +2370,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2386,7 +2385,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2402,7 +2401,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2417,7 +2416,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2432,7 +2431,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2447,7 +2446,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2462,7 +2461,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2477,7 +2476,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2492,7 +2491,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2507,7 +2506,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2522,7 +2521,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2537,7 +2536,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2552,7 +2551,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2567,7 +2566,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2582,7 +2581,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2597,7 +2596,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2612,7 +2611,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2627,7 +2626,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2642,7 +2641,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2657,7 +2656,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2674,7 +2673,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2689,7 +2688,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2704,7 +2703,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2719,7 +2718,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2734,7 +2733,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2749,7 +2748,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2764,7 +2763,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2779,7 +2778,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2794,7 +2793,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2809,7 +2808,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2826,7 +2825,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/40×40/кг: 0,5",
+          size: "/40×40/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2841,7 +2840,7 @@ export const categories = {
         price: "€ 60.00",
         description: {
           title: "description",
-          size: "/40×33/кг: 0,5",
+          size: "/40×33/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2857,7 +2856,7 @@ export const categories = {
         price: "€ 45.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2872,7 +2871,7 @@ export const categories = {
         price: "€ 60.00",
         description: {
           title: "description",
-          size: "/37×37/кг: 0,5",
+          size: "/37×37/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2887,7 +2886,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/37×37/кг: 0,5",
+          size: "/37×37/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2902,7 +2901,7 @@ export const categories = {
         price: "€ 75.00",
         description: {
           title: "description",
-          size: "/45×45/кг: 0,5",
+          size: "/45×45/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2917,7 +2916,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/32×38/кг: 0,5",
+          size: "/32×38/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2932,7 +2931,7 @@ export const categories = {
         price: "€ 75.00",
         description: {
           title: "description",
-          size: "/41.5×41.5/кг: 0,5",
+          size: "/41.5×41.5/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2947,7 +2946,7 @@ export const categories = {
         price: "€ 45.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2962,7 +2961,7 @@ export const categories = {
         price: "€ 45.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2977,7 +2976,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/38×38/кг: 0,5",
+          size: "/38×38/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2992,7 +2991,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/37×37/кг: 0,5",
+          size: "/37×37/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3007,7 +3006,7 @@ export const categories = {
         price: "€ 55.00",
         description: {
           title: "description",
-          size: "/32×32/кг: 0,5",
+          size: "/32×32/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3022,7 +3021,7 @@ export const categories = {
         price: "€ 45.00",
         description: {
           title: "description",
-          size: "/23×23/кг: 0,5",
+          size: "/23×23/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3037,7 +3036,7 @@ export const categories = {
         price: "€ 45.00",
         description: {
           title: "description",
-          size: "/21×21/кг: 0,5",
+          size: "/21×21/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3052,7 +3051,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/37×37/кг: 0,5",
+          size: "/37×37/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3127,7 +3126,7 @@ export const categories = {
         price: "€ 65.00",
         description: {
           title: "description",
-          size: "/37×37/кг: 0,5",
+          size: "/37×37/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3144,7 +3143,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3159,7 +3158,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3174,7 +3173,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3189,7 +3188,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3204,7 +3203,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3219,7 +3218,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3234,7 +3233,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3249,7 +3248,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3264,7 +3263,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3279,7 +3278,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3294,7 +3293,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3309,7 +3308,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3324,7 +3323,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3339,7 +3338,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3354,7 +3353,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3369,7 +3368,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3384,7 +3383,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3399,7 +3398,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3414,7 +3413,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3429,7 +3428,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3444,7 +3443,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3459,7 +3458,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3474,7 +3473,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3489,7 +3488,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3504,7 +3503,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3519,7 +3518,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3534,7 +3533,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3549,7 +3548,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3564,7 +3563,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3581,7 +3580,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3596,7 +3595,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3611,7 +3610,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3626,7 +3625,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3641,7 +3640,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3656,7 +3655,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3671,7 +3670,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3686,7 +3685,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3701,7 +3700,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3718,7 +3717,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3733,7 +3732,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3748,7 +3747,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3763,7 +3762,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3778,7 +3777,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3793,7 +3792,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3808,7 +3807,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3823,7 +3822,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3838,7 +3837,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3853,7 +3852,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3868,7 +3867,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3883,7 +3882,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3898,7 +3897,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3913,7 +3912,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3928,7 +3927,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3943,7 +3942,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3958,7 +3957,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3973,7 +3972,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3990,7 +3989,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4005,7 +4004,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4020,7 +4019,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4035,7 +4034,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4050,7 +4049,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4065,7 +4064,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4080,7 +4079,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4097,7 +4096,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4112,7 +4111,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4127,7 +4126,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4142,7 +4141,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4157,7 +4156,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4172,7 +4171,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4187,7 +4186,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4202,7 +4201,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4217,7 +4216,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4232,7 +4231,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4247,7 +4246,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4262,7 +4261,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4277,7 +4276,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4292,7 +4291,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4307,7 +4306,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4322,7 +4321,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4337,7 +4336,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4352,7 +4351,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4367,7 +4366,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4382,7 +4381,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4397,7 +4396,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4412,7 +4411,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4427,7 +4426,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4442,7 +4441,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4457,7 +4456,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4472,7 +4471,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4488,7 +4487,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4503,7 +4502,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4518,7 +4517,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4533,7 +4532,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4548,7 +4547,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4563,7 +4562,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4578,7 +4577,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4593,7 +4592,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4608,7 +4607,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4623,7 +4622,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4638,7 +4637,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4653,7 +4652,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4668,7 +4667,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4683,7 +4682,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4698,7 +4697,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4713,7 +4712,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4728,7 +4727,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4745,7 +4744,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4760,7 +4759,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4775,7 +4774,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4790,7 +4789,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4805,7 +4804,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4820,7 +4819,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4835,7 +4834,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4850,7 +4849,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4865,7 +4864,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4880,7 +4879,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4895,7 +4894,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4912,7 +4911,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4927,7 +4926,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4942,7 +4941,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4957,7 +4956,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4972,7 +4971,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4987,7 +4986,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5002,7 +5001,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5017,7 +5016,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5032,7 +5031,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5047,7 +5046,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5062,7 +5061,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5077,7 +5076,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5092,7 +5091,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5107,7 +5106,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5122,7 +5121,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5137,7 +5136,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5152,7 +5151,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5167,7 +5166,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5182,7 +5181,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5199,7 +5198,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5214,7 +5213,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5319,7 +5318,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5334,7 +5333,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5349,7 +5348,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5364,7 +5363,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5379,7 +5378,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5394,7 +5393,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5409,7 +5408,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5424,7 +5423,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5439,7 +5438,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5454,7 +5453,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5469,7 +5468,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5484,7 +5483,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5499,7 +5498,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5514,7 +5513,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5529,7 +5528,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5544,7 +5543,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5559,7 +5558,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5574,7 +5573,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5589,7 +5588,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5604,7 +5603,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5619,7 +5618,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5634,7 +5633,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5649,7 +5648,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5664,7 +5663,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5679,7 +5678,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5694,7 +5693,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5709,7 +5708,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5724,7 +5723,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5739,7 +5738,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5754,7 +5753,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5769,7 +5768,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5784,7 +5783,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5799,7 +5798,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5814,7 +5813,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5846,7 +5845,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5861,7 +5860,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5876,7 +5875,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5891,7 +5890,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5906,7 +5905,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5921,7 +5920,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5936,7 +5935,7 @@ export const categories = {
         price: "€ 0.00",
         description: {
           title: "description",
-          size: "/28×28/кг: 0,5",
+          size: "/28×28/kg: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },

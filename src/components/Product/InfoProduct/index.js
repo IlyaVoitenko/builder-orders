@@ -97,7 +97,7 @@ const InfoProduct = () => {
           </div>
         </div>
         <div className=" flex justify-end max-md:mb-[1rem]">
-          <DescriptionProduct price={product.price} />
+          <DescriptionProduct item={product} />
         </div>
       </div>
     </>

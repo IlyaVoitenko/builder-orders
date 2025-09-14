@@ -6,6 +6,7 @@ import {
 import { useDispatch } from "react-redux";
 
 const ItemProduct = ({ item }) => {
+  console.log("item", item);
   const dispatch = useDispatch();
   return (
     <Link
