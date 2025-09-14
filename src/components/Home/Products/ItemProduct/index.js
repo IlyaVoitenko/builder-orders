@@ -4,22 +4,24 @@ import {
   setSelectedProduct,
 } from "../../../../store/reducer/categories";
 import { useDispatch } from "react-redux";
-import { goToTop } from "../../../../utils/helpers";
 
 const ItemProduct = ({ item }) => {
   const dispatch = useDispatch();
   return (
     <Link
       to={`/product/${encodeURIComponent(item.title.trim())}`}
-      className="w-[21%] max-sm:w-[49%]"
+      target="_blank"
       onClick={() => {
-        goToTop();
         dispatch(setSelectedCategorie(item.subcategorie || item.type));
         dispatch(setSelectedProduct(item));
       }}
     >
       <figure className="flex flex-col  mt-5  ">
-        <img src={item.src} className="w-full" alt="product" />
+        <img
+          src={item.src}
+          className=" max-w-[300px] max-h-[300px] object-contain"
+          alt="product"
+        />
         <figcaption className="text-left mt-3 font-bold text-blue-500">
           {item.title}
         </figcaption>

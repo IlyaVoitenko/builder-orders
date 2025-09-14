@@ -1,35 +1,71 @@
-import employee from "../../../assets/images/DSC_1098 (2).JPG";
-import employees from "../../../assets/images/Stk5.jpg";
-import created_products from "../../../assets/images/Grh12.webp";
-import created from "../../../assets/images/Bog7.webp";
+import { translateSelector } from "../../../store/selectors";
+import TitleProducts from "./TitleProducts";
+import ProductsList from "./ProductsList";
+import { useSelector } from "react-redux";
 
-export const categoriesList = [
+import K6 from "../../../assets/images/K-006-300x300.png";
+import DS104 from "../../../assets/images/DS-104-2-300x300.png";
+import img102 from "../../../assets/images/102-2-300x300 (1).png";
+import KO4 from "../../../assets/images/KO-004-300x300.png";
+import RG6 from "../../../assets/images/RG006-600x601.png";
+
+import shortid from "shortid";
+const categoriesList = [
   {
-    id: 1,
-    src: created_products,
-    link: "#",
-    title: "Lorem ipsum dolor",
-    text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ",
+    id: shortid.generate(),
+    src: img102,
+    title: "EN-123",
+    price: "€ 0.00",
+    link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "decorativeCorners",
   },
   {
-    id: 2,
-    src: created,
-    link: "#",
-    title: "Lorem ipsum dolor",
-    text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ",
+    id: shortid.generate(),
+    src: K6,
+    title: "EN-123",
+    price: "€ 0.00",
+    link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "cassettes",
   },
   {
-    id: 3,
-    src: employees,
-    link: "#",
-    title: "Lorem ipsum dolor",
-    text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ",
+    id: shortid.generate(),
+    src: DS104,
+    title: "EN-123",
+    price: "€ 0.00",
+    link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "ceilingmirror",
   },
   {
-    id: 4,
-    src: employee,
-    link: "#",
-    title: "Lorem ipsum dolor",
-    text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ",
+    id: shortid.generate(),
+    src: KO4,
+    title: "K-4",
+    price: "€ 0.00",
+    link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "consoles",
+  },
+  {
+    id: shortid.generate(),
+    src: RG6,
+    title: "RG-6",
+    price: "€ 260.00",
+    link: "/products-categories",
+    categorie: "internal",
+    subcategorie: "rosettes",
   },
 ];
+
+const Products = () => {
+  const translate = useSelector(translateSelector);
+  return (
+    <section className=" flex flex-col  items-center w-full flex-wrap mt-12">
+      <TitleProducts translate={translate} />
+      <ProductsList products={categoriesList} page={"home"} />
+    </section>
+  );
+};
+
+export default Products;

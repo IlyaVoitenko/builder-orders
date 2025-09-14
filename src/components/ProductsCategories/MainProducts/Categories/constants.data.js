@@ -45,7 +45,6 @@ import img118 from "../../../../assets/images/118-300x256.png";
 import img120 from "../../../../assets/images/120-300x256.png";
 import img121 from "../../../../assets/images/121-300x256.png";
 import img201 from "../../../../assets/images/201-1-300x300.png";
-import img202 from "../../../../assets/images/202-1-300x300.png";
 import img203 from "../../../../assets/images/203-1-300x300.png";
 import img204 from "../../../../assets/images/204-1-300x300.png";
 import img205a from "../../../../assets/images/205a-300x300.png";
@@ -326,16 +325,14 @@ import I015B from "../../../../assets/images/I015B-2-300x300.png";
 import shortid from "shortid";
 
 export const categories = {
-  //   // facadestucco: [
-  //   //   {
   //   //     id: shortid.generate(),
   //   //     title: "EN-123",
   //   //     type: "facadeStucco",
   //   //     src: PK35,
   //   //     categorie: "facadeStucco",
   //   //     price: "€ 0.00",
-  //   //     discription: {
-  //   //       title: "discription",
+  //   //     description: {
+  //   //       title: "description",
   //   //       size: "/28×28/кг: 0,5",
   //   //       connect: " RL 103",
   //   //       price: "Цена за единицу:",
@@ -349,8 +346,8 @@ export const categories = {
   //   //     src: KS40,
   //   //     categorie: "facadeStucco",
   //   //     price: "€ 0.00",
-  //   //     discription: {
-  //   //       title: "discription",
+  //   //     description: {
+  //   //       title: "description",
   //   //       size: "/28×28/кг: 0,5",
   //   //       connect: " RL 103",
   //   //       price: "Цена за единицу:",
@@ -364,8 +361,8 @@ export const categories = {
   //   //     src: PG35,
   //   //     categorie: "facadeStucco",
   //   //     price: "€ 0.00",
-  //   //     discription: {
-  //   //       title: "discription",
+  //   //     description: {
+  //   //       title: "description",
   //   //       size: "/28×28/кг: 0,5",
   //   //       connect: " RL 103",
   //   //       price: "Цена за единицу:",
@@ -379,8 +376,8 @@ export const categories = {
   //   //     src: GS40,
   //   //     categorie: "facadeStucco",
   //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
+  //   //     description: {
+  //   //       title: "description",
   //   //       size: "/28×28/кг: 0,5",
   //   //       connect: " RL 103",
   //   //       price: "Цена за единицу:",
@@ -2934,8 +2931,8 @@ export const categories = {
         src: img102,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -2948,10 +2945,10 @@ export const categories = {
         type: "internal",
         src: img1022,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 60.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -2964,8 +2961,8 @@ export const categories = {
         src: img103,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -2978,9 +2975,9 @@ export const categories = {
         type: "internal",
         src: img103a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
+        price: "€ 45.00",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -2993,10 +2990,10 @@ export const categories = {
         type: "internal",
         src: img104,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 35.00",
+        description: {
+          title: "description",
+          size: "/4×2/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3009,8 +3006,8 @@ export const categories = {
         src: img106,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3024,8 +3021,8 @@ export const categories = {
         src: img107,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3039,8 +3036,8 @@ export const categories = {
         src: img115,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3054,8 +3051,8 @@ export const categories = {
         src: img116,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3069,8 +3066,8 @@ export const categories = {
         src: img117,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3084,8 +3081,8 @@ export const categories = {
         src: img119,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3099,8 +3096,8 @@ export const categories = {
         src: img120,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3114,8 +3111,8 @@ export const categories = {
         src: img121,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3129,8 +3126,8 @@ export const categories = {
         src: img207a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3143,10 +3140,10 @@ export const categories = {
         type: "internal",
         src: img224,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/40×40/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3159,8 +3156,8 @@ export const categories = {
         src: img4002,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3174,8 +3171,8 @@ export const categories = {
         src: img113,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3189,8 +3186,8 @@ export const categories = {
         src: img4025,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3203,10 +3200,10 @@ export const categories = {
         type: "internal",
         src: img233a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -3219,8 +3216,8 @@ export const categories = {
         src: img1008X,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3234,8 +3231,8 @@ export const categories = {
         src: img20123,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3249,8 +3246,8 @@ export const categories = {
         src: img20132,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3264,8 +3261,8 @@ export const categories = {
         src: img3019c,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3279,8 +3276,8 @@ export const categories = {
         src: img40221,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3294,8 +3291,8 @@ export const categories = {
         src: B2B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3309,8 +3306,8 @@ export const categories = {
         src: DS103,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3324,8 +3321,8 @@ export const categories = {
         src: DS104,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3339,8 +3336,8 @@ export const categories = {
         src: GS26,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3354,8 +3351,8 @@ export const categories = {
         src: I0051,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3369,8 +3366,8 @@ export const categories = {
         src: I0161,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3384,8 +3381,8 @@ export const categories = {
         src: K006,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3399,8 +3396,8 @@ export const categories = {
         src: K007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3414,8 +3411,8 @@ export const categories = {
         src: K010,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3429,8 +3426,8 @@ export const categories = {
         src: K012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3444,8 +3441,8 @@ export const categories = {
         src: K004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3459,8 +3456,8 @@ export const categories = {
         src: KO012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3474,8 +3471,8 @@ export const categories = {
         src: KO014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3489,8 +3486,8 @@ export const categories = {
         src: KO017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3504,8 +3501,8 @@ export const categories = {
         src: KO0181,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3519,8 +3516,8 @@ export const categories = {
         src: KO018,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3534,8 +3531,8 @@ export const categories = {
         src: KS26,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3549,8 +3546,8 @@ export const categories = {
         src: LA002,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3564,8 +3561,8 @@ export const categories = {
         src: OR023,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3579,8 +3576,8 @@ export const categories = {
         src: OR025,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3594,8 +3591,8 @@ export const categories = {
         src: OR072,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3609,8 +3606,8 @@ export const categories = {
         src: OR076,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3624,8 +3621,8 @@ export const categories = {
         src: OR027,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3639,8 +3636,8 @@ export const categories = {
         src: OR082,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3654,8 +3651,8 @@ export const categories = {
         src: OR087,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3669,8 +3666,8 @@ export const categories = {
         src: OR092,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3684,8 +3681,8 @@ export const categories = {
         src: OR099,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3699,8 +3696,8 @@ export const categories = {
         src: OR101,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3714,8 +3711,8 @@ export const categories = {
         src: OR108,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3729,8 +3726,8 @@ export const categories = {
         src: OR109,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3744,8 +3741,8 @@ export const categories = {
         src: P30,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3759,8 +3756,8 @@ export const categories = {
         src: RC003,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3774,8 +3771,8 @@ export const categories = {
         src: RC004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3789,8 +3786,8 @@ export const categories = {
         src: RC014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3804,8 +3801,8 @@ export const categories = {
         src: RC017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3819,8 +3816,8 @@ export const categories = {
         src: RD003,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3834,8 +3831,8 @@ export const categories = {
         src: RD012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3849,8 +3846,8 @@ export const categories = {
         src: RE005,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3864,8 +3861,8 @@ export const categories = {
         src: RE012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3879,8 +3876,8 @@ export const categories = {
         src: RE014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3894,8 +3891,8 @@ export const categories = {
         src: RE015,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3909,8 +3906,8 @@ export const categories = {
         src: RE021,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3924,8 +3921,8 @@ export const categories = {
         src: RE022,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3939,8 +3936,8 @@ export const categories = {
         src: RE024,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3954,8 +3951,8 @@ export const categories = {
         src: RF001,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3969,8 +3966,8 @@ export const categories = {
         src: RF003,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3984,8 +3981,8 @@ export const categories = {
         src: RF007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -3999,8 +3996,8 @@ export const categories = {
         src: RF006,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4014,8 +4011,8 @@ export const categories = {
         src: RF010,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4029,8 +4026,8 @@ export const categories = {
         src: RF013,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4044,8 +4041,8 @@ export const categories = {
         src: RF014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4059,8 +4056,8 @@ export const categories = {
         src: RF016,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4074,8 +4071,8 @@ export const categories = {
         src: RH04,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4088,10 +4085,10 @@ export const categories = {
         type: "internal",
         src: RG006,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 260.00",
+        description: {
+          title: "description",
+          size: "/100 &#8960;/кг: 31.7",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4103,10 +4100,10 @@ export const categories = {
         type: "internal",
         src: RG008,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 75.00",
+        description: {
+          title: "description",
+          size: "/60 &#8960;/кг: 4,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4118,10 +4115,10 @@ export const categories = {
         type: "internal",
         src: RG009,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 95.00",
+        description: {
+          title: "description",
+          size: "/65 &#8960;/кг: 7,4",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4133,10 +4130,10 @@ export const categories = {
         type: "internal",
         src: RG012,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 105.00",
+        description: {
+          title: "description",
+          size: "/70 &#8960;/кг: 6.7",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4149,8 +4146,8 @@ export const categories = {
         src: SP02,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4164,197 +4161,197 @@ export const categories = {
         src: RH014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
       },
     ],
-    pictures: [
-      {
-        id: shortid.generate(),
+    // pictures: [
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-2",
-        type: "pictures",
-        src: B02,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-2",
+    //     type: "pictures",
+    //     src: B02,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-4",
-        type: "pictures",
-        src: B04,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-4",
+    //     type: "pictures",
+    //     src: B04,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-5",
-        type: "pictures",
-        src: B05,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-5",
+    //     type: "pictures",
+    //     src: B05,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-11",
-        type: "pictures",
-        src: B11,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-11",
+    //     type: "pictures",
+    //     src: B11,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-20",
-        type: "pictures",
-        src: B20,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-20",
+    //     type: "pictures",
+    //     src: B20,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-23",
-        type: "pictures",
-        src: B23,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-23",
+    //     type: "pictures",
+    //     src: B23,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-25",
-        type: "pictures",
-        src: B25,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-25",
+    //     type: "pictures",
+    //     src: B25,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-27",
-        type: "pictures",
-        src: B27,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-27",
+    //     type: "pictures",
+    //     src: B27,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-28",
-        type: "pictures",
-        src: B28,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+    //     title: "B-28",
+    //     type: "pictures",
+    //     src: B28,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    //   {
+    //     id: shortid.generate(),
 
-        title: "B-29",
-        type: "pictures",
-        src: B29,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-    ],
+    //     title: "B-29",
+    //     type: "pictures",
+    //     src: B29,
+    //     categorie: "internal",
+    //     price: "€ 0.00",
+    //     description: {
+    //       title: "description",
+    //       size: "/28×28/кг: 0,5",
+    //       connect: " RL 103",
+    //       price: "Цена за единицу:",
+    //     },
+    //   },
+    // ],
     ceilingAndWallMoldings: [
-      {
-        id: shortid.generate(),
+      // {
+      //   id: shortid.generate(),
 
-        title: "DWL-4025",
-        type: "ceiling and wall moldings",
-        src: img4025,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
+      //   title: "DWL-4025",
+      //   type: "ceiling and wall moldings",
+      //   src: img4025,
+      //   categorie: "internal",
+      //   price: "€ 0.00",
+      //   description: {
+      //     title: "description",
+      //     size: "/28×28/кг: 0,5",
+      //     connect: " RL 103",
+      //     price: "Цена за единицу:",
+      //   },
+      // },
+      // {
+      //   id: shortid.generate(),
 
-        title: "DWL-4002",
-        type: "ceiling and wall moldings",
-        src: img4002,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
+      //   title: "DWL-4002",
+      //   type: "ceiling and wall moldings",
+      //   src: img4002,
+      //   categorie: "internal",
+      //   price: "€ 0.00",
+      //   description: {
+      //     title: "description",
+      //     size: "/28×28/кг: 0,5",
+      //     connect: " RL 103",
+      //     price: "Цена за единицу:",
+      //   },
+      // },
       {
         id: shortid.generate(),
 
@@ -4363,8 +4360,8 @@ export const categories = {
         src: img3019c,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4377,10 +4374,10 @@ export const categories = {
         type: "ceiling and wall moldings",
         src: img3018,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 70.00 / Meter",
+        description: {
+          title: "description",
+          size: "/18×18/кг: 8,1",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -4393,8 +4390,8 @@ export const categories = {
         src: img3017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4408,8 +4405,8 @@ export const categories = {
         src: img3015b,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4423,8 +4420,8 @@ export const categories = {
         src: img3014h,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4438,8 +4435,8 @@ export const categories = {
         src: img1008X,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4454,8 +4451,8 @@ export const categories = {
         src: img1001,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4469,8 +4466,8 @@ export const categories = {
         src: img1002,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4484,8 +4481,8 @@ export const categories = {
         src: img1004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4499,8 +4496,8 @@ export const categories = {
         src: img1004a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4514,28 +4511,28 @@ export const categories = {
         src: img1005,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
       },
-      {
-        id: shortid.generate(),
+      // {
+      //   id: shortid.generate(),
 
-        title: "DWL-1006",
-        type: "ceiling and wall moldings",
-        src: img1006,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
+      //   title: "DWL-1006",
+      //   type: "ceiling and wall moldings",
+      //   src: img1006,
+      //   categorie: "internal",
+      //   price: "€ 0.00",
+      //   description: {
+      //     title: "description",
+      //     size: "/28×28/кг: 0,5",
+      //     connect: " RL 103",
+      //     price: "Цена за единицу:",
+      //   },
+      // },
       {
         id: shortid.generate(),
 
@@ -4544,8 +4541,8 @@ export const categories = {
         src: img1006a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4559,8 +4556,8 @@ export const categories = {
         src: img1007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4574,8 +4571,8 @@ export const categories = {
         src: img1008,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4589,8 +4586,8 @@ export const categories = {
         src: img3013b,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4604,8 +4601,8 @@ export const categories = {
         src: img1008xa,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4619,8 +4616,8 @@ export const categories = {
         src: img1011,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4634,8 +4631,8 @@ export const categories = {
         src: img2002,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4649,8 +4646,8 @@ export const categories = {
         src: img2008,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4664,8 +4661,8 @@ export const categories = {
         src: img2014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4679,8 +4676,8 @@ export const categories = {
         src: img2015,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4694,8 +4691,8 @@ export const categories = {
         src: img2016,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4709,8 +4706,8 @@ export const categories = {
         src: img2017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4724,8 +4721,8 @@ export const categories = {
         src: img2019,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4739,8 +4736,8 @@ export const categories = {
         src: img2020,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4754,8 +4751,8 @@ export const categories = {
         src: img2021,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4769,8 +4766,8 @@ export const categories = {
         src: img2022,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4784,8 +4781,8 @@ export const categories = {
         src: img2023,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4799,8 +4796,8 @@ export const categories = {
         src: img2024,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4814,8 +4811,8 @@ export const categories = {
         src: img2026,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4829,8 +4826,8 @@ export const categories = {
         src: img2027,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4844,8 +4841,8 @@ export const categories = {
         src: img2028,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4859,8 +4856,8 @@ export const categories = {
         src: img2029,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4874,8 +4871,8 @@ export const categories = {
         src: img2030,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4889,8 +4886,8 @@ export const categories = {
         src: img2031,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4904,8 +4901,8 @@ export const categories = {
         src: img3001a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4919,8 +4916,8 @@ export const categories = {
         src: img3002,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4934,8 +4931,8 @@ export const categories = {
         src: img3002a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4949,8 +4946,8 @@ export const categories = {
         src: img3004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4964,8 +4961,8 @@ export const categories = {
         src: img3005,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4979,8 +4976,8 @@ export const categories = {
         src: img3006,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -4994,8 +4991,8 @@ export const categories = {
         src: img3007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5010,8 +5007,8 @@ export const categories = {
         src: img3010,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5025,8 +5022,8 @@ export const categories = {
         src: img3011,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5040,8 +5037,8 @@ export const categories = {
         src: img3012a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5055,8 +5052,8 @@ export const categories = {
         src: img4001,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5070,8 +5067,8 @@ export const categories = {
         src: img4004a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5085,8 +5082,8 @@ export const categories = {
         src: img4005,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5100,8 +5097,8 @@ export const categories = {
         src: img4006a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5115,8 +5112,8 @@ export const categories = {
         src: img4007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5130,8 +5127,8 @@ export const categories = {
         src: img4008,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5145,8 +5142,8 @@ export const categories = {
         src: img4012a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5160,8 +5157,8 @@ export const categories = {
         src: img4014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5175,8 +5172,8 @@ export const categories = {
         src: img4015,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5190,8 +5187,8 @@ export const categories = {
         src: img4016,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5205,8 +5202,8 @@ export const categories = {
         src: img4017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5220,8 +5217,8 @@ export const categories = {
         src: img4018,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5235,8 +5232,8 @@ export const categories = {
         src: img4020,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5250,8 +5247,8 @@ export const categories = {
         src: img4021,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5265,8 +5262,8 @@ export const categories = {
         src: img4024,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5282,8 +5279,8 @@ export const categories = {
         src: DS104,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5297,8 +5294,8 @@ export const categories = {
         src: DS103,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5312,8 +5309,8 @@ export const categories = {
         src: DS101,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5327,8 +5324,8 @@ export const categories = {
         src: DS101a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5342,8 +5339,8 @@ export const categories = {
         src: DS102,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5357,8 +5354,8 @@ export const categories = {
         src: DS102a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5372,8 +5369,8 @@ export const categories = {
         src: DS102b,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5387,8 +5384,8 @@ export const categories = {
         src: DS102c,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5402,8 +5399,8 @@ export const categories = {
         src: DS102d,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5417,8 +5414,8 @@ export const categories = {
         src: DS103a,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5433,10 +5430,10 @@ export const categories = {
         type: "decorative corners",
         src: img224,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/40×40/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5448,10 +5445,10 @@ export const categories = {
         type: "decorative corners",
         src: img207a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 60.00",
+        description: {
+          title: "description",
+          size: "/40×33/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5464,9 +5461,9 @@ export const categories = {
         type: "decorative corners",
         src: img103a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
+        price: "€ 45.00",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5479,10 +5476,10 @@ export const categories = {
         type: "decorative corners",
         src: img1022,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 60.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5494,10 +5491,10 @@ export const categories = {
         type: "decorative corners",
         src: img233a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5509,10 +5506,10 @@ export const categories = {
         type: "decorative corners",
         src: img233,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 75.00",
+        description: {
+          title: "description",
+          size: "/45×45/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5524,10 +5521,10 @@ export const categories = {
         type: "decorative corners",
         src: img227a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/32×38/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5539,10 +5536,10 @@ export const categories = {
         type: "decorative corners",
         src: img227,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 75.00",
+        description: {
+          title: "description",
+          size: "/41.5×41.5/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5554,9 +5551,9 @@ export const categories = {
         type: "decorative corners",
         src: img205a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
+        price: "€ 45.00",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5569,9 +5566,9 @@ export const categories = {
         type: "decorative corners",
         src: img205,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
+        price: "€ 45.00",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5584,10 +5581,10 @@ export const categories = {
         type: "decorative corners",
         src: img204,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/38×38/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5599,10 +5596,10 @@ export const categories = {
         type: "decorative corners",
         src: img101,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5614,10 +5611,10 @@ export const categories = {
         type: "decorative corners",
         src: img101a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 55.00",
+        description: {
+          title: "description",
+          size: "/32×32/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5629,10 +5626,10 @@ export const categories = {
         type: "decorative corners",
         src: img104a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 45.00",
+        description: {
+          title: "description",
+          size: "/23×23/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5644,10 +5641,10 @@ export const categories = {
         type: "decorative corners",
         src: img105,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 45.00",
+        description: {
+          title: "description",
+          size: "/21×21/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5659,10 +5656,10 @@ export const categories = {
         type: "decorative corners",
         src: img108,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5674,10 +5671,10 @@ export const categories = {
         type: "decorative corners",
         src: img110,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/34×34/кг: 0,9",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5689,10 +5686,10 @@ export const categories = {
         type: "decorative corners",
         src: img112,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/36×36/кг: 1",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5704,10 +5701,10 @@ export const categories = {
         type: "decorative corners",
         src: img116a,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/34×34/кг: 0,9",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5719,25 +5716,10 @@ export const categories = {
         type: "decorative corners",
         src: img201,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
-          connect: " RL 103",
-          price: "Цена за единицу:",
-        },
-      },
-      {
-        id: shortid.generate(),
-
-        title: "DE-202",
-        type: "decorative corners",
-        src: img202,
-        categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,2",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5749,10 +5731,10 @@ export const categories = {
         type: "decorative corners",
         src: img203,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 65.00",
+        description: {
+          title: "description",
+          size: "/37×37/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5767,8 +5749,8 @@ export const categories = {
         src: I0161,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5782,8 +5764,8 @@ export const categories = {
         src: I0051,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5797,8 +5779,8 @@ export const categories = {
         src: I001A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5812,8 +5794,8 @@ export const categories = {
         src: I001AB,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5827,8 +5809,8 @@ export const categories = {
         src: I001B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5842,8 +5824,8 @@ export const categories = {
         src: I002,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5857,8 +5839,8 @@ export const categories = {
         src: I003A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5872,8 +5854,8 @@ export const categories = {
         src: I003AB,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5887,8 +5869,8 @@ export const categories = {
         src: I003B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5902,8 +5884,8 @@ export const categories = {
         src: I004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5917,8 +5899,8 @@ export const categories = {
         src: I006,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5932,8 +5914,8 @@ export const categories = {
         src: I007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5947,8 +5929,8 @@ export const categories = {
         src: I008,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5962,8 +5944,8 @@ export const categories = {
         src: I009,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5977,8 +5959,8 @@ export const categories = {
         src: I010,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -5992,8 +5974,8 @@ export const categories = {
         src: I011A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6007,8 +5989,8 @@ export const categories = {
         src: I011AB,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6022,8 +6004,8 @@ export const categories = {
         src: I012A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6037,8 +6019,8 @@ export const categories = {
         src: I012AB,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6052,8 +6034,8 @@ export const categories = {
         src: I012B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6067,8 +6049,8 @@ export const categories = {
         src: I013A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6082,8 +6064,8 @@ export const categories = {
         src: I013AB,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6097,8 +6079,8 @@ export const categories = {
         src: I013B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6112,8 +6094,8 @@ export const categories = {
         src: I014A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6127,8 +6109,8 @@ export const categories = {
         src: I014AB,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6142,8 +6124,8 @@ export const categories = {
         src: I014B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6157,8 +6139,8 @@ export const categories = {
         src: I015A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6172,8 +6154,8 @@ export const categories = {
         src: I015AB,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6187,8 +6169,8 @@ export const categories = {
         src: I015B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6204,8 +6186,8 @@ export const categories = {
         src: K006,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6219,8 +6201,8 @@ export const categories = {
         src: K007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6234,8 +6216,8 @@ export const categories = {
         src: K010,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6249,8 +6231,8 @@ export const categories = {
         src: K012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6264,8 +6246,8 @@ export const categories = {
         src: K01,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6279,8 +6261,8 @@ export const categories = {
         src: K04,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6294,8 +6276,8 @@ export const categories = {
         src: K05,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6309,8 +6291,8 @@ export const categories = {
         src: K08,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6324,8 +6306,8 @@ export const categories = {
         src: K013,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6341,8 +6323,8 @@ export const categories = {
         src: K004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6356,8 +6338,8 @@ export const categories = {
         src: KO012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6371,8 +6353,8 @@ export const categories = {
         src: KO014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6386,8 +6368,8 @@ export const categories = {
         src: KO017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6401,8 +6383,8 @@ export const categories = {
         src: KO0181,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6416,8 +6398,8 @@ export const categories = {
         src: KO018,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6431,8 +6413,8 @@ export const categories = {
         src: KO019,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6446,8 +6428,8 @@ export const categories = {
         src: KO020,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6461,8 +6443,8 @@ export const categories = {
         src: KO03,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6476,8 +6458,8 @@ export const categories = {
         src: KO02,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6491,8 +6473,8 @@ export const categories = {
         src: KO05,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6506,8 +6488,8 @@ export const categories = {
         src: KO06,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6521,8 +6503,8 @@ export const categories = {
         src: KO07,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6536,8 +6518,8 @@ export const categories = {
         src: KO08,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6551,8 +6533,8 @@ export const categories = {
         src: KO09,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6566,8 +6548,8 @@ export const categories = {
         src: KO010,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6581,8 +6563,8 @@ export const categories = {
         src: KO011,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6596,8 +6578,8 @@ export const categories = {
         src: KO013,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6613,8 +6595,8 @@ export const categories = {
         src: LA002,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6628,8 +6610,8 @@ export const categories = {
         src: LA001,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6643,8 +6625,8 @@ export const categories = {
         src: LA004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6658,8 +6640,8 @@ export const categories = {
         src: LA005,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6673,8 +6655,8 @@ export const categories = {
         src: LA006,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6688,8 +6670,8 @@ export const categories = {
         src: LA007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6703,8 +6685,8 @@ export const categories = {
         src: LA008,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6720,8 +6702,8 @@ export const categories = {
         src: LA007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6735,8 +6717,8 @@ export const categories = {
         src: OR023,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6750,8 +6732,8 @@ export const categories = {
         src: OR025,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6765,8 +6747,8 @@ export const categories = {
         src: OR072,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6780,8 +6762,8 @@ export const categories = {
         src: OR076,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6795,8 +6777,8 @@ export const categories = {
         src: OR027,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6810,8 +6792,8 @@ export const categories = {
         src: OR082,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6825,8 +6807,8 @@ export const categories = {
         src: OR087,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6840,8 +6822,8 @@ export const categories = {
         src: OR092,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6855,8 +6837,8 @@ export const categories = {
         src: OR099,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6870,8 +6852,8 @@ export const categories = {
         src: OR101,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6885,8 +6867,8 @@ export const categories = {
         src: OR108,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6900,8 +6882,8 @@ export const categories = {
         src: OR109,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6915,8 +6897,8 @@ export const categories = {
         src: OR029,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6930,8 +6912,8 @@ export const categories = {
         src: OR034,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6945,8 +6927,8 @@ export const categories = {
         src: OR041,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6960,8 +6942,8 @@ export const categories = {
         src: OR048,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6975,8 +6957,8 @@ export const categories = {
         src: OR050,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -6990,8 +6972,8 @@ export const categories = {
         src: OR053,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7005,8 +6987,8 @@ export const categories = {
         src: OR054,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7020,8 +7002,8 @@ export const categories = {
         src: OR055,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7035,8 +7017,8 @@ export const categories = {
         src: OR059,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7050,8 +7032,8 @@ export const categories = {
         src: OR060,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7065,8 +7047,8 @@ export const categories = {
         src: OR064,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7080,8 +7062,8 @@ export const categories = {
         src: OR070,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7095,8 +7077,8 @@ export const categories = {
         src: OR081,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7111,8 +7093,8 @@ export const categories = {
         src: OR086,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7126,8 +7108,8 @@ export const categories = {
         src: OR088,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7141,8 +7123,8 @@ export const categories = {
         src: OR089,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7156,8 +7138,8 @@ export const categories = {
         src: OR090,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7171,8 +7153,8 @@ export const categories = {
         src: OR091,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7186,8 +7168,8 @@ export const categories = {
         src: OR093,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7201,8 +7183,8 @@ export const categories = {
         src: OR097,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7216,8 +7198,8 @@ export const categories = {
         src: OR098,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7231,8 +7213,8 @@ export const categories = {
         src: OR100,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7246,8 +7228,8 @@ export const categories = {
         src: OR104,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7261,8 +7243,8 @@ export const categories = {
         src: OR105,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7276,8 +7258,8 @@ export const categories = {
         src: OR107,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7291,8 +7273,8 @@ export const categories = {
         src: OR110,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7306,8 +7288,8 @@ export const categories = {
         src: OR111,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7321,8 +7303,8 @@ export const categories = {
         src: OR112,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7336,8 +7318,8 @@ export const categories = {
         src: OR114,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7351,8 +7333,8 @@ export const categories = {
         src: OR115,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7368,8 +7350,8 @@ export const categories = {
         src: PB8,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7383,8 +7365,8 @@ export const categories = {
         src: PB16,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7398,8 +7380,8 @@ export const categories = {
         src: PB20,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7413,8 +7395,8 @@ export const categories = {
         src: PB30,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7428,8 +7410,8 @@ export const categories = {
         src: PK8B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7443,8 +7425,8 @@ export const categories = {
         src: PK12,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7458,8 +7440,8 @@ export const categories = {
         src: PK16,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7473,8 +7455,8 @@ export const categories = {
         src: PK20,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7488,8 +7470,8 @@ export const categories = {
         src: PK30A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7503,8 +7485,8 @@ export const categories = {
         src: PK30B,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7518,8 +7500,8 @@ export const categories = {
         src: P18,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7535,8 +7517,8 @@ export const categories = {
         src: img104,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7550,8 +7532,8 @@ export const categories = {
         src: img120,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7565,8 +7547,8 @@ export const categories = {
         src: img119,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7580,8 +7562,8 @@ export const categories = {
         src: img118,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7595,8 +7577,8 @@ export const categories = {
         src: img116A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7610,8 +7592,8 @@ export const categories = {
         src: img113,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7625,8 +7607,8 @@ export const categories = {
         src: img107,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7640,8 +7622,8 @@ export const categories = {
         src: img106,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7655,8 +7637,8 @@ export const categories = {
         src: img102,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7670,8 +7652,8 @@ export const categories = {
         src: img101A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7685,8 +7667,8 @@ export const categories = {
         src: img104A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7700,8 +7682,8 @@ export const categories = {
         src: img109A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7715,8 +7697,8 @@ export const categories = {
         src: img111A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7730,8 +7712,8 @@ export const categories = {
         src: img112A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7745,8 +7727,8 @@ export const categories = {
         src: img114A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7760,8 +7742,8 @@ export const categories = {
         src: img1161,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7775,8 +7757,8 @@ export const categories = {
         src: img118A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7790,8 +7772,8 @@ export const categories = {
         src: img121A,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7805,8 +7787,8 @@ export const categories = {
         src: img1141,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7822,8 +7804,8 @@ export const categories = {
         src: img104,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7837,8 +7819,8 @@ export const categories = {
         src: RH04,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7851,10 +7833,25 @@ export const categories = {
         type: "rosettes",
         src: RG006,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 260.00",
+        description: {
+          title: "description",
+          size: "/100 &#8960;/кг: 31.7",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+
+        title: "RG-14",
+        type: "rosettes",
+        src: RG006,
+        categorie: "internal",
+        price: "€ 40.00",
+        description: {
+          title: "description",
+          size: "/35  &#8960;/кг: 2.5 - 4.0 ",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -7866,10 +7863,10 @@ export const categories = {
         type: "rosettes",
         src: RG008,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 75.00",
+        description: {
+          title: "description",
+          size: "/60 &#8960;/кг: 4,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -7881,10 +7878,10 @@ export const categories = {
         type: "rosettes",
         src: RG009,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 95.00",
+        description: {
+          title: "description",
+          size: "/65 &#8960;/кг: 7,4",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -7896,10 +7893,25 @@ export const categories = {
         type: "rosettes",
         src: RG012,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 105.00",
+        description: {
+          title: "description",
+          size: "/70 &#8960;/кг: 6.7",
+          connect: " RL 103",
+          price: "Цена за единицу:",
+        },
+      },
+      {
+        id: shortid.generate(),
+
+        title: "RG-13",
+        type: "rosettes",
+        src: RG012,
+        categorie: "internal",
+        price: "€ 55.00",
+        description: {
+          title: "description",
+          size: "/50 &#8960;/кг: 4.0",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -7912,8 +7924,8 @@ export const categories = {
         src: RC003,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7927,8 +7939,8 @@ export const categories = {
         src: RC004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7942,8 +7954,8 @@ export const categories = {
         src: RC014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7957,8 +7969,8 @@ export const categories = {
         src: RC017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7972,8 +7984,8 @@ export const categories = {
         src: RE005,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -7987,8 +7999,8 @@ export const categories = {
         src: RE012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8002,8 +8014,8 @@ export const categories = {
         src: RE014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8017,8 +8029,8 @@ export const categories = {
         src: RE015,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8032,8 +8044,8 @@ export const categories = {
         src: RE021,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8047,8 +8059,8 @@ export const categories = {
         src: RE022,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8062,8 +8074,8 @@ export const categories = {
         src: RE024,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8077,8 +8089,8 @@ export const categories = {
         src: RD003,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8092,8 +8104,8 @@ export const categories = {
         src: RD012,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8107,8 +8119,8 @@ export const categories = {
         src: RF001,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8122,8 +8134,8 @@ export const categories = {
         src: RF003,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8137,8 +8149,8 @@ export const categories = {
         src: RF007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8152,8 +8164,8 @@ export const categories = {
         src: RF006,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8167,8 +8179,8 @@ export const categories = {
         src: RF010,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8182,8 +8194,8 @@ export const categories = {
         src: RF013,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8197,8 +8209,8 @@ export const categories = {
         src: RF014,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8212,8 +8224,8 @@ export const categories = {
         src: RF016,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8227,8 +8239,8 @@ export const categories = {
         src: RF017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8242,8 +8254,8 @@ export const categories = {
         src: RF005,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8257,8 +8269,8 @@ export const categories = {
         src: RF011,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8272,8 +8284,8 @@ export const categories = {
         src: RH07,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8287,8 +8299,8 @@ export const categories = {
         src: RH09,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8302,8 +8314,8 @@ export const categories = {
         src: RH10,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8317,8 +8329,8 @@ export const categories = {
         src: RH016,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8332,8 +8344,8 @@ export const categories = {
         src: RH017,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8347,8 +8359,8 @@ export const categories = {
         src: RH018,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8362,8 +8374,8 @@ export const categories = {
         src: RH019,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8377,8 +8389,8 @@ export const categories = {
         src: RH020,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8392,8 +8404,8 @@ export const categories = {
         src: RG004,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8407,8 +8419,8 @@ export const categories = {
         src: RG007,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8421,10 +8433,10 @@ export const categories = {
         type: "rosettes",
         src: RG010,
         categorie: "internal",
-        price: "€ 0.00",
-        discription: {
-          title: "discription",
-          size: "/28×28/кг: 0,5",
+        price: "€ 90.00",
+        description: {
+          title: "description",
+          size: "/65 &#8960;/кг: 5,3",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -8439,8 +8451,8 @@ export const categories = {
         src: SP01,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8454,8 +8466,8 @@ export const categories = {
         src: SP03,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8469,8 +8481,8 @@ export const categories = {
         src: SP04,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8484,8 +8496,8 @@ export const categories = {
         src: SP05,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8499,8 +8511,8 @@ export const categories = {
         src: SP06,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8514,8 +8526,8 @@ export const categories = {
         src: SP07,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
@@ -8529,8 +8541,8 @@ export const categories = {
         src: SP02,
         categorie: "internal",
         price: "€ 0.00",
-        discription: {
-          title: "discription",
+        description: {
+          title: "description",
           size: "/28×28/кг: 0,5",
           connect: " RL 103",
           price: "Цена за единицу:",
