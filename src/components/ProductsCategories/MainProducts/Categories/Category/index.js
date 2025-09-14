@@ -9,8 +9,8 @@ const Category = ({
   isProductsCategoriesPage,
 }) => {
   const fields = Object.keys(subcategories);
-  console.log("subcategories", subcategories);
   const translate = useSelector(translateSelector);
+  console.log("fields", fields);
   return (
     <div className=" w-64">
       <div className="text-left"> {translate[`${titleCategory}`]}</div>

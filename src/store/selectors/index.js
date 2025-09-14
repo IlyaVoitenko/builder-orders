@@ -3,7 +3,7 @@ export const isLoadingSelector = (state) => state.loading.isLoading;
 export const isShowMenuSelector = (state) => state.menu.isShowMenu;
 //categories
 export const selectedCategorySelector = (state) =>
-  state.categories.selectedCategorie;
+  state.categories.selectedCategory;
 export const productsSelector = (state) => state.categories.products;
 export const selectedProductSelector = (state) =>
   state.categories.selectedProduct;

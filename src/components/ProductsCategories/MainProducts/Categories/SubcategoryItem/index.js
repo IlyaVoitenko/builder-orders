@@ -22,12 +22,27 @@ const SubcategoryItem = ({
   const selectedCategory = useSelector(selectedCategorySelector);
   const selectedProduct = useSelector(selectedProductSelector);
   const navigate = useNavigate();
+  useEffect(() => {
+    console.log(selectedCategory);
+  }, [selectedCategory]);
+  console.log(
+    "selectedCategory",
+    selectedCategory,
+    "----------",
+    selectedProduct.type,
+    "----------",
+    item
+  );
 
-  useEffect(() => {}, [selectedCategory]);
+  if (selectedProduct.type === selectedCategory) {
+    console.log(true);
+  } else {
+    console.log(false);
+  }
   return (
     <div
       className={`text-left pl-5 cursor-pointer
-      ${selectedCategory === item && "text-blue-600"}
+      ${selectedProduct.type === item ? "text-blue-600" : ""}
       `}
       onClick={() => {
         dispatch(setSelectedCategory(item));
