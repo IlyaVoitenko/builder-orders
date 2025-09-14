@@ -5,7 +5,7 @@ import { useSelector } from "react-redux";
 const Info = () => {
   const translate = useSelector(translateSelector);
 
-  const styleLg = `max-lg:text-xs   max-lg:w-full lg:h-[23rem] max-lg:pr-[1.25rem] max-lg:pl-[1.25rem]`;
+  const styleLg = `max-lg:text-xs   max-lg:w-full lg:h-[26rem] max-lg:pr-[1.25rem] max-lg:pl-[1.25rem]`;
   return (
     <section
       className={`flex  flex-col  w-1/5 text-left text-white  ${styleLg}`}

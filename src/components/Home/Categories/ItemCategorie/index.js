@@ -8,13 +8,19 @@ import { useSelector } from "react-redux";
 const ItemCategorie = ({ item, id }) => {
   const translate = useSelector(translateSelector);
   const currentLanguage = useSelector(currentLanguageSelector);
-
+  console.log(
+    translate,
+    "----------",
+    id,
+    "----------",
+    translate?.home?.categories[`card-${id}`]?.title
+  );
   return (
     <figure className="flex flex-col  mt-5 items-center w-[45%]">
       <img
         src={item.src}
         className="w-full  h-[25vw]"
-        alt={translate?.home?.categories[`card-${id}`].title}
+        alt={translate?.home?.categories[`card-${id}`]?.title}
       />
       <figcaption className="mt-3 font-bold text-blue-500 max-lg:h-12 lg:text-xl	">
         {translate?.home?.categories[`card-${id}`].title}

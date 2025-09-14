@@ -12,7 +12,7 @@ const MainProducts = () => {
   };
 
   return (
-    <main className="flex max-lg:flex-col-reverse	md:flex-row justify-center ">
+    <main className="flex max-lg:flex-col-reverse	md:flex-row justify-center  2xl:h-[80vh] ">
       <Helmet>
         <title>Categories page</title>
         <meta

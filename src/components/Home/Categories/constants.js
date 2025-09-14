@@ -1,6 +1,6 @@
 import { translateSelector } from "../../../store/selectors";
-import TitleProducts from "./TitleProducts";
-import ProductsList from "./ProductsList";
+import TitleProducts from "./";
+import ProductsList from "../Products/ProductsList";
 import { useSelector } from "react-redux";
 
 import K6 from "../../../assets/images/K-006-300x300.png";
@@ -10,7 +10,7 @@ import KO4 from "../../../assets/images/KO-004-300x300.png";
 import RG6 from "../../../assets/images/RG006-600x601.png";
 
 import shortid from "shortid";
-const categoriesList = [
+export const categoriesList = [
   {
     id: shortid.generate(),
     src: img102,
@@ -38,15 +38,7 @@ const categoriesList = [
     categorie: "internal",
     subcategorie: "ceilingmirror",
   },
-  {
-    id: shortid.generate(),
-    src: KO4,
-    title: "K-4",
-    price: "€ 0.00",
-    link: "/products-categories",
-    categorie: "internal",
-    subcategorie: "consoles",
-  },
+
   {
     id: shortid.generate(),
     src: RG6,

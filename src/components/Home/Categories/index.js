@@ -3,15 +3,11 @@ import ItemCategorie from "./ItemCategorie";
 import { categoriesList } from "./constants";
 
 const Categories = () => {
-  // const isLoading = useSelector(isLoadingSelector);
-
-  // if (!isLoading) return <Loading />;
-
   return (
     <div className="flex  w-3/4 max-sm:w-[95%] flex-row	justify-around flex-wrap mt-5">
       {categoriesList &&
-        categoriesList.map((item) => (
-          <ItemCategorie key={item.id} item={item} id={item.id} />
+        categoriesList.map((item, index) => (
+          <ItemCategorie key={item.id} item={item} id={index + 1} />
         ))}
     </div>
   );

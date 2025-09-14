@@ -10,7 +10,6 @@ import { useParams } from "react-router-dom";
 const InfoProduct = () => {
   const product = useSelector(selectedProductSelector);
   const { nameProduct } = useParams();
-  console.log("nameProduct", nameProduct);
   return (
     <>
       <Helmet>
@@ -77,19 +76,19 @@ const InfoProduct = () => {
           content="https://builder-orders.vercel.app/logoWeb.png"
         />
       </Helmet>
-      <div className="flex flex-col w-screen">
+      <div className="flex flex-col w-screen 2xl:h-[80vh]">
         <Navigation
           categorie={product.categorie}
           subcategorie={product.subcategorie || product.type}
           nameProduct={product.title}
         />
-        <div className=" flex flex-row max-lg:flex-col  justify-center	mt-3">
+        <div className=" flex flex-row max-lg:flex-col  justify-center max-lg:items-center	mt-3">
           <img
             src={product.src}
             alt={product.title}
-            className="w-2/6 max-lg:w-full"
+            className="w-2/6 max-lg:w-full max-w-[500px] max-h-[500px] "
           />
-          <div className="flex flex-col justify-center items-center ">
+          <div className="flex flex-col justify-center items-center max-md:mt-[1rem]">
             <PriceAndName nameProduct={product.title} price={product.price} />
             <CurrentCategorie
               subcategorie={product.type}
@@ -97,7 +96,7 @@ const InfoProduct = () => {
             />
           </div>
         </div>
-        <div className=" flex justify-end">
+        <div className=" flex justify-end max-md:mb-[1rem]">
           <DescriptionProduct price={product.price} />
         </div>
       </div>
