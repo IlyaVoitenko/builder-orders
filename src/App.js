@@ -23,10 +23,7 @@ function App() {
             <Route index element={<Home />} />
             <Route path="/photo-gallery" element={<PhotoGallery />} />
             <Route path="/product/:nameProduct" element={<Product />} />
-            <Route
-              path="/products-categories"
-              element={<ProductsCategories />}
-            />
+            <Route path="/products-category" element={<ProductsCategories />} />
             <Route path="/wholesale-retail" element={<WholesaleAndRetail />} />
             <Route path="/stucco-work" element={<StuccoWork />} />
             <Route path="/custom-moulding" element={<CustomMoulding />} />

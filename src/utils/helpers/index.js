@@ -18,7 +18,7 @@ export const validationFornBtn = (isAgree, lastname, email, requestUser) => {
   }
   return true;
 };
-export const validationCategorieName = (categorie) => {
-  if (categories[categorie]) return categories[categorie];
-  return categorie;
+export const validationCategoryName = (category) => {
+  if (categories[category]) return categories[category];
+  return category;
 };

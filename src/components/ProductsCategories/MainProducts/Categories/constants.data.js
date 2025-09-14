@@ -1,14 +1,3 @@
-import B02 from "../../../../assets/images/B-002-300x300.png";
-import B04 from "../../../../assets/images/B-004-300x300.png";
-import B05 from "../../../../assets/images/B-005.png";
-import B11 from "../../../../assets/images/B-011-300x300.png";
-import B20 from "../../../../assets/images/B-020-221x300.png";
-import B23 from "../../../../assets/images/B-023-300x300.png";
-import B25 from "../../../../assets/images/B-025-300x262.png";
-import B27 from "../../../../assets/images/B27-300x300.png";
-import B28 from "../../../../assets/images/B28-300x300 (1).png";
-import B29 from "../../../../assets/images/B29-300x300.png";
-
 import img101A from "../../../../assets/images/101-300x256.png";
 import img104A from "../../../../assets/images/104a-300x256.png";
 import img109A from "../../../../assets/images/109-1-300x256.png";
@@ -325,2602 +314,6 @@ import I015B from "../../../../assets/images/I015B-2-300x300.png";
 import shortid from "shortid";
 
 export const categories = {
-  //   //     id: shortid.generate(),
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: PK35,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 0.00",
-  //   //     description: {
-  //   //       title: "description",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: KS40,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 0.00",
-  //   //     description: {
-  //   //       title: "description",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: PG35,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 0.00",
-  //   //     description: {
-  //   //       title: "description",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: GS40,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     description: {
-  //   //       title: "description",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: ECK09,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: ECK05,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG42,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG43,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG45,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: ECK01,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: BO01,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG44,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: BO02,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: BO07,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: BO03,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG41,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG37,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG35,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG38,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG33,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG30,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG32,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG32,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG29,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG28,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG27,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG26,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG25,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG24,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG23,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG22,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG21,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG20,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG18,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG19,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG17,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG16,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG15,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG14,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG13,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG12,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG11,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG10,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG08,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "facadeStucco",
-  //   //     src: HG06,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   // ],
-  //   // bosses: [
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "BO-35",
-  //   //     type: "bosses",
-  //   //     src: PG35,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   // ],
-  //   // corner: [
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "corner",
-  //   //     src: ECK01,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "corner",
-  //   //     src: ECK01,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "corner",
-  //   //     src: ECK01,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "corner",
-  //   //     src: ECK09,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "corner",
-  //   //     src: ECK09,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "corner",
-  //   //     src: ECK09,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   //   {
-  //   //     id: shortid.generate(),
-
-  //   //     title: "EN-123",
-  //   //     type: "corner",
-  //   //     src: ECK09,
-  //   //     categorie: "facadeStucco",
-  //   //     price: "€ 15.00",
-  //   //     discription: {
-  //   //       title: "discription",
-  //   //       size: "/28×28/кг: 0,5",
-  //   //       connect: " RL 103",
-  //   //       price: "Цена за единицу:",
-  //   //     },
-  //   //   },
-  //   // ],
-  //   windowsills: [
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-46",
-  //       type: "windowsills",
-  //       src: FB46,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-45",
-  //       type: "windowsills",
-  //       src: FB45,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-44",
-  //       type: "windowsills",
-  //       src: FB44,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-43",
-  //       type: "windowsills",
-  //       src: FB43,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-42",
-  //       type: "windowsills",
-  //       src: FB42,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-41",
-  //       type: "windowsills",
-  //       src: FB41,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-40",
-  //       type: "windowsills",
-  //       src: FB40,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-39",
-  //       type: "windowsills",
-  //       src: FB39,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-38",
-  //       type: "windowsills",
-  //       src: FB38,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-37",
-  //       type: "windowsills",
-  //       src: FB37,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-36",
-  //       type: "windowsills",
-  //       src: FB36,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-35",
-  //       type: "windowsills",
-  //       src: FB35,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-34",
-  //       type: "windowsills",
-  //       src: FB34,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-33",
-  //       type: "windowsills",
-  //       src: FB33,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-32",
-  //       type: "windowsills",
-  //       src: FB32,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-31",
-  //       type: "windowsills",
-  //       src: FB31,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-30",
-  //       type: "windowsills",
-  //       src: FB30,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-29",
-  //       type: "windowsills",
-  //       src: FB29,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-28",
-  //       type: "windowsills",
-  //       src: FB28,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-27",
-  //       type: "windowsills",
-  //       src: FB27,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-26",
-  //       type: "windowsills",
-  //       src: FB26,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-25",
-  //       type: "windowsills",
-  //       src: FB25,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-24",
-  //       type: "windowsills",
-  //       src: FB24,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-23",
-  //       type: "windowsills",
-  //       src: FB23,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-22",
-  //       type: "windowsills",
-  //       src: FB22,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-21",
-  //       type: "windowsills",
-  //       src: FB21,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-20",
-  //       type: "windowsills",
-  //       src: FB20,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-19",
-  //       type: "windowsills",
-  //       src: FB19,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-18",
-  //       type: "windowsills",
-  //       src: FB18,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-17",
-  //       type: "windowsills",
-  //       src: FB17,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-16",
-  //       type: "windowsills",
-  //       src: FB16,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-15",
-  //       type: "windowsills",
-  //       src: FB15,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-14",
-  //       type: "windowsills",
-  //       src: FB14,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-13",
-  //       type: "windowsills",
-  //       src: FB13,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-12",
-  //       type: "windowsills",
-  //       src: FB12,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-11",
-  //       type: "windowsills",
-  //       src: FB11,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-10",
-  //       type: "windowsills",
-  //       src: FB10,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-09",
-  //       type: "windowsills",
-  //       src: FB09,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-08",
-  //       type: "windowsills",
-  //       src: FB08,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-07",
-  //       type: "windowsills",
-  //       src: FB07,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-06",
-  //       type: "windowsills",
-  //       src: FB06,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-05",
-  //       type: "windowsills",
-  //       src: FB05,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-04",
-  //       type: "windowsills",
-  //       src: FB04,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-03",
-  //       type: "windowsills",
-  //       src: FB03,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-02",
-  //       type: "windowsills",
-  //       src: FB02,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FB-01",
-  //       type: "windowsills",
-  //       src: FB01,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //   ],
-  //   windowBar: [
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-35",
-  //       type: "windowBar",
-  //       src: FL35,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-34",
-  //       type: "windowBar",
-  //       src: FL34,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-33",
-  //       type: "windowBar",
-  //       src: FL33,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-32",
-  //       type: "windowBar",
-  //       src: FL32,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-31",
-  //       type: "windowBar",
-  //       src: FL31,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-30",
-  //       type: "windowBar",
-  //       src: FL30,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-29",
-  //       type: "windowBar",
-  //       src: FL29,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-28",
-  //       type: "windowBar",
-  //       src: FL28,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-27",
-  //       type: "windowBar",
-  //       src: FL27,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-26",
-  //       type: "windowBar",
-  //       src: FL26,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-25",
-  //       type: "windowBar",
-  //       src: FL25,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-24",
-  //       type: "windowBar",
-  //       src: FL24,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-23",
-  //       type: "windowBar",
-  //       src: FL23,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-22",
-  //       type: "windowBar",
-  //       src: FL22,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-21",
-  //       type: "windowBar",
-  //       src: FL21,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-20",
-  //       type: "windowBar",
-  //       src: FL20,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL19",
-  //       type: "windowBar",
-  //       src: FL19,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-18",
-  //       type: "windowBar",
-  //       src: FL18,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-17",
-  //       type: "windowBar",
-  //       src: FL17,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-16",
-  //       type: "windowBar",
-  //       src: FL16,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-15",
-  //       type: "windowBar",
-  //       src: FL15,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-14",
-  //       type: "windowBar",
-  //       src: FL14,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-13",
-  //       type: "windowBar",
-  //       src: FL13,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-12",
-  //       type: "windowBar",
-  //       src: FL12,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-11",
-  //       type: "windowBar",
-  //       src: FL11,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-10",
-  //       type: "windowBar",
-  //       src: FL10,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-09",
-  //       type: "windowBar",
-  //       src: FL09,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-08",
-  //       type: "windowBar",
-  //       src: FL08,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-07",
-  //       type: "windowBar",
-  //       src: FL07,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-06",
-  //       type: "windowBar",
-  //       src: FL06,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-05",
-  //       type: "windowBar",
-  //       src: FL05,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-04",
-  //       type: "windowBar",
-  //       src: FL04,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-03",
-  //       type: "windowBar",
-  //       src: FL03,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-02",
-  //       type: "windowBar",
-  //       src: FL02,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "FL-01",
-  //       type: "windowBar",
-  //       src: FL01,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //   ],
-  //   mainCornice: [
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-42",
-  //       type: "mainCornice",
-  //       src: HG42,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-43",
-  //       type: "mainCornice",
-  //       src: HG43,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-45",
-  //       type: "mainCornice",
-  //       src: HG45,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-44",
-  //       type: "mainCornice",
-  //       src: HG44,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-41",
-  //       type: "mainCornice",
-  //       src: HG41,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-37",
-  //       type: "mainCornice",
-  //       src: HG37,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-35",
-  //       type: "mainCornice",
-  //       src: HG35,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-38",
-  //       type: "mainCornice",
-  //       src: HG38,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-33",
-  //       type: "mainCornice",
-  //       src: HG33,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-30",
-  //       type: "mainCornice",
-  //       src: HG30,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-32",
-  //       type: "mainCornice",
-  //       src: HG32,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-29",
-  //       type: "mainCornice",
-  //       src: HG29,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-28",
-  //       type: "mainCornice",
-  //       src: HG28,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-27",
-  //       type: "mainCornice",
-  //       src: HG27,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-26",
-  //       type: "mainCornice",
-  //       src: HG26,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-25",
-  //       type: "mainCornice",
-  //       src: HG25,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-24",
-  //       type: "mainCornice",
-  //       src: HG24,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-23",
-  //       type: "mainCornice",
-  //       src: HG23,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-22",
-  //       type: "mainCornice",
-  //       src: HG22,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-21",
-  //       type: "mainCornice",
-  //       src: HG21,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-20",
-  //       type: "mainCornice",
-  //       src: HG20,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-18",
-  //       type: "mainCornice",
-  //       src: HG18,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-19",
-  //       type: "mainCornice",
-  //       src: HG19,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-17",
-  //       type: "mainCornice",
-  //       src: HG17,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-16",
-  //       type: "mainCornice",
-  //       src: HG16,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-15",
-  //       type: "mainCornice",
-  //       src: HG15,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-14",
-  //       type: "mainCornice",
-  //       src: HG14,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-13",
-  //       type: "mainCornice",
-  //       src: HG13,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-12",
-  //       type: "mainCornice",
-  //       src: HG12,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-11",
-  //       type: "mainCornice",
-  //       src: HG11,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-10",
-  //       type: "mainCornice",
-  //       src: HG10,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-08",
-  //       type: "mainCornice",
-  //       src: HG08,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-05",
-  //       type: "mainCornice",
-  //       src: HG05,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-04",
-  //       type: "mainCornice",
-  //       src: HG04,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-03",
-  //       type: "mainCornice",
-  //       src: HG03,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-02",
-  //       type: "mainCornice",
-  //       src: HG02,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "HG-01",
-  //       type: "mainCornice",
-  //       src: HG01,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //   ],
-  //   columns: [
-  //     {
-  //       id: shortid.generate(),
-
-  //       title: "KS-40",
-  //       type: "columns",
-  //       src: KS40,
-  //       categorie: "facadeStucco",
-  //       price: "€ 15.00",
-  //       discription: {
-  //         title: "discription",
-  //         size: "/28×28/кг: 0,5",
-  //         connect: " RL 103",
-  //         price: "Цена за единицу:",
-  //       },
-  //     },
-  //   ],
-  // },
   internal: {
     internal: [
       {
@@ -2929,7 +322,7 @@ export const categories = {
         title: "RL-102",
         type: "internal",
         src: img102,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -2944,7 +337,7 @@ export const categories = {
         title: "DE-102",
         type: "internal",
         src: img1022,
-        categorie: "internal",
+        category: "internal",
         price: "€ 60.00",
         description: {
           title: "description",
@@ -2959,7 +352,7 @@ export const categories = {
         title: "RL-103",
         type: "internal",
         src: img103,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -2974,7 +367,7 @@ export const categories = {
         title: "DE-103A",
         type: "internal",
         src: img103a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 45.00",
         description: {
           title: "description",
@@ -2989,7 +382,7 @@ export const categories = {
         title: "RL-104",
         type: "internal",
         src: img104,
-        categorie: "internal",
+        category: "internal",
         price: "€ 35.00",
         description: {
           title: "description",
@@ -3004,7 +397,7 @@ export const categories = {
         title: "RL-106",
         type: "internal",
         src: img106,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3019,7 +412,7 @@ export const categories = {
         title: "RL-107",
         type: "internal",
         src: img107,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3034,7 +427,7 @@ export const categories = {
         title: "RL-115",
         type: "internal",
         src: img115,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3049,7 +442,7 @@ export const categories = {
         title: "RL-116",
         type: "internal",
         src: img116,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3064,7 +457,7 @@ export const categories = {
         title: "RL-117",
         type: "internal",
         src: img117,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3079,7 +472,7 @@ export const categories = {
         title: "RL-119",
         type: "internal",
         src: img119,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3094,7 +487,7 @@ export const categories = {
         title: "RL-120",
         type: "internal",
         src: img120,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3109,7 +502,7 @@ export const categories = {
         title: "RL-121",
         type: "internal",
         src: img121,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3124,7 +517,7 @@ export const categories = {
         title: "DE-207",
         type: "internal",
         src: img207a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3139,7 +532,7 @@ export const categories = {
         title: "DE-224",
         type: "internal",
         src: img224,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -3154,7 +547,7 @@ export const categories = {
         title: "RL-4002",
         type: "internal",
         src: img4002,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3169,7 +562,7 @@ export const categories = {
         title: "RL-113",
         type: "internal",
         src: img113,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3184,7 +577,7 @@ export const categories = {
         title: "RL-4025",
         type: "internal",
         src: img4025,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3199,7 +592,7 @@ export const categories = {
         title: "DE-233",
         type: "internal",
         src: img233a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -3214,7 +607,7 @@ export const categories = {
         title: "RL-1008",
         type: "internal",
         src: img1008X,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3229,7 +622,7 @@ export const categories = {
         title: "RL-20123",
         type: "internal",
         src: img20123,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3244,7 +637,7 @@ export const categories = {
         title: "RL-20132",
         type: "internal",
         src: img20132,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3259,7 +652,7 @@ export const categories = {
         title: "RL-3019",
         type: "internal",
         src: img3019c,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3274,7 +667,7 @@ export const categories = {
         title: "RL-40221",
         type: "internal",
         src: img40221,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3289,7 +682,7 @@ export const categories = {
         title: "B-2B",
         type: "internal",
         src: B2B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3304,7 +697,7 @@ export const categories = {
         title: "DS-103",
         type: "internal",
         src: DS103,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3319,7 +712,7 @@ export const categories = {
         title: "DS-104",
         type: "internal",
         src: DS104,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3334,7 +727,7 @@ export const categories = {
         title: "GS-26",
         type: "internal",
         src: GS26,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3349,7 +742,7 @@ export const categories = {
         title: "I-51",
         type: "internal",
         src: I0051,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3364,7 +757,7 @@ export const categories = {
         title: "I-161",
         type: "internal",
         src: I0161,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3379,7 +772,7 @@ export const categories = {
         title: "K-006",
         type: "internal",
         src: K006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3394,7 +787,7 @@ export const categories = {
         title: "K-007",
         type: "internal",
         src: K007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3409,7 +802,7 @@ export const categories = {
         title: "K-10",
         type: "internal",
         src: K010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3424,7 +817,7 @@ export const categories = {
         title: "K-12",
         type: "internal",
         src: K012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3439,7 +832,7 @@ export const categories = {
         title: "K-4",
         type: "internal",
         src: K004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3454,7 +847,7 @@ export const categories = {
         title: "KO-12",
         type: "internal",
         src: KO012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3469,7 +862,7 @@ export const categories = {
         title: "KO-14",
         type: "internal",
         src: KO014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3484,7 +877,7 @@ export const categories = {
         title: "KO-17",
         type: "internal",
         src: KO017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3499,7 +892,7 @@ export const categories = {
         title: "KO-181",
         type: "internal",
         src: KO0181,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3514,7 +907,7 @@ export const categories = {
         title: "KO-18",
         type: "internal",
         src: KO018,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3529,7 +922,7 @@ export const categories = {
         title: "KS-26",
         type: "internal",
         src: KS26,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3544,7 +937,7 @@ export const categories = {
         title: "LA-02",
         type: "internal",
         src: LA002,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3559,7 +952,7 @@ export const categories = {
         title: "OR-23",
         type: "internal",
         src: OR023,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3574,7 +967,7 @@ export const categories = {
         title: "OR-25",
         type: "internal",
         src: OR025,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3589,7 +982,7 @@ export const categories = {
         title: "OR-72",
         type: "internal",
         src: OR072,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3604,7 +997,7 @@ export const categories = {
         title: "OR-76",
         type: "internal",
         src: OR076,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3619,7 +1012,7 @@ export const categories = {
         title: "OR-27",
         type: "internal",
         src: OR027,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3634,7 +1027,7 @@ export const categories = {
         title: "OR-82",
         type: "internal",
         src: OR082,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3649,7 +1042,7 @@ export const categories = {
         title: "OR-87",
         type: "internal",
         src: OR087,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3664,7 +1057,7 @@ export const categories = {
         title: "OR-92",
         type: "internal",
         src: OR092,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3679,7 +1072,7 @@ export const categories = {
         title: "OR-99",
         type: "internal",
         src: OR099,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3694,7 +1087,7 @@ export const categories = {
         title: "OR-101",
         type: "internal",
         src: OR101,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3709,7 +1102,7 @@ export const categories = {
         title: "OR-108",
         type: "internal",
         src: OR108,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3724,7 +1117,7 @@ export const categories = {
         title: "OR-109",
         type: "internal",
         src: OR109,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3739,7 +1132,7 @@ export const categories = {
         title: "P-30",
         type: "internal",
         src: P30,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3754,7 +1147,7 @@ export const categories = {
         title: "RC-3",
         type: "internal",
         src: RC003,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3769,7 +1162,7 @@ export const categories = {
         title: "RC-4",
         type: "internal",
         src: RC004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3784,7 +1177,7 @@ export const categories = {
         title: "RC-14",
         type: "internal",
         src: RC014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3799,7 +1192,7 @@ export const categories = {
         title: "RC-17",
         type: "internal",
         src: RC017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3814,7 +1207,7 @@ export const categories = {
         title: "RD-3",
         type: "internal",
         src: RD003,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3829,7 +1222,7 @@ export const categories = {
         title: "RD-12",
         type: "internal",
         src: RD012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3844,7 +1237,7 @@ export const categories = {
         title: "RE-5",
         type: "internal",
         src: RE005,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3859,7 +1252,7 @@ export const categories = {
         title: "RE-12",
         type: "internal",
         src: RE012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3874,7 +1267,7 @@ export const categories = {
         title: "RE-14",
         type: "internal",
         src: RE014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3889,7 +1282,7 @@ export const categories = {
         title: "RE-15",
         type: "internal",
         src: RE015,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3904,7 +1297,7 @@ export const categories = {
         title: "RE-21",
         type: "internal",
         src: RE021,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3919,7 +1312,7 @@ export const categories = {
         title: "RE-22",
         type: "internal",
         src: RE022,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3934,7 +1327,7 @@ export const categories = {
         title: "RE-24",
         type: "internal",
         src: RE024,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3949,7 +1342,7 @@ export const categories = {
         title: "RF-1",
         type: "internal",
         src: RF001,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3964,7 +1357,7 @@ export const categories = {
         title: "RF-3",
         type: "internal",
         src: RF003,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3979,7 +1372,7 @@ export const categories = {
         title: "RF-7",
         type: "internal",
         src: RF007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -3994,7 +1387,7 @@ export const categories = {
         title: "RF-6",
         type: "internal",
         src: RF006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4009,7 +1402,7 @@ export const categories = {
         title: "RF-10",
         type: "internal",
         src: RF010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4024,7 +1417,7 @@ export const categories = {
         title: "RF-13",
         type: "internal",
         src: RF013,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4039,7 +1432,7 @@ export const categories = {
         title: "RF-14",
         type: "internal",
         src: RF014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4054,7 +1447,7 @@ export const categories = {
         title: "RF-16",
         type: "internal",
         src: RF016,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4069,7 +1462,7 @@ export const categories = {
         title: "RH-4",
         type: "internal",
         src: RH04,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4084,7 +1477,7 @@ export const categories = {
         title: "RG-6",
         type: "internal",
         src: RG006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 260.00",
         description: {
           title: "description",
@@ -4099,7 +1492,7 @@ export const categories = {
         title: "RG-8",
         type: "internal",
         src: RG008,
-        categorie: "internal",
+        category: "internal",
         price: "€ 75.00",
         description: {
           title: "description",
@@ -4114,7 +1507,7 @@ export const categories = {
         title: "RG-9",
         type: "internal",
         src: RG009,
-        categorie: "internal",
+        category: "internal",
         price: "€ 95.00",
         description: {
           title: "description",
@@ -4129,7 +1522,7 @@ export const categories = {
         title: "RG-12",
         type: "internal",
         src: RG012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 105.00",
         description: {
           title: "description",
@@ -4144,7 +1537,7 @@ export const categories = {
         title: "SP-2",
         type: "internal",
         src: SP02,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4159,7 +1552,7 @@ export const categories = {
         title: "RH-14",
         type: "internal",
         src: RH014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4176,7 +1569,7 @@ export const categories = {
     //     title: "B-2",
     //     type: "pictures",
     //     src: B02,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4191,7 +1584,7 @@ export const categories = {
     //     title: "B-4",
     //     type: "pictures",
     //     src: B04,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4206,7 +1599,7 @@ export const categories = {
     //     title: "B-5",
     //     type: "pictures",
     //     src: B05,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4221,7 +1614,7 @@ export const categories = {
     //     title: "B-11",
     //     type: "pictures",
     //     src: B11,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4236,7 +1629,7 @@ export const categories = {
     //     title: "B-20",
     //     type: "pictures",
     //     src: B20,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4251,7 +1644,7 @@ export const categories = {
     //     title: "B-23",
     //     type: "pictures",
     //     src: B23,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4266,7 +1659,7 @@ export const categories = {
     //     title: "B-25",
     //     type: "pictures",
     //     src: B25,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4281,7 +1674,7 @@ export const categories = {
     //     title: "B-27",
     //     type: "pictures",
     //     src: B27,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4296,7 +1689,7 @@ export const categories = {
     //     title: "B-28",
     //     type: "pictures",
     //     src: B28,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4311,7 +1704,7 @@ export const categories = {
     //     title: "B-29",
     //     type: "pictures",
     //     src: B29,
-    //     categorie: "internal",
+    //     category: "internal",
     //     price: "€ 0.00",
     //     description: {
     //       title: "description",
@@ -4328,7 +1721,7 @@ export const categories = {
       //   title: "DWL-4025",
       //   type: "ceiling and wall moldings",
       //   src: img4025,
-      //   categorie: "internal",
+      //   category: "internal",
       //   price: "€ 0.00",
       //   description: {
       //     title: "description",
@@ -4343,7 +1736,7 @@ export const categories = {
       //   title: "DWL-4002",
       //   type: "ceiling and wall moldings",
       //   src: img4002,
-      //   categorie: "internal",
+      //   category: "internal",
       //   price: "€ 0.00",
       //   description: {
       //     title: "description",
@@ -4358,7 +1751,7 @@ export const categories = {
         title: "DWL-3019",
         type: "ceiling and wall moldings",
         src: img3019c,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4373,7 +1766,7 @@ export const categories = {
         title: "DWL-3018",
         type: "ceiling and wall moldings",
         src: img3018,
-        categorie: "internal",
+        category: "internal",
         price: "€ 70.00 / Meter",
         description: {
           title: "description",
@@ -4388,7 +1781,7 @@ export const categories = {
         title: "DWL-3017",
         type: "ceiling and wall moldings",
         src: img3017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4403,7 +1796,7 @@ export const categories = {
         title: "DWL-3015",
         type: "ceiling and wall moldings",
         src: img3015b,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4418,7 +1811,7 @@ export const categories = {
         title: "DWL-3014",
         type: "ceiling and wall moldings",
         src: img3014h,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4433,7 +1826,7 @@ export const categories = {
         title: "DWL-1008",
         type: "ceiling and wall moldings",
         src: img1008X,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4449,7 +1842,7 @@ export const categories = {
         title: "DWL-1001",
         type: "ceiling and wall moldings",
         src: img1001,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4464,7 +1857,7 @@ export const categories = {
         title: "DWL-1002",
         type: "ceiling and wall moldings",
         src: img1002,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4479,7 +1872,7 @@ export const categories = {
         title: "DWL-1004",
         type: "ceiling and wall moldings",
         src: img1004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4494,7 +1887,7 @@ export const categories = {
         title: "DWL-1004а",
         type: "ceiling and wall moldings",
         src: img1004a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4509,7 +1902,7 @@ export const categories = {
         title: "DWL-1005",
         type: "ceiling and wall moldings",
         src: img1005,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4524,7 +1917,7 @@ export const categories = {
       //   title: "DWL-1006",
       //   type: "ceiling and wall moldings",
       //   src: img1006,
-      //   categorie: "internal",
+      //   category: "internal",
       //   price: "€ 0.00",
       //   description: {
       //     title: "description",
@@ -4539,7 +1932,7 @@ export const categories = {
         title: "DWL-1006а",
         type: "ceiling and wall moldings",
         src: img1006a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4554,7 +1947,7 @@ export const categories = {
         title: "DWL-1007",
         type: "ceiling and wall moldings",
         src: img1007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4569,7 +1962,7 @@ export const categories = {
         title: "DWL-1008",
         type: "ceiling and wall moldings",
         src: img1008,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4584,7 +1977,7 @@ export const categories = {
         title: "DWL-3013",
         type: "ceiling and wall moldings",
         src: img3013b,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4599,7 +1992,7 @@ export const categories = {
         title: "DWL-1008",
         type: "ceiling and wall moldings",
         src: img1008xa,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4614,7 +2007,7 @@ export const categories = {
         title: "DWL-1011",
         type: "ceiling and wall moldings",
         src: img1011,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4629,7 +2022,7 @@ export const categories = {
         title: "DWL-2002",
         type: "ceiling and wall moldings",
         src: img2002,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4644,7 +2037,7 @@ export const categories = {
         title: "DWL-2008",
         type: "ceiling and wall moldings",
         src: img2008,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4659,7 +2052,7 @@ export const categories = {
         title: "DWL-2014",
         type: "ceiling and wall moldings",
         src: img2014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4674,7 +2067,7 @@ export const categories = {
         title: "DWL-2015",
         type: "ceiling and wall moldings",
         src: img2015,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4689,7 +2082,7 @@ export const categories = {
         title: "DWL-2016",
         type: "ceiling and wall moldings",
         src: img2016,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4704,7 +2097,7 @@ export const categories = {
         title: "DWL-2017",
         type: "ceiling and wall moldings",
         src: img2017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4719,7 +2112,7 @@ export const categories = {
         title: "DWL-2019",
         type: "ceiling and wall moldings",
         src: img2019,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4734,7 +2127,7 @@ export const categories = {
         title: "DWL-2020",
         type: "ceiling and wall moldings",
         src: img2020,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4749,7 +2142,7 @@ export const categories = {
         title: "DWL-2021",
         type: "ceiling and wall moldings",
         src: img2021,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4764,7 +2157,7 @@ export const categories = {
         title: "DWL-2022",
         type: "ceiling and wall moldings",
         src: img2022,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4779,7 +2172,7 @@ export const categories = {
         title: "DWL-2023",
         type: "ceiling and wall moldings",
         src: img2023,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4794,7 +2187,7 @@ export const categories = {
         title: "DWL-2024",
         type: "ceiling and wall moldings",
         src: img2024,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4809,7 +2202,7 @@ export const categories = {
         title: "DWL-2026",
         type: "ceiling and wall moldings",
         src: img2026,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4824,7 +2217,7 @@ export const categories = {
         title: "DWL-2027",
         type: "ceiling and wall moldings",
         src: img2027,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4839,7 +2232,7 @@ export const categories = {
         title: "DWL-2028",
         type: "ceiling and wall moldings",
         src: img2028,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4854,7 +2247,7 @@ export const categories = {
         title: "DWL-2029",
         type: "ceiling and wall moldings",
         src: img2029,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4869,7 +2262,7 @@ export const categories = {
         title: "DWL-2030",
         type: "ceiling and wall moldings",
         src: img2030,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4884,7 +2277,7 @@ export const categories = {
         title: "DWL-2031",
         type: "ceiling and wall moldings",
         src: img2031,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4899,7 +2292,7 @@ export const categories = {
         title: "DWL-3001А",
         type: "ceiling and wall moldings",
         src: img3001a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4914,7 +2307,7 @@ export const categories = {
         title: "DWL-3002",
         type: "ceiling and wall moldings",
         src: img3002,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4929,7 +2322,7 @@ export const categories = {
         title: "DWL-3002А",
         type: "ceiling and wall moldings",
         src: img3002a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4944,7 +2337,7 @@ export const categories = {
         title: "DWL-3004",
         type: "ceiling and wall moldings",
         src: img3004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4959,7 +2352,7 @@ export const categories = {
         title: "DWL-3005",
         type: "ceiling and wall moldings",
         src: img3005,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4974,7 +2367,7 @@ export const categories = {
         title: "DWL-3006",
         type: "ceiling and wall moldings",
         src: img3006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -4989,7 +2382,7 @@ export const categories = {
         title: "DWL-3007",
         type: "ceiling and wall moldings",
         src: img3007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5005,7 +2398,7 @@ export const categories = {
         title: "DWL-3010",
         type: "ceiling and wall moldings",
         src: img3010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5020,7 +2413,7 @@ export const categories = {
         title: "DWL-3011",
         type: "ceiling and wall moldings",
         src: img3011,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5035,7 +2428,7 @@ export const categories = {
         title: "DWL-3012А",
         type: "ceiling and wall moldings",
         src: img3012a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5050,7 +2443,7 @@ export const categories = {
         title: "DWL-4001",
         type: "ceiling and wall moldings",
         src: img4001,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5065,7 +2458,7 @@ export const categories = {
         title: "DWL-4004А",
         type: "ceiling and wall moldings",
         src: img4004a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5080,7 +2473,7 @@ export const categories = {
         title: "DWL-4005",
         type: "ceiling and wall moldings",
         src: img4005,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5095,7 +2488,7 @@ export const categories = {
         title: "DWL-4006А",
         type: "ceiling and wall moldings",
         src: img4006a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5110,7 +2503,7 @@ export const categories = {
         title: "DWL-4007",
         type: "ceiling and wall moldings",
         src: img4007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5125,7 +2518,7 @@ export const categories = {
         title: "DWL-4008",
         type: "ceiling and wall moldings",
         src: img4008,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5140,7 +2533,7 @@ export const categories = {
         title: "DWL-4012А",
         type: "ceiling and wall moldings",
         src: img4012a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5155,7 +2548,7 @@ export const categories = {
         title: "DWL-4014",
         type: "ceiling and wall moldings",
         src: img4014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5170,7 +2563,7 @@ export const categories = {
         title: "DWL-4015",
         type: "ceiling and wall moldings",
         src: img4015,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5185,7 +2578,7 @@ export const categories = {
         title: "DWL-4016",
         type: "ceiling and wall moldings",
         src: img4016,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5200,7 +2593,7 @@ export const categories = {
         title: "DWL-4017",
         type: "ceiling and wall moldings",
         src: img4017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5215,7 +2608,7 @@ export const categories = {
         title: "DWL-4018",
         type: "ceiling and wall moldings",
         src: img4018,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5230,7 +2623,7 @@ export const categories = {
         title: "DWL-4020",
         type: "ceiling and wall moldings",
         src: img4020,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5245,7 +2638,7 @@ export const categories = {
         title: "DWL-4021",
         type: "ceiling and wall moldings",
         src: img4021,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5260,7 +2653,7 @@ export const categories = {
         title: "DWL-4024",
         type: "ceiling and wall moldings",
         src: img4024,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5277,7 +2670,7 @@ export const categories = {
         title: "DS-104",
         type: "ceiling mirror",
         src: DS104,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5292,7 +2685,7 @@ export const categories = {
         title: "DS-103",
         type: "ceiling mirror",
         src: DS103,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5307,7 +2700,7 @@ export const categories = {
         title: "DS-101",
         type: "ceiling mirror",
         src: DS101,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5322,7 +2715,7 @@ export const categories = {
         title: "DS-101a",
         type: "ceiling mirror",
         src: DS101a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5337,7 +2730,7 @@ export const categories = {
         title: "DS-102",
         type: "ceiling mirror",
         src: DS102,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5352,7 +2745,7 @@ export const categories = {
         title: "DS-102A",
         type: "ceiling mirror",
         src: DS102a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5367,7 +2760,7 @@ export const categories = {
         title: "DS-102A",
         type: "ceiling mirror",
         src: DS102b,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5382,7 +2775,7 @@ export const categories = {
         title: "DS-102C",
         type: "ceiling mirror",
         src: DS102c,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5397,7 +2790,7 @@ export const categories = {
         title: "DS-102B",
         type: "ceiling mirror",
         src: DS102d,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5412,7 +2805,7 @@ export const categories = {
         title: "DS-103A",
         type: "ceiling mirror",
         src: DS103a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5429,7 +2822,7 @@ export const categories = {
         title: "DE-224",
         type: "decorative corners",
         src: img224,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5444,7 +2837,7 @@ export const categories = {
         title: "DE-207A",
         type: "decorative corners",
         src: img207a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 60.00",
         description: {
           title: "description",
@@ -5460,7 +2853,7 @@ export const categories = {
         title: "DE-103A",
         type: "decorative corners",
         src: img103a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 45.00",
         description: {
           title: "description",
@@ -5475,7 +2868,7 @@ export const categories = {
         title: "DE-102",
         type: "decorative corners",
         src: img1022,
-        categorie: "internal",
+        category: "internal",
         price: "€ 60.00",
         description: {
           title: "description",
@@ -5490,7 +2883,7 @@ export const categories = {
         title: "DE-233A",
         type: "decorative corners",
         src: img233a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5505,7 +2898,7 @@ export const categories = {
         title: "DE-233",
         type: "decorative corners",
         src: img233,
-        categorie: "internal",
+        category: "internal",
         price: "€ 75.00",
         description: {
           title: "description",
@@ -5520,7 +2913,7 @@ export const categories = {
         title: "DE-227A",
         type: "decorative corners",
         src: img227a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5535,7 +2928,7 @@ export const categories = {
         title: "DE-227",
         type: "decorative corners",
         src: img227,
-        categorie: "internal",
+        category: "internal",
         price: "€ 75.00",
         description: {
           title: "description",
@@ -5550,7 +2943,7 @@ export const categories = {
         title: "DE-205A",
         type: "decorative corners",
         src: img205a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 45.00",
         description: {
           title: "description",
@@ -5565,7 +2958,7 @@ export const categories = {
         title: "DE-205",
         type: "decorative corners",
         src: img205,
-        categorie: "internal",
+        category: "internal",
         price: "€ 45.00",
         description: {
           title: "description",
@@ -5580,7 +2973,7 @@ export const categories = {
         title: "DE-204",
         type: "decorative corners",
         src: img204,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5595,7 +2988,7 @@ export const categories = {
         title: "DE-101",
         type: "decorative corners",
         src: img101,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5610,7 +3003,7 @@ export const categories = {
         title: "DE-101A",
         type: "decorative corners",
         src: img101a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 55.00",
         description: {
           title: "description",
@@ -5625,7 +3018,7 @@ export const categories = {
         title: "DE-104A",
         type: "decorative corners",
         src: img104a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 45.00",
         description: {
           title: "description",
@@ -5640,7 +3033,7 @@ export const categories = {
         title: "DE-105",
         type: "decorative corners",
         src: img105,
-        categorie: "internal",
+        category: "internal",
         price: "€ 45.00",
         description: {
           title: "description",
@@ -5655,7 +3048,7 @@ export const categories = {
         title: "DE-108",
         type: "decorative corners",
         src: img108,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5670,7 +3063,7 @@ export const categories = {
         title: "DE-110",
         type: "decorative corners",
         src: img110,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5685,7 +3078,7 @@ export const categories = {
         title: "DE-112",
         type: "decorative corners",
         src: img112,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5700,7 +3093,7 @@ export const categories = {
         title: "DE-116A",
         type: "decorative corners",
         src: img116a,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5715,7 +3108,7 @@ export const categories = {
         title: "DE-201",
         type: "decorative corners",
         src: img201,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5730,7 +3123,7 @@ export const categories = {
         title: "DE-203",
         type: "decorative corners",
         src: img203,
-        categorie: "internal",
+        category: "internal",
         price: "€ 65.00",
         description: {
           title: "description",
@@ -5747,7 +3140,7 @@ export const categories = {
         title: "IO-161",
         type: "Indirect light strips",
         src: I0161,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5762,7 +3155,7 @@ export const categories = {
         title: "IO-51",
         type: "Indirect light strips",
         src: I0051,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5777,7 +3170,7 @@ export const categories = {
         title: "IO-1A",
         type: "Indirect light strips",
         src: I001A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5792,7 +3185,7 @@ export const categories = {
         title: "IO-1AB",
         type: "Indirect light strips",
         src: I001AB,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5807,7 +3200,7 @@ export const categories = {
         title: "IO-1B",
         type: "Indirect light strips",
         src: I001B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5822,7 +3215,7 @@ export const categories = {
         title: "IO-2",
         type: "Indirect light strips",
         src: I002,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5837,7 +3230,7 @@ export const categories = {
         title: "IO-3A",
         type: "Indirect light strips",
         src: I003A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5852,7 +3245,7 @@ export const categories = {
         title: "IO-3AB",
         type: "Indirect light strips",
         src: I003AB,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5867,7 +3260,7 @@ export const categories = {
         title: "IO-3B",
         type: "Indirect light strips",
         src: I003B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5882,7 +3275,7 @@ export const categories = {
         title: "IO-4",
         type: "Indirect light strips",
         src: I004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5897,7 +3290,7 @@ export const categories = {
         title: "IO-6",
         type: "Indirect light strips",
         src: I006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5912,7 +3305,7 @@ export const categories = {
         title: "IO-7",
         type: "Indirect light strips",
         src: I007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5927,7 +3320,7 @@ export const categories = {
         title: "IO-8",
         type: "Indirect light strips",
         src: I008,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5942,7 +3335,7 @@ export const categories = {
         title: "IO-9",
         type: "Indirect light strips",
         src: I009,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5957,7 +3350,7 @@ export const categories = {
         title: "IO-10",
         type: "Indirect light strips",
         src: I010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5972,7 +3365,7 @@ export const categories = {
         title: "IO-11A",
         type: "Indirect light strips",
         src: I011A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -5987,7 +3380,7 @@ export const categories = {
         title: "IO-11AB",
         type: "Indirect light strips",
         src: I011AB,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6002,7 +3395,7 @@ export const categories = {
         title: "IO-12A",
         type: "Indirect light strips",
         src: I012A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6017,7 +3410,7 @@ export const categories = {
         title: "IO-12AB",
         type: "Indirect light strips",
         src: I012AB,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6032,7 +3425,7 @@ export const categories = {
         title: "IO-12B",
         type: "Indirect light strips",
         src: I012B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6047,7 +3440,7 @@ export const categories = {
         title: "IO-13A",
         type: "Indirect light strips",
         src: I013A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6062,7 +3455,7 @@ export const categories = {
         title: "IO-13AB",
         type: "Indirect light strips",
         src: I013AB,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6077,7 +3470,7 @@ export const categories = {
         title: "IO-13B",
         type: "Indirect light strips",
         src: I013B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6092,7 +3485,7 @@ export const categories = {
         title: "IO-14A",
         type: "Indirect light strips",
         src: I014A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6107,7 +3500,7 @@ export const categories = {
         title: "IO-14AB",
         type: "Indirect light strips",
         src: I014AB,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6122,7 +3515,7 @@ export const categories = {
         title: "IO-14B",
         type: "Indirect light strips",
         src: I014B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6137,7 +3530,7 @@ export const categories = {
         title: "IO-15A",
         type: "Indirect light strips",
         src: I015A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6152,7 +3545,7 @@ export const categories = {
         title: "IO-15AB",
         type: "Indirect light strips",
         src: I015AB,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6167,7 +3560,7 @@ export const categories = {
         title: "IO-15B",
         type: "Indirect light strips",
         src: I015B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6184,7 +3577,7 @@ export const categories = {
         title: "K-006",
         type: "cassettes",
         src: K006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6199,7 +3592,7 @@ export const categories = {
         title: "K-007",
         type: "cassettes",
         src: K007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6214,7 +3607,7 @@ export const categories = {
         title: "K-10",
         type: "internal",
         src: K010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6229,7 +3622,7 @@ export const categories = {
         title: "K-12",
         type: "cassettes",
         src: K012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6244,7 +3637,7 @@ export const categories = {
         title: "K-1",
         type: "cassettes",
         src: K01,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6259,7 +3652,7 @@ export const categories = {
         title: "K-4",
         type: "cassettes",
         src: K04,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6274,7 +3667,7 @@ export const categories = {
         title: "K-5",
         type: "cassettes",
         src: K05,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6289,7 +3682,7 @@ export const categories = {
         title: "K-8",
         type: "cassettes",
         src: K08,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6304,7 +3697,7 @@ export const categories = {
         title: "K-13",
         type: "cassettes",
         src: K013,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6321,7 +3714,7 @@ export const categories = {
         title: "K-4",
         type: "consoles",
         src: K004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6336,7 +3729,7 @@ export const categories = {
         title: "KO-12",
         type: "consoles",
         src: KO012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6351,7 +3744,7 @@ export const categories = {
         title: "KO-14",
         type: "consoles",
         src: KO014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6366,7 +3759,7 @@ export const categories = {
         title: "KO-17",
         type: "consoles",
         src: KO017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6381,7 +3774,7 @@ export const categories = {
         title: "KO-181",
         type: "consoles",
         src: KO0181,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6396,7 +3789,7 @@ export const categories = {
         title: "KO-18",
         type: "consoles",
         src: KO018,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6411,7 +3804,7 @@ export const categories = {
         title: "KO-19",
         type: "consoles",
         src: KO019,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6426,7 +3819,7 @@ export const categories = {
         title: "KO-20",
         type: "consoles",
         src: KO020,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6441,7 +3834,7 @@ export const categories = {
         title: "KO-3",
         type: "consoles",
         src: KO03,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6456,7 +3849,7 @@ export const categories = {
         title: "KO-2",
         type: "consoles",
         src: KO02,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6471,7 +3864,7 @@ export const categories = {
         title: "KO-5",
         type: "consoles",
         src: KO05,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6486,7 +3879,7 @@ export const categories = {
         title: "KO-6",
         type: "consoles",
         src: KO06,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6501,7 +3894,7 @@ export const categories = {
         title: "KO-7",
         type: "consoles",
         src: KO07,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6516,7 +3909,7 @@ export const categories = {
         title: "KO-8",
         type: "consoles",
         src: KO08,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6531,7 +3924,7 @@ export const categories = {
         title: "KO-9",
         type: "consoles",
         src: KO09,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6546,7 +3939,7 @@ export const categories = {
         title: "KO-10",
         type: "consoles",
         src: KO010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6561,7 +3954,7 @@ export const categories = {
         title: "KO-11",
         type: "consoles",
         src: KO011,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6576,7 +3969,7 @@ export const categories = {
         title: "KO-13",
         type: "consoles",
         src: KO013,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6593,7 +3986,7 @@ export const categories = {
         title: "LA-2",
         type: "lamps",
         src: LA002,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6608,7 +4001,7 @@ export const categories = {
         title: "LA-1",
         type: "lamps",
         src: LA001,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6623,7 +4016,7 @@ export const categories = {
         title: "LA-4",
         type: "lamps",
         src: LA004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6638,7 +4031,7 @@ export const categories = {
         title: "LA-5",
         type: "lamps",
         src: LA005,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6653,7 +4046,7 @@ export const categories = {
         title: "LA-6",
         type: "lamps",
         src: LA006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6668,7 +4061,7 @@ export const categories = {
         title: "LA-7",
         type: "lamps",
         src: LA007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6683,7 +4076,7 @@ export const categories = {
         title: "LA-8",
         type: "lamps",
         src: LA008,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6700,7 +4093,7 @@ export const categories = {
         title: "LA-7",
         type: "ornaments",
         src: LA007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6715,7 +4108,7 @@ export const categories = {
         title: "OR-23",
         type: "ornaments",
         src: OR023,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6730,7 +4123,7 @@ export const categories = {
         title: "OR-25",
         type: "ornaments",
         src: OR025,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6745,7 +4138,7 @@ export const categories = {
         title: "OR-72",
         type: "ornaments",
         src: OR072,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6760,7 +4153,7 @@ export const categories = {
         title: "OR-76",
         type: "ornaments",
         src: OR076,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6775,7 +4168,7 @@ export const categories = {
         title: "OR-27",
         type: "ornaments",
         src: OR027,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6790,7 +4183,7 @@ export const categories = {
         title: "OR-82",
         type: "ornaments",
         src: OR082,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6805,7 +4198,7 @@ export const categories = {
         title: "OR-87",
         type: "ornaments",
         src: OR087,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6820,7 +4213,7 @@ export const categories = {
         title: "OR-92",
         type: "ornaments",
         src: OR092,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6835,7 +4228,7 @@ export const categories = {
         title: "OR-99",
         type: "ornaments",
         src: OR099,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6850,7 +4243,7 @@ export const categories = {
         title: "OR-101",
         type: "ornaments",
         src: OR101,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6865,7 +4258,7 @@ export const categories = {
         title: "OR-108",
         type: "ornaments",
         src: OR108,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6880,7 +4273,7 @@ export const categories = {
         title: "OR-109",
         type: "ornaments",
         src: OR109,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6895,7 +4288,7 @@ export const categories = {
         title: "OR-29",
         type: "ornaments",
         src: OR029,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6910,7 +4303,7 @@ export const categories = {
         title: "OR-34",
         type: "ornaments",
         src: OR034,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6925,7 +4318,7 @@ export const categories = {
         title: "OR-41",
         type: "ornaments",
         src: OR041,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6940,7 +4333,7 @@ export const categories = {
         title: "OR-48",
         type: "ornaments",
         src: OR048,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6955,7 +4348,7 @@ export const categories = {
         title: "OR-50",
         type: "ornaments",
         src: OR050,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6970,7 +4363,7 @@ export const categories = {
         title: "OR-53",
         type: "ornaments",
         src: OR053,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -6985,7 +4378,7 @@ export const categories = {
         title: "OR-54",
         type: "ornaments",
         src: OR054,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7000,7 +4393,7 @@ export const categories = {
         title: "OR-55",
         type: "ornaments",
         src: OR055,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7015,7 +4408,7 @@ export const categories = {
         title: "OR-59",
         type: "ornaments",
         src: OR059,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7030,7 +4423,7 @@ export const categories = {
         title: "OR-60",
         type: "ornaments",
         src: OR060,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7045,7 +4438,7 @@ export const categories = {
         title: "OR-64",
         type: "ornaments",
         src: OR064,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7060,7 +4453,7 @@ export const categories = {
         title: "OR-70",
         type: "ornaments",
         src: OR070,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7075,7 +4468,7 @@ export const categories = {
         title: "OR-81",
         type: "ornaments",
         src: OR081,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7091,7 +4484,7 @@ export const categories = {
         title: "OR-86",
         type: "ornaments",
         src: OR086,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7106,7 +4499,7 @@ export const categories = {
         title: "OR-88",
         type: "ornaments",
         src: OR088,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7121,7 +4514,7 @@ export const categories = {
         title: "OR-89",
         type: "ornaments",
         src: OR089,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7136,7 +4529,7 @@ export const categories = {
         title: "OR-90",
         type: "ornaments",
         src: OR090,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7151,7 +4544,7 @@ export const categories = {
         title: "OR-91",
         type: "ornaments",
         src: OR091,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7166,7 +4559,7 @@ export const categories = {
         title: "OR-93",
         type: "ornaments",
         src: OR093,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7181,7 +4574,7 @@ export const categories = {
         title: "OR-97",
         type: "ornaments",
         src: OR097,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7196,7 +4589,7 @@ export const categories = {
         title: "OR-98",
         type: "ornaments",
         src: OR098,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7211,7 +4604,7 @@ export const categories = {
         title: "OR-100",
         type: "ornaments",
         src: OR100,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7226,7 +4619,7 @@ export const categories = {
         title: "OR-104",
         type: "ornaments",
         src: OR104,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7241,7 +4634,7 @@ export const categories = {
         title: "OR-105",
         type: "ornaments",
         src: OR105,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7256,7 +4649,7 @@ export const categories = {
         title: "OR-107",
         type: "ornaments",
         src: OR107,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7271,7 +4664,7 @@ export const categories = {
         title: "OR-110",
         type: "ornaments",
         src: OR110,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7286,7 +4679,7 @@ export const categories = {
         title: "OR-111",
         type: "ornaments",
         src: OR111,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7301,7 +4694,7 @@ export const categories = {
         title: "OR-112",
         type: "ornaments",
         src: OR112,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7316,7 +4709,7 @@ export const categories = {
         title: "OR-114",
         type: "ornaments",
         src: OR114,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7331,7 +4724,7 @@ export const categories = {
         title: "OR-115",
         type: "ornaments",
         src: OR115,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7348,7 +4741,7 @@ export const categories = {
         title: "PB-8",
         type: "pilaster",
         src: PB8,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7363,7 +4756,7 @@ export const categories = {
         title: "PB-16",
         type: "pilaster",
         src: PB16,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7378,7 +4771,7 @@ export const categories = {
         title: "PB-20",
         type: "pilaster",
         src: PB20,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7393,7 +4786,7 @@ export const categories = {
         title: "PB-30",
         type: "pilaster",
         src: PB30,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7408,7 +4801,7 @@ export const categories = {
         title: "PK-8",
         type: "pilaster",
         src: PK8B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7423,7 +4816,7 @@ export const categories = {
         title: "PK-12",
         type: "pilaster",
         src: PK12,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7438,7 +4831,7 @@ export const categories = {
         title: "PK-16",
         type: "pilaster",
         src: PK16,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7453,7 +4846,7 @@ export const categories = {
         title: "PK-20",
         type: "pilaster",
         src: PK20,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7468,7 +4861,7 @@ export const categories = {
         title: "PK-30",
         type: "pilaster",
         src: PK30A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7483,7 +4876,7 @@ export const categories = {
         title: "PK-30",
         type: "pilaster",
         src: PK30B,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7498,7 +4891,7 @@ export const categories = {
         title: "P-18",
         type: "pilaster",
         src: P18,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7515,7 +4908,7 @@ export const categories = {
         title: "RL-104",
         type: "frame moldings",
         src: img104,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7530,7 +4923,7 @@ export const categories = {
         title: "RL-120",
         type: "frame moldings",
         src: img120,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7545,7 +4938,7 @@ export const categories = {
         title: "RL-119",
         type: "frame moldings",
         src: img119,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7560,7 +4953,7 @@ export const categories = {
         title: "RL-118",
         type: "frame moldings",
         src: img118,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7575,7 +4968,7 @@ export const categories = {
         title: "RL-116",
         type: "frame moldings",
         src: img116A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7590,7 +4983,7 @@ export const categories = {
         title: "RL-113",
         type: "frame moldings",
         src: img113,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7605,7 +4998,7 @@ export const categories = {
         title: "RL-107",
         type: "frame moldings",
         src: img107,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7620,7 +5013,7 @@ export const categories = {
         title: "RL-106",
         type: "frame moldings",
         src: img106,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7635,7 +5028,7 @@ export const categories = {
         title: "RL-102",
         type: "frame moldings",
         src: img102,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7650,7 +5043,7 @@ export const categories = {
         title: "RL-101",
         type: "frame moldings",
         src: img101A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7665,7 +5058,7 @@ export const categories = {
         title: "RL-104",
         type: "frame moldings",
         src: img104A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7680,7 +5073,7 @@ export const categories = {
         title: "RL-109",
         type: "frame moldings",
         src: img109A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7695,7 +5088,7 @@ export const categories = {
         title: "RL-111",
         type: "frame moldings",
         src: img111A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7710,7 +5103,7 @@ export const categories = {
         title: "RL-112",
         type: "frame moldings",
         src: img112A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7725,7 +5118,7 @@ export const categories = {
         title: "RL-114",
         type: "frame moldings",
         src: img114A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7740,7 +5133,7 @@ export const categories = {
         title: "RL-116",
         type: "frame moldings",
         src: img1161,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7755,7 +5148,7 @@ export const categories = {
         title: "RL-118",
         type: "frame moldings",
         src: img118A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7770,7 +5163,7 @@ export const categories = {
         title: "RL-121",
         type: "frame moldings",
         src: img121A,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7785,7 +5178,7 @@ export const categories = {
         title: "RL-141",
         type: "frame moldings",
         src: img1141,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7802,7 +5195,7 @@ export const categories = {
         title: "RL-104",
         type: "rosettes",
         src: img104,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7817,7 +5210,7 @@ export const categories = {
         title: "RH-4",
         type: "rosettes",
         src: RH04,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7832,7 +5225,7 @@ export const categories = {
         title: "RG-6",
         type: "rosettes",
         src: RG006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 260.00",
         description: {
           title: "description",
@@ -7847,7 +5240,7 @@ export const categories = {
         title: "RG-14",
         type: "rosettes",
         src: RG006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 40.00",
         description: {
           title: "description",
@@ -7862,7 +5255,7 @@ export const categories = {
         title: "RG-8",
         type: "rosettes",
         src: RG008,
-        categorie: "internal",
+        category: "internal",
         price: "€ 75.00",
         description: {
           title: "description",
@@ -7877,7 +5270,7 @@ export const categories = {
         title: "RG-9",
         type: "rosettes",
         src: RG009,
-        categorie: "internal",
+        category: "internal",
         price: "€ 95.00",
         description: {
           title: "description",
@@ -7892,7 +5285,7 @@ export const categories = {
         title: "RG-12",
         type: "rosettes",
         src: RG012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 105.00",
         description: {
           title: "description",
@@ -7907,7 +5300,7 @@ export const categories = {
         title: "RG-13",
         type: "rosettes",
         src: RG012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 55.00",
         description: {
           title: "description",
@@ -7922,7 +5315,7 @@ export const categories = {
         title: "RC-3",
         type: "rosettes",
         src: RC003,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7937,7 +5330,7 @@ export const categories = {
         title: "RC-4",
         type: "rosettes",
         src: RC004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7952,7 +5345,7 @@ export const categories = {
         title: "RC-14",
         type: "rosettes",
         src: RC014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7967,7 +5360,7 @@ export const categories = {
         title: "RC-17",
         type: "rosettes",
         src: RC017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7982,7 +5375,7 @@ export const categories = {
         title: "RE-5",
         type: "rosettes",
         src: RE005,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -7997,7 +5390,7 @@ export const categories = {
         title: "RE-12",
         type: "rosettes",
         src: RE012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8012,7 +5405,7 @@ export const categories = {
         title: "RE-14",
         type: "rosettes",
         src: RE014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8027,7 +5420,7 @@ export const categories = {
         title: "RE-15",
         type: "rosettes",
         src: RE015,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8042,7 +5435,7 @@ export const categories = {
         title: "RE-21",
         type: "rosettes",
         src: RE021,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8057,7 +5450,7 @@ export const categories = {
         title: "RE-22",
         type: "rosettes",
         src: RE022,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8072,7 +5465,7 @@ export const categories = {
         title: "RE-24",
         type: "rosettes",
         src: RE024,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8087,7 +5480,7 @@ export const categories = {
         title: "RD-3",
         type: "rosettes",
         src: RD003,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8102,7 +5495,7 @@ export const categories = {
         title: "RD-12",
         type: "rosettes",
         src: RD012,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8117,7 +5510,7 @@ export const categories = {
         title: "RF-1",
         type: "rosettes",
         src: RF001,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8132,7 +5525,7 @@ export const categories = {
         title: "RF-3",
         type: "rosettes",
         src: RF003,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8147,7 +5540,7 @@ export const categories = {
         title: "RF-7",
         type: "rosettes",
         src: RF007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8162,7 +5555,7 @@ export const categories = {
         title: "RF-6",
         type: "rosettes",
         src: RF006,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8177,7 +5570,7 @@ export const categories = {
         title: "RF-10",
         type: "rosettes",
         src: RF010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8192,7 +5585,7 @@ export const categories = {
         title: "RF-13",
         type: "rosettes",
         src: RF013,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8207,7 +5600,7 @@ export const categories = {
         title: "RF-14",
         type: "rosettes",
         src: RF014,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8222,7 +5615,7 @@ export const categories = {
         title: "RF-16",
         type: "rosettes",
         src: RF016,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8237,7 +5630,7 @@ export const categories = {
         title: "RF-17",
         type: "rosettes",
         src: RF017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8252,7 +5645,7 @@ export const categories = {
         title: "RF-5",
         type: "rosettes",
         src: RF005,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8267,7 +5660,7 @@ export const categories = {
         title: "RF-11",
         type: "rosettes",
         src: RF011,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8282,7 +5675,7 @@ export const categories = {
         title: "RF-7",
         type: "rosettes",
         src: RH07,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8297,7 +5690,7 @@ export const categories = {
         title: "RF-9",
         type: "rosettes",
         src: RH09,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8312,7 +5705,7 @@ export const categories = {
         title: "RF-10",
         type: "rosettes",
         src: RH10,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8327,7 +5720,7 @@ export const categories = {
         title: "RF-16",
         type: "rosettes",
         src: RH016,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8342,7 +5735,7 @@ export const categories = {
         title: "RH-17",
         type: "rosettes",
         src: RH017,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8357,7 +5750,7 @@ export const categories = {
         title: "RH-18",
         type: "rosettes",
         src: RH018,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8372,7 +5765,7 @@ export const categories = {
         title: "RH-19",
         type: "rosettes",
         src: RH019,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8387,7 +5780,7 @@ export const categories = {
         title: "RH-20",
         type: "rosettes",
         src: RH020,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8402,7 +5795,7 @@ export const categories = {
         title: "RG-4",
         type: "rosettes",
         src: RG004,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8417,7 +5810,7 @@ export const categories = {
         title: "RG-7",
         type: "rosettes",
         src: RG007,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8432,7 +5825,7 @@ export const categories = {
         title: "RG-10",
         type: "rosettes",
         src: RG010,
-        categorie: "internal",
+        category: "internal",
         price: "€ 90.00",
         description: {
           title: "description",
@@ -8449,7 +5842,7 @@ export const categories = {
         title: "SP-1",
         type: "supraport",
         src: SP01,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8464,7 +5857,7 @@ export const categories = {
         title: "SP-3",
         type: "supraport",
         src: SP03,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8479,7 +5872,7 @@ export const categories = {
         title: "SP-4",
         type: "supraport",
         src: SP04,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8494,7 +5887,7 @@ export const categories = {
         title: "SP-5",
         type: "supraport",
         src: SP05,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8509,7 +5902,7 @@ export const categories = {
         title: "SP-6",
         type: "supraport",
         src: SP06,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8524,7 +5917,7 @@ export const categories = {
         title: "SP-7",
         type: "supraport",
         src: SP07,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",
@@ -8539,7 +5932,7 @@ export const categories = {
         title: "SP-2",
         type: "supraport",
         src: SP02,
-        categorie: "internal",
+        category: "internal",
         price: "€ 0.00",
         description: {
           title: "description",

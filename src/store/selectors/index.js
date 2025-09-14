@@ -2,7 +2,7 @@ export const isLoadingSelector = (state) => state.loading.isLoading;
 //header links
 export const isShowMenuSelector = (state) => state.menu.isShowMenu;
 //categories
-export const selectedCategorieSelector = (state) =>
+export const selectedCategorySelector = (state) =>
   state.categories.selectedCategorie;
 export const productsSelector = (state) => state.categories.products;
 export const selectedProductSelector = (state) =>

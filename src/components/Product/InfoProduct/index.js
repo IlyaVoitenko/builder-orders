@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import { selectedProductSelector } from "../../../store/selectors";
 import Navigation from "./Navigation";
 import PriceAndName from "./PriceAndName";
-import CurrentCategorie from "./CurrentCategorie";
+import CurrentCategory from "./CurrentCategory";
 import DescriptionProduct from "./DescriptionProduct";
 import { Helmet } from "react-helmet-async";
 import { useParams } from "react-router-dom";
@@ -15,7 +15,7 @@ const InfoProduct = () => {
       <Helmet>
         <title>
           Stuckwerkstatt Voitenko | {product?.title} |{" "}
-          {product.subcategorie || product.type}
+          {product.subcategory || product.type}
         </title>
         <meta
           name="description"
@@ -24,14 +24,14 @@ const InfoProduct = () => {
           } has high quality and is available for purchase. It belongs to the category ${
             product?.categorie
           } and subcategory ${
-            product?.subcategorie || product?.type
+            product?.subcategory || product?.type
           }. The price is ${product?.price}.`}
         />
         <link rel="canonical" href={`https://builder-orders.vercel.app/`} />
         <meta
           property="og:title"
           content={`Stuckwerkstatt Voitenko | ${product?.title} | ${
-            product.subcategorie || product.type
+            product.subcategory || product.type
           }
 `}
         />
@@ -40,9 +40,9 @@ const InfoProduct = () => {
           content={`The product ${
             product?.title
           } has high quality and is available for purchase. It belongs to the category ${
-            product?.categorie
+            product?.category
           } and subcategory ${
-            product?.subcategorie || product?.type
+            product?.subcategory || product?.type
           }. The price is ${product?.price}.`}
         />
         <meta
@@ -58,7 +58,7 @@ const InfoProduct = () => {
         <meta
           name="twitter:title"
           content={`Stuckwerkstatt Voitenko | ${product?.title} | ${
-            product.subcategorie || product.type
+            product.subcategory || product.type
           }`}
         />
         <meta
@@ -66,9 +66,9 @@ const InfoProduct = () => {
           content={`The product ${
             product?.title
           } has high quality and is available for purchase. It belongs to the category ${
-            product?.categorie
+            product?.category
           } and subcategory ${
-            product?.subcategorie || product?.type
+            product?.subcategory || product?.type
           }. The price is ${product?.price}.`}
         />
         <meta
@@ -78,8 +78,8 @@ const InfoProduct = () => {
       </Helmet>
       <div className="flex flex-col w-screen 2xl:h-[80vh]">
         <Navigation
-          categorie={product.categorie}
-          subcategorie={product.subcategorie || product.type}
+          category={product.category}
+          subcategory={product.subcategory || product.type}
           nameProduct={product.title}
         />
         <div className=" flex flex-row max-lg:flex-col  justify-center max-lg:items-center	mt-3">
@@ -90,9 +90,9 @@ const InfoProduct = () => {
           />
           <div className="flex flex-col justify-center items-center max-md:mt-[1rem]">
             <PriceAndName nameProduct={product.title} price={product.price} />
-            <CurrentCategorie
-              subcategorie={product.type}
-              categorie={product.categorie}
+            <CurrentCategory
+              subcategory={product.type}
+              category={product.category}
             />
           </div>
         </div>

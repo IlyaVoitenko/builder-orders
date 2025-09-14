@@ -3,18 +3,18 @@ import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
 import {
   setProducts,
-  setSelectedCategorie,
+  setSelectedCategory,
 } from "../../../../../../store/reducer/categories";
 import { goToTop } from "../../../../../../utils/helpers";
 
 const MenuItem = ({ item, index, linkText }) => {
-  const { categorie, subcategorie } = item;
+  const { categorie, subcategory } = item;
   const dispatch = useDispatch();
   return (
     <Link
       to={item.link}
       onClick={() => {
-        dispatch(setSelectedCategorie(subcategorie));
+        dispatch(setSelectedCategory(subcategory));
         dispatch(setProducts(categorie));
         goToTop();
       }}

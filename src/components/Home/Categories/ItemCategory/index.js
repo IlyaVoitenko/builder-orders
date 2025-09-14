@@ -5,7 +5,7 @@ import {
 } from "../../../../store/selectors";
 import { useSelector } from "react-redux";
 
-const ItemCategorie = ({ item, id }) => {
+const ItemCategory = ({ item, id }) => {
   const translate = useSelector(translateSelector);
   const currentLanguage = useSelector(currentLanguageSelector);
   console.log(
@@ -43,4 +43,4 @@ const ItemCategorie = ({ item, id }) => {
   );
 };
 
-export default ItemCategorie;
+export default ItemCategory;

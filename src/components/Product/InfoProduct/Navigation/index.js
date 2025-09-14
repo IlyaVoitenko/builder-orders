@@ -2,28 +2,29 @@ import React from "react";
 import { translateSelector } from "../../../../store/selectors";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
-import { validationCategorieName } from "../../../../utils/helpers";
+import { validationCategoryName } from "../../../../utils/helpers";
 
-const Navigation = ({ categorie, subcategorie, nameProduct }) => {
+const Navigation = ({ category, subcategory, nameProduct }) => {
   const translate = useSelector(translateSelector);
   const home = translate?.header.navigate.home;
-  const toLowerCaseSubcategorie = subcategorie?.toLowerCase();
-  const validSubcategorie = validationCategorieName(toLowerCaseSubcategorie);
-
+  const toLowerCaseSubcategory = subcategory?.toLowerCase();
+  const validSubcategory = validationCategoryName(toLowerCaseSubcategory);
+  console.log(translate, "translate");
+  console.log("category", category, "-----", validSubcategory);
   return (
     <nav className="flex justify-center	">
       <Link to="/" className="pr-1 pl-1">
         {home.toLowerCase()}
       </Link>
       /
-      <Link to="/products-categories" className="pr-1 pl-1">
-        {translate?.productsCategories.categories[categorie].titleCategorie}
+      <Link to="/products-category" className="pr-1 pl-1">
+        {translate?.productsCategory.categories[category].titleCategory}
       </Link>
       /
-      <Link to="/products-categories" className="pr-1 pl-1">
+      <Link to="/products-category" className="pr-1 pl-1">
         {
-          translate?.productsCategories.categories[categorie].categoriesTypes[
-            validSubcategorie
+          translate?.productsCategory.categories[category].categoriesTypes[
+            validSubcategory
           ]
         }
       </Link>

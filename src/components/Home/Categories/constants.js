@@ -6,7 +6,6 @@ import { useSelector } from "react-redux";
 import K6 from "../../../assets/images/K-006-300x300.png";
 import DS104 from "../../../assets/images/DS-104-2-300x300.png";
 import img102 from "../../../assets/images/102-2-300x300 (1).png";
-import KO4 from "../../../assets/images/KO-004-300x300.png";
 import RG6 from "../../../assets/images/RG006-600x601.png";
 
 import shortid from "shortid";
@@ -16,27 +15,27 @@ export const categoriesList = [
     src: img102,
     title: "EN-123",
     price: "€ 0.00",
-    link: "/products-categories",
-    categorie: "internal",
-    subcategorie: "decorativeCorners",
+    link: "/products-category",
+    category: "internal",
+    subcategory: "decorativeCorners",
   },
   {
     id: shortid.generate(),
     src: K6,
     title: "EN-123",
     price: "€ 0.00",
-    link: "/products-categories",
-    categorie: "internal",
-    subcategorie: "cassettes",
+    link: "/products-category",
+    category: "internal",
+    subcategory: "cassettes",
   },
   {
     id: shortid.generate(),
     src: DS104,
     title: "EN-123",
     price: "€ 0.00",
-    link: "/products-categories",
-    categorie: "internal",
-    subcategorie: "ceilingmirror",
+    link: "/products-category",
+    category: "internal",
+    subcategory: "ceilingmirror",
   },
 
   {
@@ -44,9 +43,9 @@ export const categoriesList = [
     src: RG6,
     title: "RG-6",
     price: "€ 260.00",
-    link: "/products-categories",
-    categorie: "internal",
-    subcategorie: "rosettes",
+    link: "/products-category",
+    category: "internal",
+    subcategory: "rosettes",
   },
 ];
 

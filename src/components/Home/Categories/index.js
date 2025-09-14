@@ -1,5 +1,5 @@
 import React from "react";
-import ItemCategorie from "./ItemCategorie";
+import ItemCategory from "./ItemCategory";
 import { categoriesList } from "./constants";
 
 const Categories = () => {
@@ -7,7 +7,7 @@ const Categories = () => {
     <div className="flex  w-3/4 max-sm:w-[95%] flex-row	justify-around flex-wrap mt-5">
       {categoriesList &&
         categoriesList.map((item, index) => (
-          <ItemCategorie key={item.id} item={item} id={index + 1} />
+          <ItemCategory key={item.id} item={item} id={index + 1} />
         ))}
     </div>
   );

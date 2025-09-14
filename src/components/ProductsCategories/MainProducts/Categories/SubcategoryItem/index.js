@@ -1,47 +1,50 @@
 import React, { useEffect } from "react";
 import {
-  setSelectedCategorie,
+  setSelectedCategory,
   setProducts,
 } from "../../../../../store/reducer/categories";
 import {
   translateSelector,
-  selectedCategorieSelector,
+  selectedCategorySelector,
+  selectedProductSelector,
 } from "../../../../../store/selectors";
 import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { goToTop } from "../../../../../utils/helpers";
 
-const SubcategorieItem = ({
+const SubcategoryItem = ({
   item,
-  сategorieTranslater,
+  categoryTranslator,
   isProductsCategoriesPage,
 }) => {
   const dispatch = useDispatch();
   const translate = useSelector(translateSelector);
-  const selectedCategorie = useSelector(selectedCategorieSelector);
+  const selectedCategory = useSelector(selectedCategorySelector);
+  const selectedProduct = useSelector(selectedProductSelector);
   const navigate = useNavigate();
 
-  useEffect(() => {}, [selectedCategorie]);
+  useEffect(() => {}, [selectedCategory]);
+  console.log(selectedProduct.subcategory, "---", selectedCategory);
   return (
     <div
       className={`text-left pl-5 cursor-pointer
-      ${selectedCategorie === item && "text-blue-600"}
+      ${selectedCategory === item && "text-blue-600"}
       `}
       onClick={() => {
-        dispatch(setSelectedCategorie(item));
-        dispatch(setProducts(сategorieTranslater));
+        dispatch(setSelectedCategory(item));
+        dispatch(setProducts(categoryTranslator));
         goToTop();
         if (isProductsCategoriesPage) {
-          navigate("/products-categories");
+          navigate("/products-category");
         }
       }}
     >
       {
-        translate?.productsCategories.categories[сategorieTranslater]
+        translate?.productsCategory.categories[categoryTranslator]
           .categoriesTypes[item]
       }
     </div>
   );
 };
 
-export default SubcategorieItem;
+export default SubcategoryItem;

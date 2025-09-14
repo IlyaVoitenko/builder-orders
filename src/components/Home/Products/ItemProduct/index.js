@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import {
-  setSelectedCategorie,
+  setSelectedCategory,
   setSelectedProduct,
 } from "../../../../store/reducer/categories";
 import { useDispatch } from "react-redux";
@@ -12,7 +12,7 @@ const ItemProduct = ({ item }) => {
       to={`/product/${encodeURIComponent(item.title.trim())}`}
       target="_blank"
       onClick={() => {
-        dispatch(setSelectedCategorie(item.subcategorie || item.type));
+        dispatch(setSelectedCategory(item.subcategory || item.type));
         dispatch(setSelectedProduct(item));
       }}
     >

@@ -7,7 +7,7 @@ const DescriptionProduct = ({ price }) => {
   return (
     <article className="flex flex-col w-[74%]	pl-2 mt-7 border-l-2  border-blue-500 text-left">
       <p>
-        {translate?.product.discription.unitPrice} :{" "}
+        {translate?.product?.description?.unitPrice} :{" "}
         <span className="text-blue-500">{price}</span>
       </p>
     </article>

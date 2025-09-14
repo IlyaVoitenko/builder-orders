@@ -22,7 +22,7 @@ const ListInfo = () => {
           <Link to="/">{translate?.header?.info?.PrivacyPolicy}</Link>
         </li>
         <li>
-          <Link to="/products-categories">
+          <Link to="/products-category">
             {translate?.header?.info?.Catalog}
           </Link>
         </li>
