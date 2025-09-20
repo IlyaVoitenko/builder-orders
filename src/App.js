@@ -1,4 +1,4 @@
-import React, { lazy } from "react";
+import { lazy } from "react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
@@ -12,6 +12,8 @@ const Product = lazy(() => import("./pages/ProductPage"));
 const StuccoWork = lazy(() => import("./pages/StuccoWork"));
 const CustomMoulding = lazy(() => import("./pages/CustomMouldingPage"));
 const SpecialFabrication = lazy(() => import("./pages/SpecialFabrication"));
+const SiteNotice = lazy(() => import("./pages/SiteNoticePage"));
+const PrivacyPolicy = lazy(() => import("./pages/PrivacyPolicyPage"));
 
 function App() {
   return (
@@ -29,6 +31,8 @@ function App() {
               path="/special-fabrication"
               element={<SpecialFabrication />}
             />
+            <Route path="/site-notice" element={<SiteNotice />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           </Route>
         </Routes>
       </BrowserRouter>
