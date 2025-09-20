@@ -30,17 +30,8 @@ import IMG6f131f778228efd8929e31cdeb4f02f4 from "../../../assets/images/IMG-6f13
 import interior from "../../../assets/images/interior.jpg";
 import largeFr from "../../../assets/images/large_Fr 020.JPG";
 
-import Grh12 from "../../../assets/images/Grh12.webp";
 import Bog7 from "../../../assets/images/Bog7.webp";
 import DSC_1098 from "../../../assets/images/DSC_1098-_2_.webp";
-
-export const wholesaleRetail = [
-  {
-    id: shortid.generate(),
-    alt: "wholesaleRetail",
-    src: Grh12,
-  },
-];
 
 export const custom = [
   {

@@ -1480,7 +1480,7 @@ export const categories = {
         price: "€ 260.00",
         description: {
           title: "description",
-          size: "/100 &#8960;/кг: 31.7",
+          size: "/100 ⌀/кг: 31.7",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1495,7 +1495,7 @@ export const categories = {
         price: "€ 75.00",
         description: {
           title: "description",
-          size: "/60 &#8960;/кг: 4,5",
+          size: "/60 ⌀/кг: 4,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1510,7 +1510,7 @@ export const categories = {
         price: "€ 95.00",
         description: {
           title: "description",
-          size: "/65 &#8960;/кг: 7,4",
+          size: "/65 ⌀/кг: 7,4",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -1525,7 +1525,7 @@ export const categories = {
         price: "€ 105.00",
         description: {
           title: "description",
-          size: "/70 &#8960;/кг: 6.7",
+          size: "/70 ⌀/кг: 6.7",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5228,7 +5228,7 @@ export const categories = {
         price: "€ 260.00",
         description: {
           title: "description",
-          size: "/100 &#8960;/кг: 31.7",
+          size: "/100 ⌀/кг: 31.7",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5243,7 +5243,7 @@ export const categories = {
         price: "€ 40.00",
         description: {
           title: "description",
-          size: "/35  &#8960;/кг: 2.5 - 4.0 ",
+          size: "/35  ⌀/кг: 2.5 - 4.0 ",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5258,7 +5258,7 @@ export const categories = {
         price: "€ 75.00",
         description: {
           title: "description",
-          size: "/60 &#8960;/кг: 4,5",
+          size: "/60 ⌀/кг: 4,5",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5273,7 +5273,7 @@ export const categories = {
         price: "€ 95.00",
         description: {
           title: "description",
-          size: "/65 &#8960;/кг: 7,4",
+          size: "/65 ⌀/кг: 7,4",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5288,7 +5288,7 @@ export const categories = {
         price: "€ 105.00",
         description: {
           title: "description",
-          size: "/70 &#8960;/кг: 6.7",
+          size: "/70 ⌀/кг: 6.7",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5303,7 +5303,7 @@ export const categories = {
         price: "€ 55.00",
         description: {
           title: "description",
-          size: "/50 &#8960;/кг: 4.0",
+          size: "/50 ⌀/кг: 4.0",
           connect: " RL 103",
           price: "Цена за единицу:",
         },
@@ -5828,7 +5828,7 @@ export const categories = {
         price: "€ 90.00",
         description: {
           title: "description",
-          size: "/65 &#8960;/кг: 5,3",
+          size: "/65 ⌀/кг: 5,3",
           connect: " RL 103",
           price: "Цена за единицу:",
         },

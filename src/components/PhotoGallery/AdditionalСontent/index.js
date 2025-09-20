@@ -4,7 +4,7 @@ import { translateSelector } from "../../../store/selectors";
 
 const AdditionalСontent = ({ pageName }) => {
   const translate = useSelector(translateSelector);
-  const { AdditionalСontent } = translate?.photoGallery[pageName] || {};
+  const { AdditionalСontent } = translate?.infoPages[pageName] || {};
   return (
     <div className="w-[71%] max-lg:w-[85%] max-lg:text-sm">
       {AdditionalСontent &&
@@ -12,7 +12,7 @@ const AdditionalСontent = ({ pageName }) => {
           <>
             <p key={index} className="mt-4 mb-4">
               {
-                translate.photoGallery[pageName].AdditionalСontent[index][
+                translate.infoPages[pageName].AdditionalСontent[index][
                   `p-${index}`
                 ]
               }

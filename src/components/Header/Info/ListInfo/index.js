@@ -21,11 +21,11 @@ const ListInfo = () => {
         <li>
           <Link to="/">{translate?.header?.info?.PrivacyPolicy}</Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/products-category">
             {translate?.header?.info?.Catalog}
           </Link>
-        </li>
+        </li> */}
         <li
           className={
             currentLanguage === "de"

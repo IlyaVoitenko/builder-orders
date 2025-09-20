@@ -9,15 +9,16 @@ import { useLocation } from "react-router-dom";
 const Main = ({ pageName, imageList }) => {
   const translate = useSelector(translateSelector);
   const { pathname } = useLocation();
+
   return (
     <main className="flex flex-col  items-center justify-center text-left ">
       <Helmet>
         <title>
-          Stuckwerkstatt Voitenko | {translate?.photoGallery[pageName].title}
+          Stuckwerkstatt Voitenko | {translate?.infoPages[pageName].title}
         </title>
         <meta
           name="description"
-          content={translate.photoGallery[pageName].context[0][`p-${0}`]}
+          content={translate.infoPages[pageName].context[0][`p-${0}`]}
         />
         <link
           rel="canonical"
@@ -25,11 +26,11 @@ const Main = ({ pageName, imageList }) => {
         />
         <meta
           property="og:title"
-          content={`Stuckwerkstatt Voitenko | ${translate?.photoGallery[pageName].title}`}
+          content={`Stuckwerkstatt Voitenko | ${translate?.infoPages[pageName].title}`}
         />
         <meta
           property="og:description"
-          content={translate.photoGallery[pageName].context[0][`p-${0}`]}
+          content={translate.infoPages[pageName].context[0][`p-${0}`]}
         />
         <meta property="og:url" content="https://builder-orders.vercel.app/" />
         <meta property="og:type" content="website" />
@@ -40,7 +41,7 @@ const Main = ({ pageName, imageList }) => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content={`Stuckwerkstatt Voitenko | ${translate?.photoGallery[pageName].title}`}
+          content={`Stuckwerkstatt Voitenko | ${translate?.infoPages[pageName].title}`}
         />
         <meta
           name="twitter:description"
@@ -53,7 +54,7 @@ const Main = ({ pageName, imageList }) => {
       </Helmet>
       <Title pageName={pageName} />
       <Content pageName={pageName} />
-      <Gallery imageList={imageList} />
+      {imageList && <Gallery imageList={imageList} />}
       <AdditionalСontent pageName={pageName} />
     </main>
   );

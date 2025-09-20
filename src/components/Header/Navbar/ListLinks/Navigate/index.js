@@ -49,11 +49,6 @@ const Navigate = () => {
           </Link>
         </nav>
       </li>
-      <li>
-        <nav>
-          <Link to="/">{translate?.header?.navigate?.loginDetails}</Link>
-        </nav>
-      </li>
 
       <li>{width < 1024 ? <ListInfo /> : null}</li>
     </ul>

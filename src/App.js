@@ -9,7 +9,6 @@ const Home = lazy(() => import("./pages/HomePage"));
 const PhotoGallery = lazy(() => import("./pages/PhotoGalleryPage"));
 const ProductsCategories = lazy(() => import("./pages/ProductsCategoriesPage"));
 const Product = lazy(() => import("./pages/ProductPage"));
-const WholesaleAndRetail = lazy(() => import("./pages/WholesaleAndRetailPage"));
 const StuccoWork = lazy(() => import("./pages/StuccoWork"));
 const CustomMoulding = lazy(() => import("./pages/CustomMouldingPage"));
 const SpecialFabrication = lazy(() => import("./pages/SpecialFabrication"));
@@ -24,7 +23,6 @@ function App() {
             <Route path="/photo-gallery" element={<PhotoGallery />} />
             <Route path="/product/:nameProduct" element={<Product />} />
             <Route path="/products-category" element={<ProductsCategories />} />
-            <Route path="/wholesale-retail" element={<WholesaleAndRetail />} />
             <Route path="/stucco-work" element={<StuccoWork />} />
             <Route path="/custom-moulding" element={<CustomMoulding />} />
             <Route
