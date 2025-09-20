@@ -1,9 +1,7 @@
-import React from "react";
-import PhotoGallery from "../../components/PhotoGallery";
-import { custom } from "../../components/PhotoGallery/Gallery/constants";
+import PhotoGallery from "../../components/InfoContentAndGallery";
 
 const CustomMouldingPage = () => {
-  return <PhotoGallery pageName={"customMouldingPage"} imageList={custom} />;
+  return <PhotoGallery pageName={"customMouldingPage"} />;
 };
 
 export default CustomMouldingPage;

@@ -30,29 +30,7 @@ import IMG6f131f778228efd8929e31cdeb4f02f4 from "../../../assets/images/IMG-6f13
 import interior from "../../../assets/images/interior.jpg";
 import largeFr from "../../../assets/images/large_Fr 020.JPG";
 
-import Bog7 from "../../../assets/images/Bog7.webp";
-import DSC_1098 from "../../../assets/images/DSC_1098-_2_.webp";
-
-export const custom = [
-  {
-    id: shortid.generate(),
-    alt: "Custom Moulding",
-    src: Bog7,
-  },
-  {
-    id: shortid.generate(),
-    alt: "Custom Moulding",
-    src: DSC_1098,
-  },
-];
-export const specialFabrication = [
-  {
-    id: shortid.generate(),
-    alt: "special fabrication",
-    src: Bog7,
-  },
-];
-export const imagesPhotoGllery = [
+export const imagesPhotoGallery = [
   {
     id: shortid.generate(),
     alt: "gallery",

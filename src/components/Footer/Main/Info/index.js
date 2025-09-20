@@ -13,8 +13,10 @@ const Info = () => {
       <section>{translate?.footer?.info?.consultation}</section>
       <br></br>
       <section className="flex flex-col">
-        <a href="tel:+490000000">phone:+33333333</a>
-        <a href="mailto:webmaster@example.com">email:temlate@werwe.com</a>
+        <a href="tel:+491639252077">Phone: +491639252077</a>
+        <a href="mailto:stuckwerkstattvoitenko@gmail.com">
+          stuckwerkstattvoitenko@gmail.com
+        </a>
       </section>
       <br></br>
       <section>{translate?.footer?.info?.contactWithUs}</section>

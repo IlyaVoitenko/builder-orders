@@ -1,10 +1,13 @@
 import React from "react";
-import PhotoGallery from "../../components/PhotoGallery";
-import { imagesPhotoGllery } from "../../components/PhotoGallery/Gallery/constants";
+import PhotoGallery from "../../components/InfoContentAndGallery";
+import { imagesPhotoGallery } from "../../components/InfoContentAndGallery/Gallery/constants";
 
 const PhotoGalleryPage = () => {
   return (
-    <PhotoGallery pageName={"photoGalleryPage"} imageList={imagesPhotoGllery} />
+    <PhotoGallery
+      pageName={"photoGalleryPage"}
+      imageList={imagesPhotoGallery}
+    />
   );
 };
 

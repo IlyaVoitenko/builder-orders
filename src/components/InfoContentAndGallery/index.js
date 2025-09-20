@@ -6,7 +6,7 @@ import Loading from "../Loading";
 import { useSelector } from "react-redux";
 import { isLoadingSelector } from "../../store/selectors";
 
-const PhotoGallery = ({ pageName, imageList }) => {
+const InfoContentAndGallery = ({ pageName, imageList }) => {
   const isLoading = useSelector(isLoadingSelector);
   if (!isLoading) return <Loading />;
   return (
@@ -18,4 +18,4 @@ const PhotoGallery = ({ pageName, imageList }) => {
   );
 };
 
-export default PhotoGallery;
+export default InfoContentAndGallery;

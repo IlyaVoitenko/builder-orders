@@ -1,7 +1,7 @@
 import Title from "./Title";
 import Gallery from "../Gallery";
 import AdditionalСontent from "../AdditionalСontent";
-import Content from "../Main/Content";
+import Content from "./Content";
 import { Helmet } from "react-helmet-async"; // Ensure you have react-helmet-async installed
 import { useSelector } from "react-redux";
 import { translateSelector } from "../../../store/selectors"; // Adjust the import path as necessary
@@ -11,7 +11,11 @@ const Main = ({ pageName, imageList }) => {
   const { pathname } = useLocation();
 
   return (
-    <main className="flex flex-col  items-center justify-center text-left ">
+    <main
+      className={`flex flex-col ${
+        !imageList && "h-screen"
+      } items-center justify-start text-left pt-1 `}
+    >
       <Helmet>
         <title>
           Stuckwerkstatt Voitenko | {translate?.infoPages[pageName].title}

@@ -45,7 +45,7 @@ const Navigate = () => {
       <li>
         <nav>
           <Link to="/photo-gallery">
-            {translate?.header?.navigate?.fotogalery}
+            {translate?.header?.navigate?.photoGallery}
           </Link>
         </nav>
       </li>
