@@ -1,10 +1,10 @@
 import { translateSelector } from "../../../../store/selectors";
 import Category from "./Category";
 import { useSelector } from "react-redux";
-import { categories } from "./constants.data";
+// import { categories } from "./constants.data";
 
 const Categories = ({ isProductsCategoriesPage = false }) => {
-  const { internal } = categories;
+  // const { internal } = categories;
   const translate = useSelector(translateSelector);
   return (
     <div
@@ -18,7 +18,7 @@ const Categories = ({ isProductsCategoriesPage = false }) => {
         {translate?.productsCategory.title}
       </span>
       <Category
-        subcategories={internal}
+        // subcategories={internal}
         isProductsCategoriesPage={isProductsCategoriesPage}
         categoryTranslator={"internal"}
         titleCategory={"productsCategories.categories.internal.titleCategory"}

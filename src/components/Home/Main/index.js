@@ -39,8 +39,8 @@ const Main = () => {
         />
       </Helmet>
       <Context />
-      <Categories />
-      <Products />
+      {/* <Categories /> */}
+      {/* <Products /> */}
     </main>
   );
 };

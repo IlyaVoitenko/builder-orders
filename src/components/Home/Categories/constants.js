@@ -3,16 +3,11 @@ import TitleProducts from "./";
 import ProductsList from "../Products/ProductsList";
 import { useSelector } from "react-redux";
 
-import K6 from "../../../assets/images/K-006-300x300.png";
-import DS104 from "../../../assets/images/DS-104-2-300x300.png";
-import img102 from "../../../assets/images/102-2-300x300 (1).png";
-import RG6 from "../../../assets/images/RG006-600x601.png";
-
 import shortid from "shortid";
 export const categoriesList = [
   {
     id: shortid.generate(),
-    src: img102,
+    // src: img102,
     title: "EN-123",
     price: "€ 0.00",
     link: "/products-category",
@@ -21,7 +16,7 @@ export const categoriesList = [
   },
   {
     id: shortid.generate(),
-    src: K6,
+    // src: K6,
     title: "EN-123",
     price: "€ 0.00",
     link: "/products-category",
@@ -30,17 +25,17 @@ export const categoriesList = [
   },
   {
     id: shortid.generate(),
-    src: DS104,
+    // src: DS104,
     title: "EN-123",
     price: "€ 0.00",
     link: "/products-category",
     category: "internal",
-    subcategory: "ceilingmirror",
+    subcategory: "ceilingMirror",
   },
 
   {
     id: shortid.generate(),
-    src: RG6,
+    // src: RG6,
     title: "RG-6",
     price: "€ 260.00",
     link: "/products-category",

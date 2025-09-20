@@ -7,8 +7,8 @@ import "./App.css";
 
 const Home = lazy(() => import("./pages/HomePage"));
 const PhotoGallery = lazy(() => import("./pages/PhotoGalleryPage"));
-const ProductsCategories = lazy(() => import("./pages/ProductsCategoriesPage"));
-const Product = lazy(() => import("./pages/ProductPage"));
+// const ProductsCategories = lazy(() => import("./pages/ProductsCategoriesPage"));
+// const Product = lazy(() => import("./pages/ProductPage"));
 const StuccoWork = lazy(() => import("./pages/StuccoWork"));
 const CustomMoulding = lazy(() => import("./pages/CustomMouldingPage"));
 const SpecialFabrication = lazy(() => import("./pages/SpecialFabrication"));
@@ -23,8 +23,8 @@ function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="/photo-gallery" element={<PhotoGallery />} />
-            <Route path="/product/:nameProduct" element={<Product />} />
-            <Route path="/products-category" element={<ProductsCategories />} />
+            {/* <Route path="/product/:nameProduct" element={<Product />} /> */}
+            {/* <Route path="/products-category" element={<ProductsCategories />} /> */}
             <Route path="/stucco-work" element={<StuccoWork />} />
             <Route path="/custom-moulding" element={<CustomMoulding />} />
             <Route

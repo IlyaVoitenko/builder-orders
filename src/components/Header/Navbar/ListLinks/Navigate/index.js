@@ -30,7 +30,7 @@ const Navigate = () => {
           <Link to="/">{translate?.header?.navigate?.home}</Link>
         </nav>
       </li>
-      <li>
+      {/* <li>
         <DropMenu
           arr={serviceLinks}
           title={translate?.header?.navigate?.services}
@@ -41,7 +41,7 @@ const Navigate = () => {
           arr={productsLinks}
           title={translate?.header?.navigate?.products}
         />
-      </li>
+      </li> */}
       <li>
         <nav>
           <Link to="/photo-gallery">

@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import {
   setSelectedCategory,
   setProducts,
@@ -23,26 +23,18 @@ const SubcategoryItem = ({
   const selectedProduct = useSelector(selectedProductSelector);
   const navigate = useNavigate();
   useEffect(() => {
-    console.log(selectedCategory);
+    // console.log("selectedCategory", selectedCategory);
   }, [selectedCategory]);
-  console.log(
-    "selectedCategory",
-    selectedCategory,
-    "----------",
-    selectedProduct.type,
-    "----------",
-    item
-  );
 
-  if (selectedProduct.type === selectedCategory) {
-    console.log(true);
-  } else {
-    console.log(false);
+  if (selectedCategory === item) {
+    // console.log("selectedProduct:", selectedProduct.type);
+    console.log("selectedCategory :", selectedCategory);
+    console.log("item", item);
   }
   return (
     <div
       className={`text-left pl-5 cursor-pointer
-      ${selectedProduct.type === item ? "text-blue-600" : ""}
+      ${selectedCategory === item ? "text-blue-600" : ""}
       `}
       onClick={() => {
         dispatch(setSelectedCategory(item));

@@ -9,8 +9,6 @@ const Navigation = ({ category, subcategory, nameProduct }) => {
   const home = translate?.header.navigate.home;
   const toLowerCaseSubcategory = subcategory?.toLowerCase();
   const validSubcategory = validationCategoryName(toLowerCaseSubcategory);
-  console.log(translate, "translate");
-  console.log("category", category, "-----", validSubcategory);
   return (
     <nav className="flex justify-center	">
       <Link to="/" className="pr-1 pl-1">

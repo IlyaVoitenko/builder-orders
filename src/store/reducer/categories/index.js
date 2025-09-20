@@ -1,10 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { categories } from "../../../components/ProductsCategories/MainProducts/Categories/constants.data";
+// import { categories } from "../../../components/ProductsCategories/MainProducts/Categories/constants.data";
 
 const initialState = {
   selectedProduct: {},
   selectedCategory: "internal",
-  products: [...categories.internal.internal],
+  // products: [...categories.internal.internal],
 };
 
 export const categoriesSlice = createSlice({
@@ -12,7 +12,7 @@ export const categoriesSlice = createSlice({
   initialState,
   reducers: {
     setProducts: (state, action) => {
-      state.products = [...categories[action.payload][state.selectedCategory]];
+      // state.products = [...categories[action.payload][state.selectedCategory]];
     },
     setSelectedProduct: (state, action) => {
       state.selectedProduct = action.payload;

@@ -17,14 +17,14 @@ const ItemProduct = ({ item }) => {
       }}
     >
       <figure className="flex flex-col  mt-5  ">
-        <img
+        {/* <img
           src={item.src}
           className=" max-w-[300px] max-h-[300px] object-contain"
           alt="product"
-        />
-        <figcaption className="text-left mt-3 font-bold text-blue-500">
+        /> */}
+        {/* <figcaption className="text-left mt-3 font-bold text-blue-500">
           {item.title}
-        </figcaption>
+        </figcaption> */}
         <p className="text-left mt-3">{item.price}</p>
       </figure>
     </Link>
